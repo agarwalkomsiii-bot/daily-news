@@ -1,0 +1,36 @@
+name: Daily News Update
+
+on:
+  schedule:
+    # Runs at 01:30 UTC every day = 7:00 AM IST
+    - cron: '30 1 * * *'
+  workflow_dispatch: # lets you trigger it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch news and build site
+        run: python fetch_news.py
+
+      - name: Commit and push updated site
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add index.html data/news.json
+          git diff --quiet && git diff --staged --quiet || git commit -m "Auto-update news: $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
