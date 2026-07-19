@@ -19,7 +19,6 @@ from datetime import datetime, timezone
 # 1. CONFIGURE YOUR SOURCES HERE
 # ---------------------------------------------------------------------------
 # Add, remove, or swap feeds freely. Format: ("Source Name", "RSS URL")
-# To change the "local" country, just replace the feeds under "India".
 
 FEEDS = {
     "World": [
@@ -31,6 +30,21 @@ FEEDS = {
         ("Times of India", "https://timesofindia.indiatimes.com/rssfeedstopstories.cms"),
         ("The Hindu", "https://www.thehindu.com/news/national/feeder/default.rss"),
         ("NDTV", "https://feeds.feedburner.com/ndtvnews-top-stories"),
+    ],
+    "Business": [
+        ("BBC Business", "http://feeds.bbci.co.uk/news/business/rss.xml"),
+        ("Economic Times", "https://economictimes.indiatimes.com/rssfeedstopstories.cms"),
+        ("Livemint", "https://www.livemint.com/rss/news"),
+    ],
+    "Technology": [
+        ("BBC Technology", "http://feeds.bbci.co.uk/news/technology/rss.xml"),
+        ("TechCrunch", "https://techcrunch.com/feed/"),
+        ("Gadgets360", "https://www.gadgets360.com/rss/news"),
+    ],
+    "Sports": [
+        ("BBC Sport", "http://feeds.bbci.co.uk/sport/rss.xml"),
+        ("ESPN Cricinfo", "https://www.espncricinfo.com/rss/content/story/feeds/0.xml"),
+        ("NDTV Sports", "https://feeds.feedburner.com/ndtvsports-latest"),
     ],
 }
 
