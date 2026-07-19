@@ -32,6 +32,20 @@ FEEDS = {
         ("The Hindu", "https://www.thehindu.com/news/national/feeder/default.rss"),
         ("NDTV", "https://feeds.feedburner.com/ndtvnews-top-stories"),
     ],
+    "Technology": [
+       ("BBC Technology", "http://feeds.bbci.co.uk/news/technology/rss.xml"),
+       ("The Verge", "https://www.theverge.com/rss/index.xml"),
+       ("TechCrunch", "https://techcrunch.com/feed/"),
+   ],
+    "Sports": [
+       ("BBC Sport", "http://feeds.bbci.co.uk/sport/rss.xml"),
+       ("ESPN", "https://www.espn.com/espn/rss/news"),
+   ],
+    "Business": [
+       ("BBC Business", "http://feeds.bbci.co.uk/news/business/rss.xml"),
+       ("Reuters Business" ... skip, they discontinued RSS),
+       ("Economic Times", "https://economictimes.indiatimes.com/rssfeedstopstories.cms"),
+   ],
 }
 
 MAX_ITEMS_PER_FEED = 6
