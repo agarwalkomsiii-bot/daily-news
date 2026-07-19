@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19 14:13",
+  "generated_at": "2026-07-19 14:19",
   "data": {
     "World": [
       {
@@ -8,13 +8,6 @@
         "link": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "published": "2026-07-19T14:00:03+00:00"
-      },
-      {
-        "title": "Lebanon convicts influencer of smuggling drugs in biscuits",
-        "summary": "Lebanese food influencer Georges Dib, known as Dr Food, has been sentenced in absentia to life with hard labour.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/lebanon-convicts-influencer-of-smuggling-drugs-in-biscuits?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-07-19T13:56:18+00:00"
       },
       {
         "title": "Why were Andrew and Tristan Tate arrested? Will they be extradited to UK?",
@@ -73,6 +66,13 @@
         "published": "2026-07-19T11:28:24+00:00"
       },
       {
+        "title": "FIFA World Cup: Tobin Heath on record goals, France and Lamine Yamal",
+        "summary": "In an exclusive interview, Tobin Heath shares her insights before World Cup final and discusses best players and teams.",
+        "link": "https://www.aljazeera.com/sports/2026/7/19/tobin-heath-fifa-world-cup-2026-football-analysis-players-teams-tournament?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-07-19T11:21:52+00:00"
+      },
+      {
         "title": "Cuban dissident Luis Manuel Otero Alcántara goes into exile in US",
         "summary": "He was arrested in 2021 during Cuba's largest anti-government protests in decades and spent five years ⁠in prison.",
         "link": "https://www.bbc.co.uk/news/articles/cx2k77p2r1xo?at_medium=RSS&at_campaign=rss",
@@ -89,46 +89,60 @@
     ],
     "India": [
       {
-        "title": "CPI urges talks with Sonam Wangchuk, demands Dharmendra Pradhan’s resignation",
+        "title": "Sonam Wangchuk hunger strike LIVE: Delhi Police say ‘no permission sought or granted’ for July 20 Parliament protest march",
+        "summary": "“Sonam’s health is fine, there was no need for Government intervention,” says his wife Gitanjali Angmo after Delhi High Court declines interim relief on hospital transfer",
+        "link": "https://www.thehindu.com/news/national/cjp-sonam-wangchuk-2026-protest-cockroach-janata-party-abhijeet-dipke-hunger-strike-july-19-2026-updates/article71240515.ece",
+        "source": "The Hindu",
+        "published": "2026-07-19T14:14:43+00:00"
+      },
+      {
+        "title": "Vallasadya season begins at Aranmula",
+        "summary": "Oarsmen aboard 10 palliyodams arrived at the temple ghats to a rousing welcome on the opening day",
+        "link": "https://www.thehindu.com/news/national/kerala/vallasadya-season-begins-at-aranmula/article71241418.ece",
+        "source": "The Hindu",
+        "published": "2026-07-19T14:14:36+00:00"
+      },
+      {
+        "title": "Prioritise State’s interests in Parliament, CPI(M) urges TDP and YSRCP MPs",
+        "summary": "Highlight the crisis faced by tobacco, maize, mango and aquaculture farmers, and seek solutions from the Union government, it suggests",
+        "link": "https://www.thehindu.com/news/national/andhra-pradesh/prioritise-states-interests-in-parliament-cpim-urges-tdp-and-ysrcp-mps/article71241549.ece",
+        "source": "The Hindu",
+        "published": "2026-07-19T14:14:23+00:00"
+      },
+      {
+        "title": "Man found murdered in Kozhikode",
+        "summary": "Involvement of drug addicts suspected based on the statements of some of the local residents in the area",
+        "link": "https://www.thehindu.com/news/cities/kozhikode/man-found-murdered-in-kozhikode/article71240744.ece",
+        "source": "The Hindu",
+        "published": "2026-07-19T14:11:56+00:00"
+      },
+      {
+        "title": "ICFAI faculty member selected for global sustainability fellowship",
         "summary": "",
-        "link": "https://www.thehindu.com/news/national/andhra-pradesh/cpi-urges-talks-with-sonam-wangchuk-demands-dharmendra-pradhans-resignation/article71241516.ece",
+        "link": "https://www.thehindu.com/news/cities/Hyderabad/icfai-faculty-member-selected-for-global-sustainability-fellowship/article71241713.ece",
         "source": "The Hindu",
-        "published": "2026-07-19T14:08:56+00:00"
+        "published": "2026-07-19T14:11:50+00:00"
       },
       {
-        "title": "Forum seeks expert review before Korapuzha dredging resumes",
-        "summary": "The environmental organisation calls for the constitution of an expert committee, including a marine ecologist and a representative of residents, to evaluate the proposal to deepen the estuary before any further…",
-        "link": "https://www.thehindu.com/news/national/kerala/spek-seeks-expert-review-before-korapuzha-dredging-resumes/article71241047.ece",
+        "title": "DUK partners with HEX20 to launch hands-on educational programme in satellite technology",
+        "summary": "The initiative aims at providing selected students from India and abroad with immersive training in the design, assembly, integration and testing of satellite subsystems",
+        "link": "https://www.thehindu.com/news/national/kerala/duk-partners-with-hex20-to-launch-hands-on-educational-programme-in-satellite-technology/article71241534.ece",
         "source": "The Hindu",
-        "published": "2026-07-19T14:08:52+00:00"
+        "published": "2026-07-19T14:11:16+00:00"
       },
       {
-        "title": "CJP protest in Bengaluru urges more participation, sustained questioning",
-        "summary": "While the protest centred around the NEET paper leak and what the movement termed a “deteriorating democratic system”, it went beyond that agenda on July 19",
-        "link": "https://www.thehindu.com/news/cities/bangalore/cjp-protest-in-bengaluru-urges-more-participation-sustained-questioning/article71240946.ece",
-        "source": "The Hindu",
-        "published": "2026-07-19T14:06:33+00:00"
+        "title": "Centre To Table Bill To Make \"Insult\" To 'Vande Mataram' Criminal Offence",
+        "summary": "The bill seeks to give 'Vande Mataram' the same protection as the national anthem. (Representational)",
+        "link": "https://www.ndtv.com/india-news/centre-to-table-bill-to-make-insult-to-vande-mataram-criminal-offence-11792440#publisher=newsstand",
+        "source": "NDTV",
+        "published": "2026-07-19T14:05:42+00:00"
       },
       {
-        "title": "Former Rajya Sabha member releases book on Rayalaseema farmers’ struggle",
-        "summary": "Releasing the book, T.G. Venkatesh says that such literary works, which highlight the hardships of farmers and the issues faced by the people of the Rayalaseema region, foster greater public awareness",
-        "link": "https://www.thehindu.com/news/national/andhra-pradesh/former-rajya-sabha-member-releases-book-on-rayalaseema-farmers-struggle/article71241457.ece",
-        "source": "The Hindu",
-        "published": "2026-07-19T14:05:06+00:00"
-      },
-      {
-        "title": "Mass transit proposal for Mysuru under review",
-        "summary": "",
-        "link": "https://www.thehindu.com/news/national/karnataka/mass-transit-proposal-for-mysuru-under-review/article71241427.ece",
-        "source": "The Hindu",
-        "published": "2026-07-19T14:04:27+00:00"
-      },
-      {
-        "title": "Infra works costing ₹1 crore sanctioned by Deputy CM Pawan Kalyan completed in ASR district",
-        "summary": "The works include anganwadi centers, drinking water provision and cement concrete roads done with funds drawn from VB-G RAM G scheme",
-        "link": "https://www.thehindu.com/news/national/andhra-pradesh/infra-works-costing-1-crore-sanctioned-by-deputy-cm-pawan-kalyan-completed-in-asr-district/article71241577.ece",
-        "source": "The Hindu",
-        "published": "2026-07-19T14:04:05+00:00"
+        "title": "'Months of torture': Bengaluru woman dies by suicide after 'dowry harassment'",
+        "summary": "A 31-year-old woman allegedly died by suicide after enduring dowry harassment. Her husband and father-in-law are accused of causing her distress. The deceased's father filed a complaint with the police regarding the…",
+        "link": "https://timesofindia.indiatimes.com/city/bengaluru/months-of-torture-bengaluru-woman-dies-by-suicide-after-dowry-harassment-husband-father-in-law-arrested/articleshow/132495535.cms",
+        "source": "Times of India",
+        "published": "2026-07-19T13:52:41+00:00"
       },
       {
         "title": "Iran's shadow fleet rushed $6 billion of oil to China during brief US truce: Report",
@@ -145,32 +159,276 @@
         "published": "2026-07-19T13:41:43+00:00"
       },
       {
-        "title": "Maharashtra allows restaurants, hotels to stay open till 4am for FIFA World Cup final",
-        "summary": "Maharashtra eateries can now stay open until 4 am on July 20. This allows football fans to watch the Argentina-Spain World Cup final publicly. Hospitality bodies had requested this extension for licensed establishments.…",
-        "link": "https://timesofindia.indiatimes.com/city/mumbai/maharashtra-allows-restaurants-hotels-to-stay-open-till-4am-for-fifa-world-cup-final/articleshow/132495221.cms",
-        "source": "Times of India",
-        "published": "2026-07-19T13:33:27+00:00"
-      },
-      {
-        "title": "'Carry Tiranga, no political flags': CJP releases do's & don'ts for 'Chalo Sansad' march",
-        "summary": "The Cockroach Janta Party released guidelines for the 'Chalo Sansad' march. Participants are urged to maintain peace and carry national symbols. Activist Sonam Wangchuk called the march India's second freedom movement.…",
-        "link": "https://timesofindia.indiatimes.com/city/delhi/carry-tiranga-avoid-political-flags-cjp-releases-dos-and-donts-for-chalo-sansad-march/articleshow/132495045.cms",
-        "source": "Times of India",
-        "published": "2026-07-19T13:26:27+00:00"
-      },
-      {
-        "title": "Decomposed body of med student found inside Bengaluru house; foul smell alerts family",
-        "summary": "A 20-year-old paramedical student was found dead in his Bengaluru home. His parents discovered his decomposed body hanging in his room on Friday. The student, Udhay Gowda, had last been seen four days prior. Police…",
-        "link": "https://timesofindia.indiatimes.com/city/bengaluru/decomposed-body-of-paramedical-student-found-inside-bengaluru-house-foul-smell-alerts-family/articleshow/132494711.cms",
-        "source": "Times of India",
-        "published": "2026-07-19T12:55:39+00:00"
-      },
-      {
-        "title": "16 Killed In Rain-Related Incidents Amid Monsoon Fury In North, East India",
-        "summary": "IMD forecast active monsoon conditions in north, east and northeast India for the next 6-7 days",
-        "link": "https://www.ndtv.com/india-news/16-killed-in-rain-related-incidents-amid-monsoon-fury-in-north-east-india-11792224#publisher=newsstand",
+        "title": "Man Stabs Wife To Death With Scissors In Delhi, Arrested From Moradabad",
+        "summary": "The continuous technical surveillance traced the accused. (Representational)",
+        "link": "https://www.ndtv.com/india-news/man-stabs-wife-to-death-with-scissors-in-delhi-arrested-from-moradabad-11792360#publisher=newsstand",
         "source": "NDTV",
-        "published": "2026-07-19T12:51:48+00:00"
+        "published": "2026-07-19T13:41:11+00:00"
+      },
+      {
+        "title": "FIFA World Cup Final: Kerala Schools, Colleges To Remain Closed Tomorrow",
+        "summary": "The final is scheduled to kick off at 12.30 am IST on Monday.",
+        "link": "https://www.ndtv.com/india-news/fifa-world-cup-final-kerala-schools-colleges-to-remain-closed-tomorrow-11792343#publisher=newsstand",
+        "source": "NDTV",
+        "published": "2026-07-19T13:36:06+00:00"
+      }
+    ],
+    "Business": [
+      {
+        "title": "US envoy dismisses Zohran Mamdani’s threat to arrest Netanyahu in New York as ‘pure political theater’",
+        "summary": "Waltz said the mayor has no legal authority to detain a visiting foreign leader protected under international agreements.",
+        "link": "https://www.livemint.com/news/us-news/us-envoy-dismisses-zohran-mamdani-s-threat-to-arrest-netanyahu-in-new-york-as-pure-political-theater-11784468142775.html",
+        "source": "Livemint",
+        "published": "2026-07-19T13:49:54+00:00"
+      },
+      {
+        "title": "Iranian Foreign Minister Araghchi says security breach behind bombing of Ali Khamenei’s residence ‘may still exist’",
+        "summary": "Araghchi said the February 28 strike was made possible because attackers had precise knowledge of Khamenei's schedule and the high-level meetings taking place at the compound.",
+        "link": "https://www.livemint.com/news/world/iranian-foreign-minister-araghchi-says-security-breach-behind-bombing-of-ali-khamenei-s-residence-may-still-exist-11784466513161.html",
+        "source": "Livemint",
+        "published": "2026-07-19T13:20:04+00:00"
+      },
+      {
+        "title": "2 flats, ₹80K monthly rent yet this heart attack survivor from Bihar drives Uber 12 hours a day — here's why | Video",
+        "summary": "Seth said the man had the option to stop working as he also has ancestral property in Bihar. However, he chose to continue driving an Uber from 10 am to 10 pm, earning an additional ₹50,000 per month.",
+        "link": "https://www.livemint.com/news/trends/2-flats-80k-monthly-rent-yet-this-heart-attack-survivor-from-bihar-drives-uber-12-hours-a-day-heres-why-video-11784461506371.html",
+        "source": "Livemint",
+        "published": "2026-07-19T13:14:46+00:00"
+      },
+      {
+        "title": "Dosa shop owner earning ₹1 lakh a month is 'rich'? Internet says, 'In India, ₹80K/month job is respectable...'",
+        "summary": "During the interview, the owner said the restaurant enjoyed strong business soon after it opened, with monthly revenue reaching ₹12-13 lakh as customer demand grew.",
+        "link": "https://www.livemint.com/news/trends/dosa-shop-owner-earning-1-lakh-a-month-is-rich-internet-says-in-india-80k-month-job-is-respectable-11784463183095.html",
+        "source": "Livemint",
+        "published": "2026-07-19T13:09:04+00:00"
+      },
+      {
+        "title": "Over 850 Punjab govt school students crack NEET",
+        "summary": "",
+        "link": "https://economictimes.indiatimes.com/news/india/over-850-students-crack-neet-from-punjab-government-schools/articleshow/132494966.cms",
+        "source": "Economic Times",
+        "published": "2026-07-19T13:03:04+00:00"
+      },
+      {
+        "title": "Manipur shuts schools for FIFA World Cup final",
+        "summary": "",
+        "link": "https://economictimes.indiatimes.com/news/india/manipur-declares-holiday-for-schools-and-colleges-to-celebrate-fifa-world-cup-2026-final/articleshow/132494186.cms",
+        "source": "Economic Times",
+        "published": "2026-07-19T12:05:09+00:00"
+      },
+      {
+        "title": "US pumps up Israel’s jet fuel as Iran attacks rise",
+        "summary": "",
+        "link": "https://economictimes.indiatimes.com/news/defence/israel-to-receive-more-us-refuelling-planes-as-iran-attacks-intensify-israeli-officials-say/articleshow/132494192.cms",
+        "source": "Economic Times",
+        "published": "2026-07-19T12:02:40+00:00"
+      },
+      {
+        "title": "Laid off after 10 years at PayPal, man lands Visa job after final interview on his 40th birthday",
+        "summary": "Vũ said he initially took a week to process the lay-off before beginning an intensive job search. Over the following 16 months, he submitted more than 6,000 applications to over 2,000 companies and attended dozens of…",
+        "link": "https://www.livemint.com/news/trends/laid-off-after-10-years-at-paypal-man-lands-visa-job-after-final-interview-on-his-40th-birthday-11784459354374.html",
+        "source": "Livemint",
+        "published": "2026-07-19T11:48:17+00:00"
+      },
+      {
+        "title": "Sonam Wangchuk's Safardjung hospitalisation decision right: Delhi HC on Gitanjali's Medanta transfer plea—What it said",
+        "summary": "The Delhi High Court denied activist Sonam Wangchuk's discharge from Safdarjung Hospital, stating the government's decision to move him was not arbitrary. The court observed that there was no violation of his right to…",
+        "link": "https://www.livemint.com/news/india/sonam-wangchuks-safardjung-hospitalisation-decision-right-delhi-hc-on-gitanjalis-medanta-transfer-plea-what-it-said-11784457272114.html",
+        "source": "Livemint",
+        "published": "2026-07-19T11:39:22+00:00"
+      },
+      {
+        "title": "'Govt afraid of Sonam Wangchuk's march': Angmo",
+        "summary": "",
+        "link": "https://economictimes.indiatimes.com/news/india/govt-afraid-of-sonam-wangchuks-march-wife-angmo-says-centres-health-concerns-are-charade/articleshow/132493534.cms",
+        "source": "Economic Times",
+        "published": "2026-07-19T11:32:21+00:00"
+      },
+      {
+        "title": "US renews strikes on Iran after troops killed",
+        "summary": "",
+        "link": "https://economictimes.indiatimes.com/news/defence/us-renews-strikes-on-iran-after-two-military-personnel-killed-by-iranian-attack/articleshow/132493396.cms",
+        "source": "Economic Times",
+        "published": "2026-07-19T11:05:39+00:00"
+      },
+      {
+        "title": "Chinese firm seeks compensation over British Steel nationalisation",
+        "summary": "Jingye said it will take action \"through legal means to the very end\" after the UK government nationalised British Steel.",
+        "link": "https://www.bbc.co.uk/news/articles/cwyj4ppqn41o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "published": "2026-07-19T10:59:07+00:00"
+      }
+    ],
+    "Technology": [
+      {
+        "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
+        "summary": "Current AI, a non-profit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat and more.",
+        "link": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+        "source": "TechCrunch",
+        "published": "2026-07-19T14:00:00+00:00"
+      },
+      {
+        "title": "Waymo says San Francisco service has resumed after one-hour pause",
+        "summary": "This isn’t the first time power outages have caused issues for Waymo.",
+        "link": "https://techcrunch.com/2026/07/18/waymo-appears-to-pause-san-francisco-service-amidst-power-outage/",
+        "source": "TechCrunch",
+        "published": "2026-07-18T19:30:23+00:00"
+      },
+      {
+        "title": "Kimi: Threat or menace?",
+        "summary": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
+        "link": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+        "source": "TechCrunch",
+        "published": "2026-07-18T18:51:07+00:00"
+      },
+      {
+        "title": "All the EVs that were discontinued or killed off in the U.S. this year",
+        "summary": "Th Honda Prologue will no longer be sold in the U.S., joining a growing list of EV models to exit the market this year.",
+        "link": "https://techcrunch.com/2026/07/18/all-the-evs-that-were-discontinued-or-killed-off-in-the-u-s-this-year/",
+        "source": "TechCrunch",
+        "published": "2026-07-18T16:30:00+00:00"
+      },
+      {
+        "title": "Federal employees can download TikTok on their work phones again",
+        "summary": "The Department of Justice says that federal employees can now download TikTok on their government devices.",
+        "link": "https://techcrunch.com/2026/07/18/federal-employees-can-download-tiktok-on-their-work-phones-again/",
+        "source": "TechCrunch",
+        "published": "2026-07-18T15:54:24+00:00"
+      },
+      {
+        "title": "A 600-mile road trip (and data) proves EV charging doesn’t suck anymore",
+        "summary": "A recent road trip in an EV revealed just how much faster and more reliable DC Fast charging has become in the U.S.",
+        "link": "https://techcrunch.com/2026/07/18/a-600-mile-road-trip-and-data-proves-ev-charging-doesnt-suck-anymore/",
+        "source": "TechCrunch",
+        "published": "2026-07-18T14:32:00+00:00"
+      },
+      {
+        "title": "China's Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic",
+        "summary": "The company has unveiled a massive new artificial intelligence model it says can take on top American firms.",
+        "link": "https://www.bbc.co.uk/news/articles/cy9w4q8pgp0o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Technology",
+        "published": "2026-07-17T16:53:04+00:00"
+      },
+      {
+        "title": "Trump Media to sell instant access to 'market-moving' social posts",
+        "summary": "Trump Media is launching a fast, paid feed to its most influential posts for Wall Street traders.",
+        "link": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Technology",
+        "published": "2026-07-17T07:25:31+00:00"
+      },
+      {
+        "title": "TikTok faces Ofcom investigation over child age checks",
+        "summary": "It follows a review by the regulator in May that criticised the platform for not being \"safe enough\" for children.",
+        "link": "https://www.bbc.co.uk/news/articles/ce8l1zk9dk9o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Technology",
+        "published": "2026-07-16T11:08:33+00:00"
+      },
+      {
+        "title": "Teen hackers who live streamed cyber-attack on TfL jailed",
+        "summary": "Owen Flowers and Thalha Jubair were convicted for their roles in the attack, which led to large costs for Transport for London.",
+        "link": "https://www.bbc.co.uk/news/articles/c4gyg0y6yg2o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Technology",
+        "published": "2026-07-16T10:52:26+00:00"
+      },
+      {
+        "title": "SpaceX share price drops below stock market debut",
+        "summary": "Share trading in Elon Musk’s rocket company has been volatile since it went public a month ago.",
+        "link": "https://www.bbc.co.uk/news/articles/clyl33q0yl0o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Technology",
+        "published": "2026-07-15T18:11:57+00:00"
+      },
+      {
+        "title": "Midnight social media curfew proposed for UK teens aged 16 and 17",
+        "summary": "The government says it will improve teenagers' lives but campaigners call it a \"missed opportunity\".",
+        "link": "https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Technology",
+        "published": "2026-07-15T11:24:29+00:00"
+      }
+    ],
+    "Sports": [
+      {
+        "title": "New Zealand bowl with Mitchell injured; West Indies make four changes",
+        "summary": "Greaves, Jangoo, Forde, and Seales replaced Campbell, Hetmyer, Paul and Pierre",
+        "link": "https://www.cricinfo.com/ci/content/story/1546240.html?ex_cid=OTC-RSS",
+        "source": "ESPN Cricinfo",
+        "published": "2026-07-19T14:13:21+00:00"
+      },
+      {
+        "title": "Patience, power, perfection - Duckett's record-breaking innings",
+        "summary": "Ben Duckett rewrites the record books as he scores 141 in the third and final One Day International against India, the highest score by any men's batter in an ODI at Lord's, beating the previous record of 138, set by…",
+        "link": "https://www.bbc.co.uk/sport/cricket/videos/cj9dnek1m2do?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "published": "2026-07-19T14:09:46+00:00"
+      },
+      {
+        "title": "India vs England LIVE Score, 3rd ODI: Virat Kohli Takes Stunning Catch As Harry Brook Departs, England 3 Down",
+        "summary": "IND vs ENG LIVE Score, India vs England 3rd ODI Scorecard LIVE Updates",
+        "link": "https://sports.ndtv.com/cricket/india-vs-england-3rd-odi-live-score-ind-vs-eng-match-scorecard-live-updates-rohit-sharma-virat-kohli-shubman-gill-11791122#publisher=newsstand",
+        "source": "NDTV Sports",
+        "published": "2026-07-19T13:38:32+00:00"
+      },
+      {
+        "title": "Zimbabwe opt to bat in series decider",
+        "summary": "Bangladesh were without Nahid Rana, who suffered a side strain on Friday",
+        "link": "https://www.cricinfo.com/ci/content/story/1546207.html?ex_cid=OTC-RSS",
+        "source": "ESPN Cricinfo",
+        "published": "2026-07-19T13:30:03+00:00"
+      },
+      {
+        "title": "\"One Can Only Feel Bad\": R Ashwin Slams India's Playing XI Call Against England",
+        "summary": "Indian cricket team in action during 3rd ODI against England",
+        "link": "https://sports.ndtv.com/cricket/one-can-only-feel-bad-r-ashwin-slams-indias-playing-xi-call-against-england-11792322#publisher=newsstand",
+        "source": "NDTV Sports",
+        "published": "2026-07-19T13:28:22+00:00"
+      },
+      {
+        "title": "\"Lionel Messi Will Reclaim Record\": Kylian Mbappe's Stunning Remark Ahead Of FIFA World Cup 2026 Final",
+        "summary": "Lionel Messi in action for Argentina at FIFA World Cup 2026",
+        "link": "https://sports.ndtv.com/football/lionel-messi-will-reclaim-record-kylian-mbappes-stunning-remark-ahead-of-fifa-world-cup-2026-final-11791928#publisher=newsstand",
+        "source": "NDTV Sports",
+        "published": "2026-07-19T12:38:26+00:00"
+      },
+      {
+        "title": "Europe Human Rights Body Questions Integrity Of FIFA World Cup 2026: \"Money And Power\"",
+        "summary": "Representational image",
+        "link": "https://sports.ndtv.com/football/europe-human-rights-body-questions-integrity-of-fifa-world-cup-2026-money-and-power-11791948#publisher=newsstand",
+        "source": "NDTV Sports",
+        "published": "2026-07-19T12:20:02+00:00"
+      },
+      {
+        "title": "FIFA World Cup Final Fever Grips Kerala As Government Announces Holiday On Monday",
+        "summary": "Argentina will take on Spain in the final",
+        "link": "https://sports.ndtv.com/football/fifa-world-cup-final-fever-grips-kerala-as-government-announces-holiday-on-monday-11791766#publisher=newsstand",
+        "source": "NDTV Sports",
+        "published": "2026-07-19T12:06:35+00:00"
+      },
+      {
+        "title": "PV Sindhu Feels Blessed As She Clinches Japan Open Title During 'Jagannath Rath Yatra",
+        "summary": "PV Sindhu in action",
+        "link": "https://sports.ndtv.com/badminton/pv-sindhu-feels-blessed-as-she-clinches-japan-open-title-during-jagannath-rath-yatra-11791670#publisher=newsstand",
+        "source": "NDTV Sports",
+        "published": "2026-07-19T12:01:27+00:00"
+      },
+      {
+        "title": "Manjot Kalra denies fixing allegations in LPL 2026",
+        "summary": "Former India Under-19 player Manjot Kalra has been remanded until July 31 in Colombo",
+        "link": "https://www.cricinfo.com/ci/content/story/1546194.html?ex_cid=OTC-RSS",
+        "source": "ESPN Cricinfo",
+        "published": "2026-07-19T10:22:45+00:00"
+      },
+      {
+        "title": "'Legend' or 'regrets'? A final that will define Lamine Yamal's World Cup",
+        "summary": "Lamine Yamal may not have had a sparkling World Cup but victory for Spain in Sunday's World Cup final would write a very different narrative.",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cdx8r45w2gzo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "published": "2026-07-19T10:11:29+00:00"
+      },
+      {
+        "title": "Bumrah misses Lord's decider with injury; England bring in Tongue and bat",
+        "summary": "KL Rahul, Arshdeep Singh and Prince Yadav come in for India; England leave out Saqib Mahmood in favour of Josh Tongue",
+        "link": "https://www.cricinfo.com/ci/content/story/1546193.html?ex_cid=OTC-RSS",
+        "source": "ESPN Cricinfo",
+        "published": "2026-07-19T10:10:00+00:00"
       }
     ]
   }
