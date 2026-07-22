@@ -1,271 +1,306 @@
 {
-  "generated_at": "2026-07-21 10:33",
+  "generated_at": "2026-07-22 10:09",
   "data": {
     "World": [
       {
-        "title": "Healthy diet too expensive for one in three people globally, UN report finds",
-        "summary": "Global hunger declined for the third year in a row in 2025 but experts call for action to bring down costs of fruit, vegetables and dairy as report shows 2.69bn people can’t afford to eat well One in three people cannot…",
-        "link": "https://www.theguardian.com/global-development/2026/jul/21/healthy-diet-too-expensive-for-one-in-three-people-globally-un-report-finds",
+        "title": "Ukrainian drones hit more sites of Russian online retailer Wildberries",
+        "summary": "Logistics hubs belonging to Wildberries in the Krasnodar and Stavropol regions were struck overnight.",
+        "link": "https://www.bbc.co.uk/news/articles/c36de9n4pxpo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "2026-07-22T10:00:04+00:00"
+      },
+      {
+        "title": "Russia reports injuries after top online retailer Wildberries hit again",
+        "summary": "Company CEO says logistics centres in Krasnodar and Nevinnomyssk evacuated days after workers killed in earlier attack.",
+        "link": "https://www.aljazeera.com/news/2026/7/22/russia-reports-injuries-after-top-online-retailer-wildberries-hit-again?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-07-22T09:30:59+00:00"
+      },
+      {
+        "title": "Ossoff challenges Hegseth on cost and duration of Iran war",
+        "summary": "Ossoff challenges Hegseth on cost and duration of Iran war",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/ossoff-challenges-hegseth-on-cost-and-duration-of-iran-war?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-07-22T09:30:08+00:00"
+      },
+      {
+        "title": "Al Jazeera reports from anti-US protest outside ASEAN summit",
+        "summary": "Al Jazeera reports from anti-US protest outside ASEAN summit",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/al-jazeera-reports-from-anti-us-protest-outside-asean-summit?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-07-22T08:59:55+00:00"
+      },
+      {
+        "title": "Iran, Gulf hit as Hormuz, Bab al-Mandeb close: What’s the latest?",
+        "summary": "Defense Secretary Pete Hegseth tells US senators that the war has cost the US $37.5bn so far.",
+        "link": "https://www.aljazeera.com/news/2026/7/22/iran-gulf-hit-as-hormuz-bab-al-mandeb-close-whats-the-latest?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-07-22T08:43:26+00:00"
+      },
+      {
+        "title": "Mexico goalkeeper Guillermo Ochoa retires after 22-year career",
+        "summary": "The 41-year-old, who played in six FIFA World Cups, announces he will retire from both club and country.",
+        "link": "https://www.aljazeera.com/sports/2026/7/22/mexico-goalkeeper-guillermo-ochoa-retires-after-22-year-career?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-07-22T08:38:59+00:00"
+      },
+      {
+        "title": "Chelsea signs Morgan Rogers from Aston Villa in record British deal",
+        "summary": "The 23-year-old Rogers, one of the Premier League's top attacking talents, has signed a contract until 2033.",
+        "link": "https://www.aljazeera.com/sports/2026/7/22/chelsea-sign-morgan-rogers-from-aston-villa-in-record-british-deal?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-07-22T08:08:08+00:00"
+      },
+      {
+        "title": "India's Modi government under growing pressure as 'cockroach' protests intensify",
+        "summary": "The CJP got a boost on Tuesday when the opposition Congress party demonstrated outside the PM's house.",
+        "link": "https://www.bbc.co.uk/news/articles/c9d8p88lyjdo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "2026-07-22T08:02:04+00:00"
+      },
+      {
+        "title": "Zelensky sacks Ukraine's top army commander after days of protests",
+        "summary": "Oleksandr Syrskyi is dismissed after backlash over the removal of popular Defence Minister Mykhailo Fedorov.",
+        "link": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "2026-07-22T05:37:43+00:00"
+      },
+      {
+        "title": "France passes law banning under-15s from social media",
+        "summary": "The law will require social media platforms in France to verify all users age from January.",
+        "link": "https://www.bbc.co.uk/news/articles/cq56l9p4y93o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "2026-07-22T03:50:55+00:00"
+      },
+      {
+        "title": "Iran war has cost US $37.5bn so far, Hegseth says, as Pentagon seeks billions more",
+        "summary": "The hearing was disrupted by protests and a shouting match as Hegseth testified at a pivotal time in the war.",
+        "link": "https://www.bbc.co.uk/news/articles/c70gek2kqyno?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "2026-07-22T02:15:05+00:00"
+      },
+      {
+        "title": "Trump announces new tariffs on generic drugs to take effect in 2028 – as it happened",
+        "summary": "This live blog is now closed. Sign up for US Breaking News email US gas prices have continued to rise since the conflict with Iran resumed this month. According to the American Automobile Association (AAA), a gallon of…",
+        "link": "https://www.theguardian.com/us-news/live/2026/jul/21/donald-trump-tariffs-canada-mark-carney-lebanon-republicans-gop-spending-bill-latest-news-updates",
         "source": "The Guardian World",
-        "published": "2026-07-21T10:00:42+00:00"
-      },
-      {
-        "title": "Huge fire at Ukraine shopping centre after Russian drone strike",
-        "summary": "A fire engulfed a shopping centre in Ukraine's Sumy after Russian drone strikes hit the building.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/huge-fire-at-ukraine-shopping-centre-after-russian-drone-strike?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-07-21T09:52:56+00:00"
-      },
-      {
-        "title": "Argentina deny World Cup villains’ role after Samuel Jackson-led slants",
-        "summary": "Hollywood actor Samuel L Jackson was among those who criticised Argentina at World Cup, with racism among allegations.",
-        "link": "https://www.aljazeera.com/sports/2026/7/21/argentina-grapple-with-world-cup-villainy-amid-samuel-l-jackson-led-slant?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-07-21T09:48:55+00:00"
-      },
-      {
-        "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
-        "summary": "Iran says it has hit two ships in the Strait of Hormuz as well as targets in Bahrain and Jordan.",
-        "link": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "2026-07-21T09:48:20+00:00"
-      },
-      {
-        "title": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
-        "summary": "A US-brokered agreement should see Israeli troops pulling out of a small part of Lebanon occupied during their conflict with Hezbollah.",
-        "link": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "2026-07-21T09:41:11+00:00"
-      },
-      {
-        "title": "Philippine Foreign Secretary says ASEAN must work together",
-        "summary": "Philippine Foreign Secretary says ASEAN must work together",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/philippine-foreign-secretary-says-asean-must-work-together-2?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-07-21T09:18:50+00:00"
-      },
-      {
-        "title": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
-        "summary": "The duties mark a major escalation in trade tensions between the North American neighbours.",
-        "link": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "2026-07-21T09:16:21+00:00"
-      },
-      {
-        "title": "Hormuz tankers on fire, as US, Iran continue attacks: What’s the latest?",
-        "summary": "The White House told Al Jazeera that the US would continue its attacks unless Trump decides otherwise.",
-        "link": "https://www.aljazeera.com/news/2026/7/21/hormuz-tankers-on-fire-as-us-iran-continue-attacks-whats-the-latest?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-07-21T09:04:50+00:00"
-      },
-      {
-        "title": "Mamdani says he takes Netanyahu’s ICC arrest warrant ‘seriously’",
-        "summary": "Mamdani says he takes Netanyahu’s ICC arrest warrant ‘seriously’",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/mamdani-says-he-takes-netanyahus-icc-arrest-warrant?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-07-21T08:56:19+00:00"
-      },
-      {
-        "title": "Donald Trump to impose 50% tariff on most Canadian goods, White House says",
-        "summary": "Turmoil likely as Trump officials say Canada unfairly discriminated against US autos, alcohol and dairy products Donald Trump is imposing 50% tariffs on most Canadian goods in response to the country retaliating against…",
-        "link": "https://www.theguardian.com/us-news/2026/jul/20/trump-canada-tariffs",
-        "source": "The Guardian World",
-        "published": "2026-07-21T02:29:47+00:00"
-      },
-      {
-        "title": "'Anti-ICE' army veteran started fire outside Manhattan federal building, say officials",
-        "summary": "Andrew Arrabaca, 43, was armed with two axes, a machete, three knives and fireworks, says the FBI.",
-        "link": "https://www.bbc.co.uk/news/articles/c1m1rr90dzxo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "2026-07-21T02:16:05+00:00"
-      },
-      {
-        "title": "At least 27 dead and 83 missing after passenger ferry capsizes off Guyana",
-        "summary": "An investigation into the tragedy has been launched, the island's prime minister says, adding he hopes more will be found alive.",
-        "link": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "2026-07-21T02:07:48+00:00"
+        "published": "2026-07-22T01:57:35+00:00"
       }
     ],
     "India": [
       {
-        "title": "CJP protest in Delhi LIVE: Thousands regroup at protest site in Jantar Mantar",
-        "summary": "Delhi High Court allows Wangchuk to shift to Medanta Hospital; Union Health Minister J.P. Nadda met with doctors in Delhi's Ram Manohar Lohia hospital to enquire about the injured",
-        "link": "https://www.thehindu.com/news/national/cjp-protest-delhi-jantar-mantar-sonam-wangchuk-july-21-2026/article71247869.ece",
+        "title": "Sreenarayanaguru Open University to get permanent campus as Kerala govt sanctions ₹90 crore",
+        "summary": "Higher Education Minister Roji M. John says the university, which presently operates from rented premises in Kollam, will have its own state-of-the-art four-storey campus spread across 16,864 sq. m.",
+        "link": "https://www.thehindu.com/news/national/kerala/sreenarayanaguru-open-university-to-get-permanent-campus-as-kerala-govt-sanctions-90-crore/article71252504.ece",
         "source": "The Hindu",
-        "published": "2026-07-21T10:24:24+00:00"
+        "published": "2026-07-22T10:01:08+00:00"
       },
       {
-        "title": "Vilathikulam DMK MLA arrested for remarks against Tamil Nadu CM Vijay",
-        "summary": "Stalin, Kanimozhi condemn arrest; accuse TVK-led government of targeting DMK leaders",
-        "link": "https://www.thehindu.com/news/national/tamil-nadu/vilathikulam-dmk-mla-arrested-for-remarks-against-tn-cm-vijay/article71243773.ece",
+        "title": "Jantar Mantar protest LIVE: CJP urges Sonam Wangchuk to break his fast; says ready to meet Nadda at 'neutral venue' today",
+        "summary": "Union Minister Rajnath Singh hits out at Opposition for trying to \"use students, youth as political tools\" for vested interests; 10 FIRs registered over July 20 march so far",
+        "link": "https://www.thehindu.com/news/national/cjp-jantar-mantar-protest-live-updates-rahul-gandhi-news-abhijeet-dipke-sonam-wangchuk-saurav-das-parliament-session/article71251952.ece",
         "source": "The Hindu",
-        "published": "2026-07-21T10:21:09+00:00"
+        "published": "2026-07-22T09:59:25+00:00"
       },
       {
-        "title": "Resolve service issues of Waltair Division employees after split, DRUCC member asks Railway Board",
-        "summary": "Chalasani Gandhi said the split of the Waltair Division into the Visakhapatnam and Rayagada divisions had left about 18,000 employees facing confusion over seniority, promotions and transfers, and sought a joint…",
-        "link": "https://www.thehindu.com/news/national/andhra-pradesh/resolve-service-issues-of-waltair-division-employees-after-split-drucc-member-asks-railway-board/article71248371.ece",
+        "title": "TVK government must cooperate with Centre on new airport in Tamil Nadu: BJP",
+        "summary": "State BJP chief Nainar Nagenthran said that political reasons should not compromise the development of Tamil Nadu",
+        "link": "https://www.thehindu.com/news/national/tamil-nadu/tvk-government-must-cooperate-with-centre-on-new-airport-in-tamil-nadu-bjp/article71252514.ece",
         "source": "The Hindu",
-        "published": "2026-07-21T10:20:49+00:00"
+        "published": "2026-07-22T09:52:49+00:00"
       },
       {
-        "title": "Government took ‘strict action’ against NEET paper leakers: PM Modi",
-        "summary": "Prime Minister Narendra Modi has said that the government took immediate action against those involved in the recent NEET question paper leak.",
-        "link": "https://www.thehindu.com/news/national/pm-modi-outlined-steps-to-ensure-no-paper-leaks-in-future-rijiju/article71248275.ece",
+        "title": "What caused the NHPC tunnel disaster in Sikkim’s Namchi? | Explained",
+        "summary": "Methane trapped inside rock is suspected to have triggered the fatal blast. But how does this happen?",
+        "link": "https://www.thehindu.com/news/national/sikkim/what-caused-the-nhpc-tunnel-disaster-in-sikkims-namchi-explained/article71252728.ece",
         "source": "The Hindu",
-        "published": "2026-07-21T10:17:05+00:00"
+        "published": "2026-07-22T09:51:11+00:00"
       },
       {
-        "title": "Gang kills elderly couple in Salem to rob one sovereign gold jewellery",
-        "summary": "The gang robbed gold earrings and a nose ring totally weighing one sovereign",
-        "link": "https://www.thehindu.com/news/cities/Coimbatore/gang-kills-elderly-couple-in-salem-to-rob-one-sovereigngold-jewellery/article71248471.ece",
-        "source": "The Hindu",
-        "published": "2026-07-21T10:16:13+00:00"
-      },
-      {
-        "title": "Supreme Court constituted Aravalli committee opens 21-day window for feedback",
-        "summary": "The development has come amid concerns about the committee’s neutrality, as it mainly comprises ex-government officers",
-        "link": "https://www.thehindu.com/news/national/supreme-court-constituted-aravalli-committee-opens-21-day-window-for-feedback/article71248803.ece",
-        "source": "The Hindu",
-        "published": "2026-07-21T10:15:05+00:00"
-      },
-      {
-        "title": "Kremlin says 'in touch' with New Delhi after 4 Indians killed in Ukraine ship strike",
-        "summary": "",
-        "link": "https://timesofindia.indiatimes.com/world/rest-of-world/kremlin-says-in-touch-with-new-delhi-after-4-indians-killed-in-ukraine-ship-strike/articleshow/132533425.cms",
+        "title": "Suvendu counters Abhishek Banerjee's '2031 settlement' vow with Diamond Harbour dare",
+        "summary": "West Bengal Chief Minister Suvendu Adhikari challenged Abhishek Banerjee to contest Diamond Harbour. Adhikari questioned Banerjee's political standing and future prospects. This exchange follows Banerjee's remarks at a…",
+        "link": "https://timesofindia.indiatimes.com/india/will-see-where-he-is-in-2031-adhikari-dares-abhishek-banerjee-to-contest-from-diamond-harbour/articleshow/132555762.cms",
         "source": "Times of India",
-        "published": "2026-07-21T10:09:39+00:00"
+        "published": "2026-07-22T09:46:15+00:00"
       },
       {
-        "title": "'Don't Drag Us Into It': Delhi High Court On Plea Alleging Use Of Force On Students",
-        "summary": "The court refused to urgently list a petition concerning the Delhi Police's use of excessive force\" against students who took part in the Cockroach Janta Party's protest march to parliament on Monday.",
-        "link": "https://www.ndtv.com/india-news/dont-drag-us-into-it-delhi-high-court-on-plea-alleging-use-of-force-on-students-11800203#publisher=newsstand",
-        "source": "NDTV",
-        "published": "2026-07-21T09:48:32+00:00"
+        "title": "From Potti Sriramulu to Sonam Wangchuk: Hunger strikes that changed India’s politics",
+        "summary": "From Potti Sriramulu’s statehood fast to Sonam Wangchuk’s agitation, here’s how six hunger strikes reshaped India’s politics, policies and public discourse.",
+        "link": "https://www.thehindu.com/news/national/india-sonam-wangchuk-hunger-strike-news-potti-sriramulu-irom-sharmila-anna-hazare-medha-patkar-mamata-banerjee-kcr-gd-agarwal/article71252306.ece",
+        "source": "The Hindu",
+        "published": "2026-07-22T09:46:14+00:00"
       },
       {
-        "title": "\"Doors Of Dialogue Open\": Government Sources To Protesting Students",
-        "summary": "Earlier today, Prime Minister Narendra Modi called for the strictest possible punishment for those responsible for the NEET paper leak and emphasised that preventing such paper leaks was a national responsibility,…",
-        "link": "https://www.ndtv.com/india-news/doors-of-dialogue-open-government-sources-to-protesting-students-11800540#publisher=newsstand",
-        "source": "NDTV",
-        "published": "2026-07-21T09:48:03+00:00"
+        "title": "Protesters gather at Shivaji Park in Mumbai; around 300 detentions reported on July 20",
+        "summary": "Police have registered eight FIRs across Mumbai stations naming over 900 accused, with the highest count exceeding 600 at Shivaji Park Police Station",
+        "link": "https://www.thehindu.com/news/cities/mumbai/protesters-gather-at-shivaji-park-in-mumbai-around-300-detentions-reported-on-july-20/article71250581.ece",
+        "source": "The Hindu",
+        "published": "2026-07-22T09:43:01+00:00"
       },
       {
-        "title": "\"Surrender Or...\": Supreme Court Gives 2 Options To Honeymoon Murder Accused Sonam Raghuvanshi",
-        "summary": "Sonam Raghuvanshi is accused of killing her husband, Raja, during their honeymoon in Meghalaya.",
-        "link": "https://www.ndtv.com/india-news/supreme-court-gives-2-options-to-honeymoon-murder-case-accused-sonam-raghuvanshi-surrender-or-get-bail-cancelled-raja-raghuvanshi-11800519#publisher=newsstand",
-        "source": "NDTV",
-        "published": "2026-07-21T09:42:56+00:00"
+        "title": "'Students being used as political tools': Rajnath Singh attacks opposition over Delhi protests",
+        "summary": "",
+        "link": "https://timesofindia.indiatimes.com/india/students-being-used-as-political-tools-rajnath-singh-attacks-opposition-over-delhi-protests/articleshow/132555650.cms",
+        "source": "Times of India",
+        "published": "2026-07-22T09:36:41+00:00"
       },
       {
-        "title": "3-Lender Rule, Rs 2 Lakh Cap: How Microfinance Lenders Curbed Bad Loans",
-        "summary": "The MFIN guardrails place a cap of three microfinance lenders per borrower.",
-        "link": "https://www.ndtv.com/business-news/microfinance-recovery-lender-borrowing-cap-guardrails-risk-bad-loans-decline-11794333#publisher=newsstand",
+        "title": "Cockroach Janta Party, BJP, Congress And The Tale Of Three Protests",
+        "summary": "The Cockroach Janta Party is leading a students' protest over alleged NEET leak, while the BJP and Congress are holding a nationwide protest against each other.",
+        "link": "https://www.ndtv.com/india-news/cockroach-janta-party-bjp-congress-and-the-tale-of-three-protests-11805475#publisher=newsstand",
         "source": "NDTV",
-        "published": "2026-07-21T09:30:42+00:00"
+        "published": "2026-07-22T09:23:29+00:00"
       },
       {
-        "title": "Youngest Municipal Chairperson Loses No-Confidence Motion In Setback For UDF",
-        "summary": "Diya Binu Pulikkakandam was the country's youngest municipal chairperson.",
-        "link": "https://www.ndtv.com/india-news/youngest-municipal-chairperson-diya-binu-loses-no-confidence-motion-in-setback-for-udf-11800441#publisher=newsstand",
+        "title": "Elderly Woman, 2 Sons Die Inside Underground Water Tank In Uttarakhand",
+        "summary": "The police have sealed the site, says Manoj Katyal Haldwani SP (Representational)",
+        "link": "https://www.ndtv.com/india-news/elderly-woman-2-sons-die-inside-underground-water-tank-in-uttarakhand-11805472#publisher=newsstand",
         "source": "NDTV",
-        "published": "2026-07-21T09:30:24+00:00"
+        "published": "2026-07-22T09:22:06+00:00"
+      },
+      {
+        "title": "Kedarnath Yatra Halted After Landslide Blocks Trek Route",
+        "summary": "Teams from Public Works Department (PWD) reached the site to clear the debris. (Representational)",
+        "link": "https://www.ndtv.com/india-news/kedarnath-yatra-halted-after-landslide-blocks-trek-route-11805378#publisher=newsstand",
+        "source": "NDTV",
+        "published": "2026-07-22T09:18:56+00:00"
+      },
+      {
+        "title": "Kimi K3 vs OpenAI: Is China Really Beating The US In AI Race?",
+        "summary": "Kimi K3 hasn't dethroned OpenAI. But it has done something arguably more important.",
+        "link": "https://www.ndtv.com/artificial-intelligence/kimi-k3-vs-openai-whos-the-real-winner-has-china-overtaken-us-11803737#publisher=newsstand",
+        "source": "NDTV",
+        "published": "2026-07-22T09:07:04+00:00"
       }
     ],
     "Business": [
       {
-        "title": "UK borrowing falls in June but public finances remain a challenge",
-        "summary": "Public finances for last month were better than expected but the UK is carrying major debt.",
-        "link": "https://www.bbc.co.uk/news/articles/cx2vd3qgjy9o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "published": "2026-07-21T10:31:06+00:00"
-      },
-      {
-        "title": "Thames Water lenders offer 'golden share' to head off nationalisation",
-        "summary": "The water supplier's lenders are trying to prevent the company from being taken over by the Burnham government",
-        "link": "https://www.bbc.co.uk/news/articles/clyv43x372wo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "published": "2026-07-21T10:30:45+00:00"
-      },
-      {
-        "title": "Kremlin responds after four Indians killed in Black Sea missile strike",
-        "summary": "The Kremlin confirmed contact with India after a missile strike on a Black Sea cargo ship killed four Indians. The Golden Leo was hit by Russian missiles, resulting in 10 deaths. India has summoned the Russian chargé…",
-        "link": "https://www.livemint.com/news/india/kremlin-responds-after-four-indians-killed-in-black-sea-missile-strike-11784628053121.html",
+        "title": "Where did the money go?' US senators grill Pete Hegseth as Iran war cost hits ₹3.62 trillion",
+        "summary": "Defence Secretary Pete Hegseth announced the cost of the U.S. war with Iran has risen to $37.5 billion, an $8.5 billion increase from May.&nbsp;",
+        "link": "https://www.livemint.com/news/world/where-did-the-money-go-us-senators-grill-pete-hegseth-as-iran-war-cost-hits-rs-3-62-trillion-11784712380911.html",
         "source": "Livemint",
-        "published": "2026-07-21T10:10:06+00:00"
+        "published": "2026-07-22T10:02:20+00:00"
       },
       {
-        "title": "VAT to be cut from household electricity bills in October",
-        "summary": "Homes will save around £45 a year through the cut announced on Andy Burnham's first full day as prime minister.",
-        "link": "https://www.bbc.co.uk/news/articles/cjwxll8jyz8o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "published": "2026-07-21T10:07:38+00:00"
-      },
-      {
-        "title": "As monsoon intensifies across India, IMD issues red alert for Himachal Pradesh, yellow alerts for Delhi and other states",
-        "summary": "The India Meteorological Department (IMD) has warned of very heavy rainfall at isolated places in Jammu and Kashmir and Himachal Pradesh today.",
-        "link": "https://www.livemint.com/news/india/as-monsoon-intensifies-across-india-imd-issues-red-alert-for-himachal-pradesh-yellow-alerts-for-delhi-and-other-states-11784625162201.html",
+        "title": "Quote of the Day by American poet Henry David Thoreau: ‘Success usually comes to those.…’",
+        "summary": "Henry David Thoreau emphasizes that genuine success stems from deep engagement in one's work, rather than a direct pursuit of success itself. True achievement arises when one is absorbed in the process, diverting…",
+        "link": "https://www.livemint.com/news/us-news/quote-of-the-day-22-july-2026-american-poet-henry-david-thoreau-success-11784712580183.html",
         "source": "Livemint",
-        "published": "2026-07-21T09:55:40+00:00"
+        "published": "2026-07-22T09:43:57+00:00"
       },
       {
-        "title": "8th CPC: Will pay hike be 68% at 2.57 fitment factor?",
+        "title": "'Time for govt to take accountability': Sonam Wangchuk protest draws support in US, UK and Ireland",
+        "summary": "Protests backing Sonam Wangchuk's hunger strike spread to New York, San Jose, London and Dublin, where demonstrators demand action over alleged NEET irregularities. The show of solidarity comes as the Centre holds fresh…",
+        "link": "https://www.livemint.com/news/india/time-for-govt-to-take-accountability-sonam-wangchuk-protest-draws-support-in-us-uk-and-ireland-11784711377214.html",
+        "source": "Livemint",
+        "published": "2026-07-22T09:26:59+00:00"
+      },
+      {
+        "title": "CJP Protest: Abhijeet Dipke urges Sonam Wangchuk to end fast, Oppn to meet him too – ‘Will carry this movement forward’",
+        "summary": "Earlier, Wangchuk said he would end his fast if Members of Parliament and leaders of political parties assured him that the issue of accountability in the education sector would be taken up during the Monsoon Session of…",
+        "link": "https://www.livemint.com/news/india/cjp-protest-abhijeet-dipke-urges-sonam-wangchuk-to-end-fast-oppn-to-meet-him-too-jantar-mantar-dharmendra-pradhan-11784711301145.html",
+        "source": "Livemint",
+        "published": "2026-07-22T09:16:59+00:00"
+      },
+      {
+        "title": "Delhi Metro shuts 16 stations amid CJP protests; traffic diversions in place. Full list here",
+        "summary": "Traffic diversions and metro station closures in Delhi are in effect as the CJP's ‘Sansad Chalo’ march enters its third day. Sixteen metro stations are closed, with Rajiv Chowk, Mandi House, and Central Secretariat…",
+        "link": "https://www.livemint.com/news/delhi-metro-shuts-16-stations-amid-cjp-protests-traffic-diversions-in-place-full-list-here-11784709381747.html",
+        "source": "Livemint",
+        "published": "2026-07-22T09:06:44+00:00"
+      },
+      {
+        "title": "Louvre reopens Apollo Gallery after a brazen heist",
         "summary": "",
-        "link": "https://economictimes.indiatimes.com/wealth/save/8th-pay-commission-salary-hike-why-level-11-18-employees-may-see-just-68-gross-salary-rise-even-at-2-57-fitment-factor/articleshow/132532237.cms",
+        "link": "https://economictimes.indiatimes.com/nri/visit/louvre-reopens-apollo-gallery-after-a-brazen-heist-but-no-jewels-on-display/articleshow/132555105.cms",
         "source": "Economic Times",
-        "published": "2026-07-21T09:49:28+00:00"
+        "published": "2026-07-22T09:01:11+00:00"
       },
       {
-        "title": "Quote of the day by best-selling author Wayne Dyer: 'Judgements prevent us from seeing the good that lies….'",
-        "summary": "Wayne Dyer's message emphasizes looking beyond appearances to discover deeper qualities in people. Quick judgments limit our understanding, and by practicing empathy and curiosity, we can reveal the hidden goodness…",
-        "link": "https://www.livemint.com/news/us-news/quote-of-the-day-by-best-selling-author-wayne-dyer-judgements-prevent-us-from-seeing-the-good-that-lies-11784612840087.html",
-        "source": "Livemint",
-        "published": "2026-07-21T09:45:59+00:00"
-      },
-      {
-        "title": "Vir Das calls out ‘sheer hypocrisy’, asks Indian artists to support students before trying to sell them tickets",
-        "summary": "Comedian Vir Das urges Indian live artists to support the ongoing student protests in New Delhi, criticising their silence while profiting from ticket sales.&nbsp;",
-        "link": "https://www.livemint.com/news/trends/vir-das-calls-out-sheer-hypocrisy-asks-indian-artists-to-support-students-before-trying-to-sell-them-tickets-11784625909834.html",
-        "source": "Livemint",
-        "published": "2026-07-21T09:40:31+00:00"
-      },
-      {
-        "title": "Lindt chocolates may get cheaper in some nations",
+        "title": "Capital loss denied over revised ITR, ITAT relief",
         "summary": "",
-        "link": "https://economictimes.indiatimes.com/news/international/business/lindt-may-cut-prices-in-some-countries-to-stimulate-growth/articleshow/132532850.cms",
+        "link": "https://economictimes.indiatimes.com/wealth/tax/rs-5-26-lakh-capital-loss-carry-forward-was-claimed-in-original-itr-but-a-lesser-claim-was-denied-in-revised-itr-taxpayer-fights-back-and-wins-in-itat-bangalore/articleshow/132554931.cms",
         "source": "Economic Times",
-        "published": "2026-07-21T09:35:39+00:00"
+        "published": "2026-07-22T08:57:19+00:00"
       },
       {
-        "title": "After ITR, Sec 143(1) intimation comes; it means…",
+        "title": "CJP requests Sonam Wangchuk to end hunger strike",
         "summary": "",
-        "link": "https://economictimes.indiatimes.com/wealth/tax/itr-filing-2026-2027-got-section-1431-intimation-after-filing-your-income-tax-return-heres-what-it-means/articleshow/132532231.cms",
+        "link": "https://economictimes.indiatimes.com/news/india/country-needs-him-cjp-requests-sonam-wangchuk-to-end-hunger-strike/articleshow/132554965.cms",
         "source": "Economic Times",
-        "published": "2026-07-21T09:26:15+00:00"
+        "published": "2026-07-22T08:56:06+00:00"
       },
       {
-        "title": "Sonam Wangchuk may be shifted to Medanta, Gitanjali Angmo thanks Delhi HC for favourable order",
-        "summary": "Sonam Wangchuk is likely to be transferred to Medanta following an order from the Delhi High Court. His wife, Gitanjali J Angmo, expressed gratitude to the court for the favorable decision.",
-        "link": "https://www.livemint.com/news/india/sonam-wangchuk-may-be-shifted-to-medanta-gitanjali-angmo-thanks-delhi-hc-for-favourable-order-11784625384633.html",
-        "source": "Livemint",
-        "published": "2026-07-21T09:21:58+00:00"
+        "title": "Lok Sabha suspends TMC MP Kalyan Banerjee",
+        "summary": "",
+        "link": "https://economictimes.indiatimes.com/news/politics-and-nation/lok-sabha-suspends-tmc-mp-kalyan-banerjee-chair-says-remarks-against-woman-mp-hurt-dignity-of-the-house/articleshow/132554954.cms",
+        "source": "Economic Times",
+        "published": "2026-07-22T08:54:01+00:00"
       },
       {
-        "title": "Raja Raghuvanshi murder: SC gives two options to accused Sonam — ‘Either we will pass an order on merits or...’",
-        "summary": "Sonam’s counsel sought time to obtain instructions and informed the Court that he would respond by Thursday.",
-        "link": "https://www.livemint.com/news/india/raja-raghuvanshi-murder-sc-gives-two-options-to-accused-wife-sonam-either-we-will-pass-an-order-on-merits-or-11784624564976.html",
+        "title": "As European football bosses turn on Gianni Infantino, Trump backs him for UN secretary-general: Report",
+        "summary": "Trump is reportedly backing FIFA President Infantino for the UN's top job, as their relationship solidified ahead of and during the 2026 World Cup. Infantino faces criticism from football leaders like Sepp Blatter and…",
+        "link": "https://www.livemint.com/news/world/as-european-football-bosses-turn-on-gianni-infantino-trump-backs-him-for-un-secretary-general-report-11784709776348.html",
         "source": "Livemint",
-        "published": "2026-07-21T09:21:28+00:00"
+        "published": "2026-07-22T08:51:45+00:00"
+      },
+      {
+        "title": "Canada-born Hulda Crooks climbed Fuji at 91",
+        "summary": "",
+        "link": "https://economictimes.indiatimes.com/news/new-updates/meet-hulda-crooks-the-canadian-born-grandma-whitney-who-climbed-mount-fuji-at-91-conquered-mount-whitney-23-times-and-had-a-mountain-named-after-her/articleshow/132554868.cms",
+        "source": "Economic Times",
+        "published": "2026-07-22T08:47:40+00:00"
+      },
+      {
+        "title": "Most bus fares in England to be capped at £2 from January",
+        "summary": "The government says the policy will \"help with the cost of living and give people the breathing space they need\"",
+        "link": "https://www.bbc.co.uk/news/articles/cz64l78n5vpo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "published": "2026-07-22T08:41:20+00:00"
       }
     ],
     "Technology": [
       {
-        "title": "Gritt exits stealth with $34 million for robots to build solar plants—then, everything else",
-        "summary": "Gritt is coming out of stealth with $34 million and plan to automate the hardest tasks on construction sites.",
-        "link": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
+        "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
+        "summary": "Glow is targeting a new class of endpoint risks created by the rapid adoption of AI agents and developer tools inside enterprises.",
+        "link": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
         "source": "TechCrunch",
-        "published": "2026-07-21T10:00:00+00:00"
+        "published": "2026-07-22T10:00:00+00:00"
+      },
+      {
+        "title": "Synthesia’s AI training platform is moving beyond videos into live coaching",
+        "summary": "Synthesia launched AI Roleplay Sessions, an interactive enterprise training platform where employees practice workplace conversations with AI avatars that provide feedback, scoring, and analytics to help companies…",
+        "link": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
+        "source": "TechCrunch",
+        "published": "2026-07-22T08:00:00+00:00"
+      },
+      {
+        "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
+        "summary": "Anthropic and OpenAI's aggressive 2026 acquisition sprees set the stage for a weekend rumor.",
+        "link": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
+        "source": "TechCrunch",
+        "published": "2026-07-22T03:20:57+00:00"
+      },
+      {
+        "title": "Dimension Capital’s $800M third fund shows the intersection of science and compute is booming",
+        "summary": "The four-year-old firm's latest fund is 60% larger than its second vehicle announced 18 months ago.",
+        "link": "https://techcrunch.com/2026/07/21/dimension-capitals-800m-third-fund-shows-the-intersection-of-science-and-compute-is-booming/",
+        "source": "TechCrunch",
+        "published": "2026-07-22T01:27:58+00:00"
+      },
+      {
+        "title": "Meta is testing an AI bedtime story app for people with no imagination",
+        "summary": "At last, a tech company has found a way to outsource humanity's oldest pastime: using our imaginations.",
+        "link": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
+        "source": "TechCrunch",
+        "published": "2026-07-21T23:55:10+00:00"
+      },
+      {
+        "title": "These are the countries moving to ban social media for children",
+        "summary": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators.",
+        "link": "https://techcrunch.com/2026/07/21/social-media-ban-children-countries-list/",
+        "source": "TechCrunch",
+        "published": "2026-07-21T20:57:35+00:00"
       },
       {
         "title": "AI minister role boosted but tech department axed in Burnham shake-up",
@@ -273,41 +308,6 @@
         "link": "https://www.bbc.co.uk/news/articles/cz97x8k4zqzo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Technology",
         "published": "2026-07-21T09:15:55+00:00"
-      },
-      {
-        "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
-        "summary": "The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models.",
-        "link": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
-        "source": "TechCrunch",
-        "published": "2026-07-21T00:12:24+00:00"
-      },
-      {
-        "title": "Colossal Biosciences reportedly in talks to raise new capital at $20B–$30B valuation",
-        "summary": "The de-extinction startup is looking to double or triple its previous valuation, according to the report.",
-        "link": "https://techcrunch.com/2026/07/20/colossal-biosciences-reportedly-in-talks-to-raise-new-capital-at-20b-30b-valuation/",
-        "source": "TechCrunch",
-        "published": "2026-07-20T23:39:35+00:00"
-      },
-      {
-        "title": "Trump’s latest AI czar has already resigned",
-        "summary": "The director role for the Center for AI Standards and Innovation (CAISI) has become a revolving door since David Sacks left his position as czar.",
-        "link": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
-        "source": "TechCrunch",
-        "published": "2026-07-20T22:21:04+00:00"
-      },
-      {
-        "title": "Google is working on a new AI chip designed to make Gemini more efficient",
-        "summary": "Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently.",
-        "link": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
-        "source": "TechCrunch",
-        "published": "2026-07-20T21:21:15+00:00"
-      },
-      {
-        "title": "AI’s most important protocol is getting a little bit easier to use",
-        "summary": "Under the new system, the protocol will take a looser, \"stateless\" approach to session IDs on the server side, similar to how most ordinary websites already work.",
-        "link": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
-        "source": "TechCrunch",
-        "published": "2026-07-20T20:50:40+00:00"
       },
       {
         "title": "Thousands of websites taken down for illegal World Cup streams",
@@ -347,88 +347,88 @@
     ],
     "Sports": [
       {
-        "title": "\"Rohit Sharma Shut Up Everybody\" By Hitting Century Against England: Ex-India Star",
-        "summary": "Photo of Rohit Sharma.",
-        "link": "https://sports.ndtv.com/cricket/rohit-sharma-shut-up-everybody-by-hitting-century-against-england-ex-india-star-11795290#publisher=newsstand",
-        "source": "NDTV Sports",
-        "published": "2026-07-21T09:21:04+00:00"
-      },
-      {
-        "title": "India's Running Revolution: Six Athletes Carrying Nation's Commonwealth Games Hopes In Glasgow",
-        "summary": "Gulveer Singh carrying India's hopes in CWG 2026",
-        "link": "https://sports.ndtv.com/athletics/indias-running-revolution-six-athletes-carrying-nations-commonwealth-games-hopes-in-glasgow-11800349#publisher=newsstand",
-        "source": "NDTV Sports",
-        "published": "2026-07-21T09:07:29+00:00"
-      },
-      {
-        "title": "Sanju Samson Makes Honest T20 World Cup Confesson: 'Sit Quietly And Clap'",
-        "summary": "Sanju Samson revealed how he came to terms with missing out on the spot in India's T20 World Cup XI.",
-        "link": "https://sports.ndtv.com/cricket/sanju-samson-makes-honest-t20-world-cup-confesson-sit-quietly-and-clap-11800032#publisher=newsstand",
-        "source": "NDTV Sports",
-        "published": "2026-07-21T09:03:24+00:00"
-      },
-      {
-        "title": "Lionel Messi, Argentina Register Embarrassing Record In 0-1 World Cup Final Loss To Spain",
-        "summary": "Lionel Messi registered an embarrassing record against Spain",
-        "link": "https://sports.ndtv.com/football/lionel-messi-argentina-register-embarrassing-record-in-0-1-world-cup-final-loss-to-spain-11794354#publisher=newsstand",
-        "source": "NDTV Sports",
-        "published": "2026-07-21T08:59:09+00:00"
-      },
-      {
-        "title": "CPL: Ayub, Sadaqat headline strong Pakistani contingent at Jamaica Kingsmen",
-        "summary": "Jamaica Kingsmen's seven overseas signings all have links to their parent franchise Hyderabad Kingsmen in the PSL",
-        "link": "https://www.cricinfo.com/ci/content/story/1546451.html?ex_cid=OTC-RSS",
+        "title": "Root back in top ten of ODI batting rankings; Rohit closes in on top three",
+        "summary": "Shubman Gill and Virat Kohli remain second and third, behind No. 1 Daryl Mitchell",
+        "link": "https://www.cricinfo.com/ci/content/story/1547030.html?ex_cid=OTC-RSS",
         "source": "ESPN Cricinfo",
-        "published": "2026-07-21T08:52:09+00:00"
+        "published": "2026-07-22T09:45:25+00:00"
       },
       {
-        "title": "\"Didn't Believe Him, Sorry\": Sanju Samson On Rohit Sharma's T20 World Cup Remark",
-        "summary": "Sanju Samson on Rohit Sharma's old remarks",
-        "link": "https://sports.ndtv.com/cricket/i-didnt-believe-him-initially-samson-recalls-rohits-support-during-t20-wc-11799993#publisher=newsstand",
-        "source": "NDTV Sports",
-        "published": "2026-07-21T08:31:14+00:00"
-      },
-      {
-        "title": "Cristiano Ronaldo Fuels \"FIFA Bias\" Talks On Anti-Argentina Post. What Really Happened",
-        "summary": "Did Cristiano Ronaldo fuel FIFA-Argentina bias talks?",
-        "link": "https://sports.ndtv.com/football/cristiano-ronaldo-accused-of-liking-post-claiming-fifa-favour-argentina-we-did-a-fact-check-11800106#publisher=newsstand",
-        "source": "NDTV Sports",
-        "published": "2026-07-21T08:27:15+00:00"
-      },
-      {
-        "title": "Bournemouth midfielder Scott rejects new contract",
-        "summary": "Bournemouth midfielder Alex Scott rejects a new contract amid growing Premier League interest in the England Under-21 international.",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c0rdn1p2z45o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "published": "2026-07-21T08:10:01+00:00"
-      },
-      {
-        "title": "Why was Hamilton penalised but not Leclerc? - F1 Q&A",
-        "summary": "BBC Sport F1 correspondent Andrew Benson answers your latest questions before the Hungarian Grand Prix.",
-        "link": "https://www.bbc.co.uk/sport/formula1/articles/cn4n21ye3w2o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "published": "2026-07-21T07:00:48+00:00"
-      },
-      {
-        "title": "Gaikwad to lead West Zone in 2026-27 domestic season-opening Duleep Trophy",
-        "summary": "Shams Mulani to be the team's vice-captain, while Prithvi Shaw and Musheer Khan have both been included in the squad",
-        "link": "https://www.cricinfo.com/ci/content/story/1546432.html?ex_cid=OTC-RSS",
+        "title": "Kusal Mendis out of LPL 2026 with hamstring injury",
+        "summary": "The injury is a blow for both Colombo Kaps, as well as the Sri Lanka national team who are set to play India in a two-Test home series starting August 15",
+        "link": "https://www.cricinfo.com/ci/content/story/1547031.html?ex_cid=OTC-RSS",
         "source": "ESPN Cricinfo",
-        "published": "2026-07-21T06:33:38+00:00"
+        "published": "2026-07-22T09:39:31+00:00"
       },
       {
-        "title": "The country that doesn't play football ... yet",
-        "summary": "Nauru is the only nation to have never played an official international football match and hardly anyone there plays the game. Is that about to change?",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c5y03dermmeo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "published": "2026-07-21T05:47:13+00:00"
-      },
-      {
-        "title": "Boland 'big three' debate reignites with full set of quicks available",
-        "summary": "Australia chair of selectors says there has been a discussion about the pecking order but the enormous Test workload ahead means the full depth will be needed",
-        "link": "https://www.cricinfo.com/ci/content/story/1546408.html?ex_cid=OTC-RSS",
+        "title": "Hetmyer, Rutherford haul West Indies home in tense chase",
+        "summary": "Duffy took two wickets in the 45th over to make things tense, but Hetmyer held his nerve to lead the hosts to a two-wicket win",
+        "link": "https://www.cricinfo.com/ci/content/story/1546987.html?ex_cid=OTC-RSS",
         "source": "ESPN Cricinfo",
-        "published": "2026-07-21T04:04:01+00:00"
+        "published": "2026-07-22T09:20:35+00:00"
+      },
+      {
+        "title": "Kuldeep signs up with Yorkshire for County Championship and One-Day Cup",
+        "summary": "His two-part stint will see him feature in eight games on either side of India's Test tour to Sri Lanka",
+        "link": "https://www.cricinfo.com/ci/content/story/1546483.html?ex_cid=OTC-RSS",
+        "source": "ESPN Cricinfo",
+        "published": "2026-07-22T09:16:50+00:00"
+      },
+      {
+        "title": "Sooryavanshi stays confident amid 'several ups and downs'",
+        "summary": "The 15-year-old is excited to play in Harare, where he scored 175 off 80 balls in the Under-19 World Cup final",
+        "link": "https://www.cricinfo.com/ci/content/story/1547028.html?ex_cid=OTC-RSS",
+        "source": "ESPN Cricinfo",
+        "published": "2026-07-22T09:16:20+00:00"
+      },
+      {
+        "title": "Arsenal sign Spain goalkeeper Rodriguez on free",
+        "summary": "Arsenal bring in Spain goalkeeper Misa Rodriguez on a free transfer - the Women's Super League side's sixth signing of the summer.",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cz7dq8wrzwjo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "published": "2026-07-22T08:57:48+00:00"
+      },
+      {
+        "title": "Where are Newcastle in bid to be the best by 2030?",
+        "summary": "As the fifth anniversary of Newcastle's takeover approaches, BBC Sport assesses whether the project to be \"the best\" is still on track.",
+        "link": "https://www.bbc.co.uk/sport/football/articles/ckg30v0llpxo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "published": "2026-07-22T08:41:21+00:00"
+      },
+      {
+        "title": "'Involving Family Is So Low': British Outlet Under Fire For Targetting Lionel Messi",
+        "summary": "Journalist Oliver Salt also took aim at Messi for 'crying like a 10-year-old'.",
+        "link": "https://sports.ndtv.com/football/involving-family-is-so-low-british-outlet-under-fire-for-targetting-lionel-messi-11805194#publisher=newsstand",
+        "source": "NDTV Sports",
+        "published": "2026-07-22T08:32:05+00:00"
+      },
+      {
+        "title": "Australia could put India A four-day series ahead of ODIs",
+        "summary": "Selectors are debating whether some players could go to India with Australia A instead of playing ODIs in Zimbabwe and South Africa with the Border-Gavaskar tour in sight",
+        "link": "https://www.cricinfo.com/ci/content/story/1547015.html?ex_cid=OTC-RSS",
+        "source": "ESPN Cricinfo",
+        "published": "2026-07-22T08:27:56+00:00"
+      },
+      {
+        "title": "Pakistan Announces Bizarre 'Padel' Mandate To Fix Cricketers' Fitness",
+        "summary": "Padel training mandatory for Pakistan cricketers",
+        "link": "https://sports.ndtv.com/cricket/pakistan-announces-bizarre-padel-mandate-to-fix-cricketers-fitness-11805074#publisher=newsstand",
+        "source": "NDTV Sports",
+        "published": "2026-07-22T08:10:18+00:00"
+      },
+      {
+        "title": "Five big names to look out for at Commonwealth Games",
+        "summary": "These are the stars to look out for across the 10 sports at the 2026 Commonwealth Games in Glasgow.",
+        "link": "https://www.bbc.co.uk/sport/articles/c9w0r0k1n5qo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "published": "2026-07-22T07:46:47+00:00"
+      },
+      {
+        "title": "Seniors Struggling To Adapt, Communication Gap Exposes Vulnerable Team India: Report",
+        "summary": "Rohit Sharma in a chat with India coaches",
+        "link": "https://sports.ndtv.com/cricket/seniors-struggling-to-adapt-communication-gap-exposes-vulnerable-team-india-report-11804873#publisher=newsstand",
+        "source": "NDTV Sports",
+        "published": "2026-07-22T07:21:40+00:00"
       }
     ]
   }
