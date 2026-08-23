@@ -1,292 +1,313 @@
 {
-  "generated_at": "2026-08-22 02:37",
+  "generated_at": "2026-08-23 02:46",
   "data": {
     "World": [
       {
-        "title": "Russian double-tap drone strike kills 16 in Ukrainian mall, officials say",
-        "summary": "At least 130 people, including 23 children, were also injured when the shopping centre was hit, according to the regional head.",
+        "title": "Canada to hit US with retaliatory tariffs as trade war escalates",
+        "summary": "Mark Carney says Canada will impose tariffs starting September 8 on imports of US steel, electronics and other products.",
+        "link": "https://www.aljazeera.com/news/2026/8/23/canada-to-hit-us-with-retaliatory-tariffs-as-trade-war-escalates?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-08-23T02:34:49+00:00"
+      },
+      {
+        "title": "Thousands flee Sudan’s Kordofan fighting for relative safety of El Obeid",
+        "summary": "Thousands flee Sudan’s Kordofan fighting for relative safety of El Obeid.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/thousands-flee-sudans-kordofan-fighting-for-relative-safety-of-el-obeid?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-08-23T01:51:47+00:00"
+      },
+      {
+        "title": "Iran war live: Tehran warns neighbours against joining US economic war",
+        "summary": "Official says any state joining US would be considered an enemy and Tehran would target their interests in retaliation.",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/8/23/iran-war-live-tehran-warns-neighbours-against-joining-us-economic-war?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-08-23T00:00:00+00:00"
+      },
+      {
+        "title": "Iran threatens countries that join US ‘economic D-Day’",
+        "summary": "Iran warns that countries joining the US economic war against Iran will face ‘tit-for-tat’ action.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/iran-threatens-countries-that-join-us-economic-d?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-08-22T23:56:32+00:00"
+      },
+      {
+        "title": "Iran warns nearby nations against joining US ‘economic war’ efforts",
+        "summary": "The warning comes as US President Donald Trump threatens to isolate Iran economically to weaken its government.",
+        "link": "https://www.aljazeera.com/news/2026/8/22/iran-warns-nearby-nations-against-joining-us-economic-war-efforts?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-08-22T23:26:15+00:00"
+      },
+      {
+        "title": "Tropical Storm Moke advances towards Hawaii with heavy rain, strong winds",
+        "summary": "For the second week in a row, Hawaii Island, also known as the Big Island, faces threats from an intensifying storm.",
+        "link": "https://www.aljazeera.com/news/2026/8/22/tropical-storm-moke-advances-towards-hawaii-with-heavy-rain-strong-winds?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-08-22T22:29:07+00:00"
+      },
+      {
+        "title": "Syria says Israeli strike near Damascus violation of international law",
+        "summary": "The latest incident comes days after reports emerged Israel had struck a military airbase close to the Turkish border.",
+        "link": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "2026-08-22T21:42:42+00:00"
+      },
+      {
+        "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
+        "summary": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
+        "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "2026-08-22T20:10:00+00:00"
+      },
+      {
+        "title": "Carney faces crucial test after walking away from Trump's deal",
+        "summary": "The Canadian prime minister will have to sell his gamble that walking away from talks with the White House will be worth the consequences.",
+        "link": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "2026-08-22T20:02:46+00:00"
+      },
+      {
+        "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike",
+        "summary": "The man had taken his two boys on the trip but is said to have left one behind when he got tired.",
+        "link": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "2026-08-22T14:35:11+00:00"
+      },
+      {
+        "title": "Canada vows ‘dollar for dollar’ response as US puts 50% tariffs on some goods",
+        "summary": "Collapse of trade talks could lead to job losses, but biggest impact on traditional allies is expected to be political The US has imposed 50% tariffs on some goods from Canada, and Mark Carney, the country’s prime…",
+        "link": "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
+        "source": "The Guardian World",
+        "published": "2026-08-22T14:04:57+00:00"
+      },
+      {
+        "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
+        "summary": "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children.",
         "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "2026-08-22T01:47:54+00:00"
-      },
-      {
-        "title": "Palestinian-British girl, 6, dies days after family drowned off UK coast",
-        "summary": "Saja el-Khawas's death follows that of her mother, father and sister on Tuesday, all of whom drowned.",
-        "link": "https://www.aljazeera.com/news/2026/8/22/palestinian-british-girl-6-dies-days-after-family-drowned-off-uk-coast?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-08-22T01:42:33+00:00"
-      },
-      {
-        "title": "Iranian president says time to end war with US from ‘position of strength’",
-        "summary": "Omani and Iranian foreign ministers hold a call as Washington prepares economic sanctions.",
-        "link": "https://www.aljazeera.com/news/2026/8/22/iranian-president-says-time-to-end-war-with-us-from-position-of?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-08-22T00:59:37+00:00"
-      },
-      {
-        "title": "'We have more work to do', says Canada negotiator as US trade deadline looms",
-        "summary": "Negotiations to finalise a deal between the US and Canada are going down to the wire ahead of a Friday night deadline.",
-        "link": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "2026-08-22T00:40:47+00:00"
-      },
-      {
-        "title": "California lawmaker overcomes pro-Israel spending to win special election",
-        "summary": "Victory for state Senator Aisha Wahab marks the latest example of a progressive overcoming millions in outside spending.",
-        "link": "https://www.aljazeera.com/news/2026/8/22/california-lawmaker-overcomes-pro-israel-spending-to-win-special-election?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-08-22T00:38:06+00:00"
-      },
-      {
-        "title": "Guyana’s Rodrigues Birkett leads informal poll in race to be next UN leader",
-        "summary": "Guyanese diplomat emerges narrowly ahead as the council works towards consensus before Guterres departs.",
-        "link": "https://www.aljazeera.com/news/2026/8/22/guyanas-rodrigues-birkett-leads-informal-poll-in-race-to-be-next-un-leader?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-08-22T00:32:35+00:00"
-      },
-      {
-        "title": "Several killed in Russia’s ‘double-tap’ drone strike on Ukraine mall",
-        "summary": "Ukraine’s president accuses Russia of a ‘cowardly and deliberate’ attack on a mall in his hometown of Kryvyi Rih.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/several-killed-in-russias-double-tap-drone-strike-on-ukraine-mall?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-08-22T00:06:48+00:00"
-      },
-      {
-        "title": "Iran war live: Trump says he views Strait of Hormuz as ‘American territory’",
-        "summary": "US president says Iran 'would love to make a deal, but they’re not ready to make the right deal in my opinion'.",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/8/22/iran-war-live-trump-says-tehran-not-ready-to-make-right-deal-to-end-war?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-08-22T00:00:00+00:00"
-      },
-      {
-        "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
-        "summary": "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13.",
-        "link": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "2026-08-21T22:36:12+00:00"
-      },
-      {
-        "title": "One killed in sword attack at Swedish school",
-        "summary": "Officials say another three people were injured, and an 18-year-old male suspect shot and arrested.",
-        "link": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "2026-08-21T21:03:24+00:00"
-      },
-      {
-        "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
-        "summary": "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024.",
-        "link": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "2026-08-21T15:58:57+00:00"
-      },
-      {
-        "title": "JD Vance reportedly mocks Carney for trying to ‘out-tough’ Trump on trade",
-        "summary": "Audio recording of US vice-president apparently made at New York fundraiser and shared with Canadian Press Leaked audio from a private event has reportedly captured the US vice-president, JD Vance, mocking Canada for…",
-        "link": "https://www.theguardian.com/us-news/2026/aug/21/jd-vance-mark-carney-out-tough-trump-trade",
-        "source": "The Guardian World",
-        "published": "2026-08-21T15:22:48+00:00"
+        "published": "2026-08-22T13:13:16+00:00"
       }
     ],
     "India": [
       {
-        "title": "Uttar Pradesh, Japan’s Yamanashi sign four MoUs; ₹600-crore fund for MSMEs",
-        "summary": "The ₹600-crore Yamanashi fund, the dedicated Yamanashi Desk at Invest UP and regular coordination with JETRO and JICA will help us move faster from dialogue to implementation, says Uttar Pradesh CM Yogi Adityanath",
-        "link": "https://www.thehindu.com/news/national/uttar-pradesh/uttar-pradesh-japans-yamanashi-sign-four-mous-600-crore-fund-for-msmes/article71374674.ece",
+        "title": "Transshipment scam or efficient supply chain? How U.S. firms turn it into profit?",
+        "summary": "Data and industry sources reveal little Chinese ownership of such pumps/components sent to the U.S. by Indian/India-based companies",
+        "link": "https://www.thehindu.com/business/transshipment-scam-or-efficient-supply-chain-how-us-firms-turn-it-into-profit/article71374582.ece",
         "source": "The Hindu",
-        "published": "2026-08-22T02:20:22+00:00"
+        "published": "2026-08-23T02:40:16+00:00"
       },
       {
-        "title": "BJP government in Odisha moves to give grand tribute to VHP leader",
-        "summary": "The Mohan Majhi Government will develop Swami Laxmanananda Saraswati’s village as heritage village",
-        "link": "https://www.thehindu.com/news/national/odisha/bjp-government-in-odisha-moves-to-give-grand-tribute-to-vhp-leader/article71373971.ece",
+        "title": "U.P. Deputy CM Brajesh Pathak meets reservation reform movement agitators, assures dialogue with Union Ministers",
+        "summary": "Other key members of the reservation reform movement distanced themselves from the meeting, adding that the movement is very much on, and it will continue until the government speak to representatives directly",
+        "link": "https://www.thehindu.com/news/national/uttar-pradesh/up-deputy-cm-brajesh-pathak-meets-reservation-reform-movement-agitators-assures-dialogue-with-union-ministers/article71378491.ece",
         "source": "The Hindu",
-        "published": "2026-08-22T02:08:11+00:00"
+        "published": "2026-08-23T02:19:07+00:00"
       },
       {
-        "title": "Beyond the walls of Siddhavatam Fort",
-        "summary": "Once a strategic military outpost and briefly the administrative headquarters of the Cuddapah district, the fort witnessed shifting centres of power. Its history, inscriptions, temples, sculptures, and architectural…",
-        "link": "https://www.thehindu.com/news/cities/Visakhapatnam/beyond-the-walls-of-siddhavatam-fort/article71373272.ece",
-        "source": "The Hindu",
-        "published": "2026-08-22T01:54:57+00:00"
-      },
-      {
-        "title": "Over 50 detained at Jantar Mantar; protesters demand reservation for poor, not castes",
-        "summary": "Delhi Police detained several protesters gathered at Jantar Mantar for an anti-reservation demonstration. Security was tightened around the protest site amid a heavy turnout of demonstrators. Protesters demanded…",
-        "link": "https://timesofindia.indiatimes.com/city/delhi/reservation-hatao-andolan-over-50-detained-at-jantar-mantar-reservation-should-go-to-poor-not-castes-say-protesters/articleshow/133415748.cms",
-        "source": "Times of India",
-        "published": "2026-08-22T01:45:48+00:00"
-      },
-      {
-        "title": "Ahead of MHA-Ladakh talks in September, Centre’s outreach sees withdrawal of cases against Leh protestors",
-        "summary": "Ladakh’s key civil society groups, including Leh Apex Body (LAB) and Kargil Democratic Alliance (KDA), earlier this week submitted a list of “non-negotiable” demands to the administration and insisted on the withdrawal…",
-        "link": "https://www.thehindu.com/news/national/ladakh/ahead-of-mha-ladakh-talks-in-september-centres-outreach-sees-withdrawal-of-cases-against-leh-protestors/article71374523.ece",
-        "source": "The Hindu",
-        "published": "2026-08-22T01:44:50+00:00"
-      },
-      {
-        "title": "Pellet injuries: FIR filed after Rahul Gandhi sits on dharna",
-        "summary": "Delhi Police registered a case after Rahul Gandhi staged a dharna. He demanded an FIR for pellet injuries suffered by Sahil Lochab. Gandhi reached the police station with Lochab and his mother. Priyanka Gandhi Vadra and…",
-        "link": "https://timesofindia.indiatimes.com/city/delhi/pellet-injuries-fir-filed-after-rahul-sits-on-dharna/articleshow/133415843.cms",
-        "source": "Times of India",
-        "published": "2026-08-22T01:44:18+00:00"
-      },
-      {
-        "title": "From heritage to high-rises, how Chennai grew taller",
-        "summary": "",
-        "link": "https://www.thehindu.com/news/cities/chennai/madras-day-2026-from-heritage-to-high-rises-how-chennai-grew-taller/article71369048.ece",
-        "source": "The Hindu",
-        "published": "2026-08-22T01:44:07+00:00"
-      },
-      {
-        "title": "Canada gurdwara stabbing: 2 injured in Edmonton, suspect held day after prison release",
-        "summary": "",
-        "link": "https://timesofindia.indiatimes.com/world/rest-of-world/canada-gurdwara-stabbing-two-injured-in-edmonton-suspect-held-day-after-prison-release/articleshow/133415804.cms",
-        "source": "Times of India",
-        "published": "2026-08-22T01:40:39+00:00"
-      },
-      {
-        "title": "Uttar Pradesh holds dairy conclaves to boost rural economy, women’s empowerment",
-        "summary": "Dhanalakshmi K., Dairy Commissioner of Uttar Pradesh, said that members of milk unions, milk-producing farmers, and self-help groups are encouraged to take help from welfare measures.",
-        "link": "https://www.thehindu.com/news/national/uttar-pradesh/uttar-pradesh-holds-dairy-conclaves-to-boost-rural-economy-womens-empowerment/article71374831.ece",
-        "source": "The Hindu",
-        "published": "2026-08-22T01:26:40+00:00"
-      },
-      {
-        "title": "Headingley horror! Pakistan create unwanted Test record in crushing defeat",
-        "summary": "Pakistan achieved an unwanted Test record by losing their opening wicket for zero runs in both innings. This rare feat occurred for the seventh time in their Test match history. England's bowlers dominated the match,…",
-        "link": "https://timesofindia.indiatimes.com/sports/cricket/news/headingley-horror-pakistan-create-unwanted-test-record-in-crushing-england-defeat/articleshow/133415698.cms",
-        "source": "Times of India",
-        "published": "2026-08-22T01:07:54+00:00"
-      },
-      {
-        "title": "US State California Adopts Resolution To Celebrate Diwali On November 8",
-        "summary": "The California State Assembly adopted a resolution recognising November 8 as Diwali Day.",
-        "link": "https://www.ndtv.com/world-news/us-state-california-adopts-resolution-to-celebrate-diwali-on-november-8-11943106#publisher=newsstand",
+        "title": "Man, 70, Rapes, Impregnates 16-Year-Old Granddaughter In UP's Hathras",
+        "summary": "The teenager, whose mother passed away, lives with her father and grandfather",
+        "link": "https://www.ndtv.com/india-news/hathras-rape-case-man-70-rapes-impregnates-16-year-old-granddaughter-in-uttar-pradesh-hathras-11946473#publisher=newsstand",
         "source": "NDTV",
-        "published": "2026-08-22T00:18:49+00:00"
+        "published": "2026-08-23T02:10:50+00:00"
       },
       {
-        "title": "19-Year-Old Nursing Student Dies By Suicide At Delhi Hostel: Cops",
-        "summary": "The student died by suicide by hanging in her hostel room in Delhi's Rajinder Nagar. (Representational)",
-        "link": "https://www.ndtv.com/delhi-news/19-year-old-nursing-student-dies-by-suicide-at-delhi-hostel-cops-11943093#publisher=newsstand",
+        "title": "2 Killed, 5 Injured As 22-Foot Ganesh Idol Falls On Them In Mumbai",
+        "summary": "All the injured victims are in a stable condition",
+        "link": "https://www.ndtv.com/india-news/2-killed-5-injured-as-22-foot-ganesh-idol-falls-on-them-during-arrival-ceremony-in-mumbai-bhuleshwaracha-raja-11946469#publisher=newsstand",
         "source": "NDTV",
-        "published": "2026-08-21T23:59:19+00:00"
+        "published": "2026-08-23T02:08:00+00:00"
+      },
+      {
+        "title": "ICG deploys ships for search-and-rescue operation after Panama-flagged vessel sinks",
+        "summary": "The ship, with 24 crew members on board, was heading towards Singapore carrying iron ore from Odisha",
+        "link": "https://www.thehindu.com/news/national/panama-flagged-cargo-ship-sinks-in-bay-of-bengal-rescue-operations/article71378882.ece",
+        "source": "The Hindu",
+        "published": "2026-08-23T01:36:41+00:00"
+      },
+      {
+        "title": "India's Rocket Launches Costliest Among Major Space Powers: Cambridge Study",
+        "summary": "This finding arrives even as ISRO awaits its first successful rocket mission of the year.",
+        "link": "https://www.ndtv.com/india-news/indias-rocket-launches-costliest-among-major-space-powers-cambridge-study-11946104#publisher=newsstand",
+        "source": "NDTV",
+        "published": "2026-08-23T01:29:05+00:00"
+      },
+      {
+        "title": "\"Will Be Enemy\": Iran Warns Countries Against Joining Trump's \"Economic War\"",
+        "summary": "Iran said it had more cards to play in the war against the US",
+        "link": "https://www.ndtv.com/world-news/us-iran-war-will-be-enemy-iran-warns-countries-against-joining-trumps-economic-war-11946415#publisher=newsstand",
+        "source": "NDTV",
+        "published": "2026-08-23T01:27:41+00:00"
+      },
+      {
+        "title": "Visit families affected by Ken-Betwa project, hear their grievances: M.P. CM tells officials",
+        "summary": "Chief Minister Yadav directed the Panna and Chhatarpur district administrations to ensure that officials visit every household in the affected villages to understand the actual situation and problems of the families",
+        "link": "https://www.thehindu.com/news/national/madhya-pradesh/visit-families-affected-by-ken-betwa-project-hear-their-grievances-mp-cm-tells-officials/article71378282.ece",
+        "source": "The Hindu",
+        "published": "2026-08-23T01:18:05+00:00"
+      },
+      {
+        "title": "Singapore-Bound Cargo Ship With 24 Crew Members Sinks Off Odisha Coast",
+        "summary": "The Indian Coast Guard and the Indian Navy have launched a joint rescue operation.",
+        "link": "https://www.ndtv.com/india-news/panama-flagged-cargo-ship-sinks-240-nautical-miles-off-odisha-coast-11945752#publisher=newsstand",
+        "source": "NDTV",
+        "published": "2026-08-23T01:14:28+00:00"
+      },
+      {
+        "title": "Sowing the seeds of a solar power intervention",
+        "summary": "India’s emerging agrivoltaics model enables farmers to grow crops beneath solar panels, offering a way to generate electricity while diversifying income. Vanita Bhatnagar speaks to farmers and agri-researchers to find…",
+        "link": "https://www.thehindu.com/news/national/rajasthan/sowing-the-seeds-of-a-solar-power-intervention/article71378860.ece",
+        "source": "The Hindu",
+        "published": "2026-08-23T01:12:53+00:00"
+      },
+      {
+        "title": "Akhilesh’s ‘25 paise’ remark triggers row with RLD, Mayawati demands apology",
+        "summary": "RLD chief Jayant Chaudhary said, “If you had to use some cheap words in the political battle, you could have said it by taking my name. There was no issue…Targeting the Jat community and saying we taught them ABCD?”",
+        "link": "https://www.thehindu.com/news/national/uttar-pradesh/akhilesh-must-apologise-to-jats-for-insulting-family-of-charan-singh-mayawati/article71376609.ece",
+        "source": "The Hindu",
+        "published": "2026-08-23T01:03:15+00:00"
+      },
+      {
+        "title": "Trump shares image calling Hormuz 'new US territory'; Iran says strait 'closed'",
+        "summary": "",
+        "link": "https://timesofindia.indiatimes.com/world/us/trump-shares-image-calling-hormuz-new-us-territory-iran-says-strait-closed/articleshow/133432963.cms",
+        "source": "Times of India",
+        "published": "2026-08-22T22:49:02+00:00"
       }
     ],
     "Business": [
       {
-        "title": "Prince Harry, Elton John and others to pay $13 million after defeat in privacy invasion case against UK publication",
-        "summary": "Prince Harry, Elton John and other claimants have been ordered to pay the Daily Mail in a failed invasion of privacy case. The judgment came two days after the news of Harry and Meghan Markle's return to the UK.",
-        "link": "https://www.livemint.com/news/us-news/prince-harry-elton-john-and-others-to-pay-13-million-after-defeat-in-privacy-invasion-case-against-uk-publication-11787363607366.html",
+        "title": "This CEO's AI agent burned $1,000 while he was having dinner. He says that's not the real problem",
+        "summary": "Maxio CEO Branden Jenkins was surprised to discover that his AI coding session had automatically charged him $1,000 over a weekend. But he says the bigger challenge of AI adoption is not runaway spending — it is…",
+        "link": "https://www.livemint.com/news/trends/this-ceos-ai-agent-burned-1-000-while-he-was-having-dinner-he-says-thats-not-the-real-problem-11787450354788.html",
         "source": "Livemint",
-        "published": "2026-08-22T02:29:41+00:00"
+        "published": "2026-08-23T02:20:08+00:00"
       },
       {
-        "title": "US military newspaper editor fired for insubordination: 'I work for Stars and Stripes — not Pentagon' | The controversy",
-        "summary": "Erik Slavin, editor-in-chief of the military newspaper that is partly funded by the Pentagon, told AP that he was dismissed for insubordination after an interview he gave that objected to potential censorship by the US…",
-        "link": "https://www.livemint.com/news/us-news/us-military-newspaper-editor-fired-for-insubordination-i-work-for-stars-and-stripes-not-pentagon-the-controversy-11787363450460.html",
+        "title": "CJP claims ‘massive’ victory after Rajasthan Govt orders ₹18 Lakh repairs for ‘buffalo-shed’ school near Jaipur",
+        "summary": "In a statement issued on Saturday, the Rajasthan government said financial approval of ₹12 lakh was issued from the District Mineral Foundation Trust (DMFT) fund on August 13, 2026. Additionally, ₹6 lakh has been…",
+        "link": "https://www.livemint.com/news/india/cjp-claims-massive-victory-after-rajasthan-govt-orders-rs-18-lakh-repairs-for-buffalo-shed-school-near-jaipur-dipke-11787450079843.html",
         "source": "Livemint",
-        "published": "2026-08-22T02:03:05+00:00"
+        "published": "2026-08-23T02:18:59+00:00"
       },
       {
-        "title": "Trump calls Strait of Hormuz ‘American territory’",
+        "title": "Chinese robot outruns Usain Bolt's record",
         "summary": "",
-        "link": "https://economictimes.indiatimes.com/news/international/global-trends/trump-calls-strait-of-hormuz-american-territory-warns-iran-over-nuclear-arms/articleshow/133415911.cms",
+        "link": "https://economictimes.indiatimes.com/news/international/world-news/chinese-humanoid-robot-beats-usain-bolts-100m-record-at-beijing-games/articleshow/133433403.cms",
         "source": "Economic Times",
-        "published": "2026-08-22T01:59:09+00:00"
+        "published": "2026-08-23T02:05:41+00:00"
       },
       {
-        "title": "Petrol and diesel prices today — 22 Aug: Fuel rates in Delhi, Mumbai, Bengaluru as Crude oil sees 6.39% weekly gain",
-        "summary": "Petrol and diesel prices today — 22 Aug: Brent futures rose 6.39% this week following US sanctions threats on Iran. Check fuel rates in Delhi, Mumbai, Bengaluru and other cities here.",
-        "link": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-22-aug-fuel-rates-in-delhi-mumbai-bengaluru-as-crude-oil-sees-6-39-weekly-gain-11787359348348.html",
-        "source": "Livemint",
-        "published": "2026-08-22T01:53:10+00:00"
-      },
-      {
-        "title": "Russia-Ukraine war: 16 killed, over 130 injured in Moscow's drone attack in Kryvyi Rig; Zelenskyy vows response",
-        "summary": "Russia on Friday (local time) launched a drone barrage on Ukraine's Kryvyi Rig, killing 16 people and injuring over 130. Zelenskyy vowed a response and urged allies to strengthen support, while Russia continued strikes…",
-        "link": "https://www.livemint.com/news/world/russiaukraine-war-16-killed-over-130-injured-in-moscows-drone-attack-in-kryvyi-rig-zelenskyy-vows-response-11787360985753.html",
-        "source": "Livemint",
-        "published": "2026-08-22T01:27:23+00:00"
-      },
-      {
-        "title": "What is Israel's internationally condemned E1 West Bank Settlement Plan? ‘It erases two-state delusion’",
-        "summary": "Israel's E1 settlement plan would reportedly carve up land in the West Bank that the Palestinians seek for a state. It would divide the West Bank into north and south, while splitting East Jerusalem – viewed as the…",
-        "link": "https://www.livemint.com/news/world/what-is-israels-internationally-condemned-e1-west-bank-settlement-plan-it-erases-two-state-delusion-11787360909495.html",
-        "source": "Livemint",
-        "published": "2026-08-22T01:15:46+00:00"
-      },
-      {
-        "title": "Centre to leverage AI for maintaining rural roads",
-        "summary": "Artificial intelligence will be used to assess road conditions and classify stretches as good, fair or poor.",
-        "link": "https://www.livemint.com/news/india/centre-to-leverage-ai-for-maintaining-rural-roads-11787307329728.html",
-        "source": "Livemint",
-        "published": "2026-08-22T00:45:59+00:00"
-      },
-      {
-        "title": "'We have more work to do', says Canada negotiator as US trade deadline looms",
-        "summary": "Negotiations to finalise a deal between the US and Canada are going down to the wire ahead of a Friday night deadline.",
-        "link": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "published": "2026-08-22T00:40:47+00:00"
-      },
-      {
-        "title": "War nobody wants: Can Israel, Turkey avoid conflict?",
+        "title": "The bar for dating etiquette is now underground",
         "summary": "",
-        "link": "https://economictimes.indiatimes.com/news/defence/the-next-war-nobody-wants-can-israel-and-turkey-avoid-a-conflict/articleshow/133409318.cms",
+        "link": "https://economictimes.indiatimes.com/news/india/in-the-age-of-dating-apps-basic-decency-is-apparently-a-green-flag/articleshow/133433345.cms",
         "source": "Economic Times",
-        "published": "2026-08-21T16:50:53+00:00"
+        "published": "2026-08-23T01:59:44+00:00"
       },
       {
-        "title": "US borrowing costs rise as attempts to ease rates prove short-lived",
-        "summary": "Economists said there were ongoing concerns over the level of borrowing as national debt passed $40tn.",
-        "link": "https://www.bbc.co.uk/news/articles/cvg92p3ez17o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "published": "2026-08-21T16:45:09+00:00"
-      },
-      {
-        "title": "India just bought its most expensive LNG in years",
+        "title": "Delhi Swine Flu: 2,300 Influenza-A cases reported",
         "summary": "",
-        "link": "https://economictimes.indiatimes.com/industry/energy/oil-gas/india-buys-its-most-expensive-lng-in-years-as-war-upends-market/articleshow/133409410.cms",
+        "link": "https://economictimes.indiatimes.com/news/new-updates/delhi-swine-flu-cases-h1n1-over-2300-influenza-a-cases-reported-what-people-should-know-about-the-latest-health-advisory/articleshow/133433340.cms",
         "source": "Economic Times",
-        "published": "2026-08-21T16:39:39+00:00"
+        "published": "2026-08-23T01:58:49+00:00"
       },
       {
-        "title": "Paytm CEO gets new pay formula as co profits rise",
+        "title": "US-Iran war news LIVE: Strait of Hormuz to remain shut until US corrects its behavior, says Iran's Rezaei",
+        "summary": "US-Iran war news LIVE: Iran's Secretary of the Supreme National Security Council, Mohsen Rezaei, on Saturday (local time) said the Strait of Hormuz will not reopen until the United States fulfils its commitments. Tune…",
+        "link": "https://www.livemint.com/news/us-news/us-iran-war-news-live-latest-updates-donald-trump-mohsen-rezaei-economic-war-nuclear-security-hormuz-oil-routes-11787441888172.html",
+        "source": "Livemint",
+        "published": "2026-08-23T00:15:27+00:00"
+      },
+      {
+        "title": "BJP, RSS want to 'cage' women: Rahul Gandhi",
         "summary": "",
-        "link": "https://economictimes.indiatimes.com/tech/startups/vijay-shekhar-sharmas-rs-4-crore-pay-found-materially-below-peer-median-board-recommends-revision/articleshow/133407199.cms",
+        "link": "https://economictimes.indiatimes.com/news/politics-and-nation/bjp-rss-want-to-cage-women-rahul-gandhi-to-students-in-pune/articleshow/133430687.cms",
         "source": "Economic Times",
-        "published": "2026-08-21T14:31:11+00:00"
+        "published": "2026-08-22T19:23:12+00:00"
+      },
+      {
+        "title": "Walmart to roll out Apple Pay, other contactless payment options, at all US stores from Aug 24",
+        "summary": "The new payment methods will be integrated across all of Walmart's physical stores by the end of the year, as well as on its websites and mobile applications.",
+        "link": "https://www.livemint.com/news/us-news/walmart-to-roll-out-apple-pay-other-contactless-payment-options-at-all-us-stores-from-aug-24-11787408573245.html",
+        "source": "Livemint",
+        "published": "2026-08-22T17:14:48+00:00"
+      },
+      {
+        "title": "Trump's 50% Canada tariffs kick in: Whisky, alcohol, dairy, motorcycles and more affected | Check list",
+        "summary": "The latest US tariffs came into force at 12:01 am on Saturday, covering a broad range of Canadian products. The affected goods include alcoholic drinks, dairy products and hockey equipment, among several other items.",
+        "link": "https://www.livemint.com/news/us-news/trumps-50-canada-tariffs-kick-in-whisky-alcohol-dairy-motorcycles-and-more-affected-check-list-11787416459825.html",
+        "source": "Livemint",
+        "published": "2026-08-22T17:04:19+00:00"
+      },
+      {
+        "title": "Panama-flagged cargo ship with mostly Chinese crew sinks off Odisha's Paradip coast",
+        "summary": "A Panama-flagged cargo ship carrying 24 crew members, most of them Chinese, sank about 240 nautical miles from Odisha’s Paradip coast. The Indian Coast Guard and Navy have launched a rescue operation, while nearby…",
+        "link": "https://www.livemint.com/news/india/panamaflagged-cargo-ship-with-mostly-chinese-crew-sinks-off-odishas-paradip-coast-11787417377791.html",
+        "source": "Livemint",
+        "published": "2026-08-22T16:57:49+00:00"
+      },
+      {
+        "title": "Cargo ship with Chinese crew sinks near Odisha",
+        "summary": "",
+        "link": "https://economictimes.indiatimes.com/news/india/panama-flagged-cargo-ship-with-24-crew-members-sinks-in-bay-of-bengal-240-nautical-miles-off-odisha-rescue-operations-underway/articleshow/133427981.cms",
+        "source": "Economic Times",
+        "published": "2026-08-22T16:48:52+00:00"
+      },
+      {
+        "title": "Next export story: $50 bn prize India can't miss",
+        "summary": "",
+        "link": "https://economictimes.indiatimes.com/industry/telecom/telecom-news/telecom-sector-the-next-export-story-a-50-billion-prize-india-cant-afford-to-miss/articleshow/133423767.cms",
+        "source": "Economic Times",
+        "published": "2026-08-22T12:24:12+00:00"
       }
     ],
     "Technology": [
       {
-        "title": "Michael Polansky is training an AI model on skin that’s still alive",
-        "summary": "Michael Polansky — better known publicly as Lady Gaga's partner and a former top deputy to Sean Parker — has quietly spent years building an AI-driven startup that keeps living human skin tissue alive for weeks outside…",
-        "link": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
+        "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+        "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
+        "link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
         "source": "TechCrunch",
-        "published": "2026-08-22T01:31:04+00:00"
+        "published": "2026-08-22T21:46:56+00:00"
       },
       {
-        "title": "Japanese space tech startup Letara expands beyond satellite thrusters with $16M",
-        "summary": "Japanese space startup Letara is betting its hybrid rocket technology can move beyond small satellite thrusters into a broader market for space, defense and security, after raising ¥2.6 billion ($16 million).",
-        "link": "https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/",
+        "title": "Will the DOJ’s investigation into a16z spook other VCs?",
+        "summary": "On the latest episode of Equity, we wonder why the DOJ is investigating startup board seats.",
+        "link": "https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/",
         "source": "TechCrunch",
-        "published": "2026-08-22T01:03:06+00:00"
+        "published": "2026-08-22T20:24:20+00:00"
       },
       {
-        "title": "Anthropic’s Opus 4.6 is a smut-machine",
-        "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
-        "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+        "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+        "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
+        "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
         "source": "TechCrunch",
-        "published": "2026-08-21T23:07:25+00:00"
+        "published": "2026-08-22T19:00:00+00:00"
       },
       {
-        "title": "Nvidia partners with data center developer Cloverleaf",
-        "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
-        "link": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+        "title": "OpenAI says California should strengthen its AI safety bill",
+        "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
+        "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
         "source": "TechCrunch",
-        "published": "2026-08-21T22:37:38+00:00"
+        "published": "2026-08-22T16:30:34+00:00"
+      },
+      {
+        "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
+        "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
+        "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+        "source": "TechCrunch",
+        "published": "2026-08-22T16:00:00+00:00"
+      },
+      {
+        "title": "US battery startups have found a lifeline in defense",
+        "summary": "U.S. battery startups pulled in $500 million in grants from the Department of Energy, throwing a lifeline to an industry that was on the ropes after EV incentives were slashed.",
+        "link": "https://techcrunch.com/2026/08/22/us-battery-startups-have-found-a-lifeline-in-defense/",
+        "source": "TechCrunch",
+        "published": "2026-08-22T15:20:00+00:00"
+      },
+      {
+        "title": "Robot horse and rider steal the spotlight at Chinese conference",
+        "summary": "More than 300 companies are showcasing the latest advances in robotics at the five-day event in Beijing, China, organisers say.",
+        "link": "https://www.bbc.co.uk/news/videos/cy4k4d3lj21o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Technology",
+        "published": "2026-08-22T12:47:28+00:00"
       },
       {
         "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
@@ -294,20 +315,6 @@
         "link": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
         "source": "BBC Technology",
         "published": "2026-08-21T22:36:12+00:00"
-      },
-      {
-        "title": "How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours",
-        "summary": "Rillet CEO Nicolas Kopp shared growth numbers at a board meeting and set off a fundraising frenzy from Iconiq, Sequoia and others. Without even trying.",
-        "link": "https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/",
-        "source": "TechCrunch",
-        "published": "2026-08-21T22:10:01+00:00"
-      },
-      {
-        "title": "Apple is reportedly cutting hundreds of jobs from Siri, Vision Pro teams",
-        "summary": "Apple has admitted that some roles are being impacted as it shifts its focus away from certain initiatives.",
-        "link": "https://techcrunch.com/2026/08/21/apple-is-reportedly-cutting-hundreds-of-jobs-from-siri-vision-pro-teams/",
-        "source": "TechCrunch",
-        "published": "2026-08-21T20:58:07+00:00"
       },
       {
         "title": "How landscape gardening is being electrified",
@@ -336,99 +343,92 @@
         "link": "https://www.bbc.co.uk/news/articles/c0ej09nywdno?at_medium=RSS&at_campaign=rss",
         "source": "BBC Technology",
         "published": "2026-08-19T16:14:46+00:00"
-      },
-      {
-        "title": "Monzo says issue with card payments and transfers now resolved",
-        "summary": "The digital bank said all of its services were now \"back up and running\"",
-        "link": "https://www.bbc.co.uk/news/articles/cwyrvxvl1eeo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Technology",
-        "published": "2026-08-19T16:04:16+00:00"
       }
     ],
     "Sports": [
       {
-        "title": "Starc rips through Bangladesh with five wickets in 22 balls",
-        "summary": "The visitors were in tatters at lunch on the opening day of the second Test after being asked to bat",
-        "link": "https://www.cricinfo.com/ci/content/story/1550957.html?ex_cid=OTC-RSS",
+        "title": "Starc makes early inroads after Australia build lead of 146",
+        "summary": "Cameron Green and Nathan Lyon added valuable runs on the second morning",
+        "link": "https://www.cricinfo.com/ci/content/story/1551163.html?ex_cid=OTC-RSS",
         "source": "ESPN Cricinfo",
-        "published": "2026-08-22T02:27:25+00:00"
+        "published": "2026-08-23T02:12:34+00:00"
       },
       {
-        "title": "Australia bowl first on Mackay's Test debut; Shoriful in for Bangladesh",
-        "summary": "After surprising many by batting first in Darwin, Australia's captain went the opposite way in the second Test",
-        "link": "https://www.cricinfo.com/ci/content/story/1550946.html?ex_cid=OTC-RSS",
+        "title": "Gautam Gambhir, Shubman Gill Refuse To Release India Reserves For Duleep Trophy: Report",
+        "summary": "File image of Gautam Gambhir with Shubman Gill",
+        "link": "https://sports.ndtv.com/cricket/gautam-gambhir-shubman-gill-refuse-to-release-india-reserves-for-duleep-trophy-report-11946435#publisher=newsstand",
+        "source": "NDTV Sports",
+        "published": "2026-08-23T01:43:08+00:00"
+      },
+      {
+        "title": "Australia vs Bangladesh Live Score Updates, 2nd Test Day 2",
+        "summary": "2nd Test: Australia vs Bangladesh Live Score Updates",
+        "link": "https://sports.ndtv.com/cricket/australia-vs-bangladesh-live-score-updates-2nd-test-day-2-cameron-green-nathan-lyon-mitchell-starc-11945961#publisher=newsstand",
+        "source": "NDTV Sports",
+        "published": "2026-08-23T01:24:52+00:00"
+      },
+      {
+        "title": "\"Not The Next In Line\": Ex-India Star's Blunt Take On KL Rahul's Vice-Captaincy",
+        "summary": "KL Rahul (right) won't be named the next India Test captain, feels Aakash Chopra.",
+        "link": "https://sports.ndtv.com/cricket/not-the-next-in-line-ex-india-stars-blunt-take-on-kl-rahuls-vice-captaincy-11945548#publisher=newsstand",
+        "source": "NDTV Sports",
+        "published": "2026-08-23T00:54:07+00:00"
+      },
+      {
+        "title": "Gautam Gambhir, Shubman Gill Urged To Back Underfire India Star By Ajinkya Rahane: \"He Will Deliver\"",
+        "summary": "Ajinkya Rahane feels Kuldeep Yadav is a proven match-winner who needs consistent backing.",
+        "link": "https://sports.ndtv.com/cricket/gautam-gambhir-shubman-gill-urged-to-back-underfire-india-star-by-ajinkya-rahane-he-will-deliver-11940675#publisher=newsstand",
+        "source": "NDTV Sports",
+        "published": "2026-08-23T00:51:11+00:00"
+      },
+      {
+        "title": "Northants close in as Vasconcelos ton cements dominance",
+        "summary": "Lancashire blitzed for 137 early in day and then lose two before close after being set 446 to win",
+        "link": "https://www.cricinfo.com/ci/content/story/1551053.html?ex_cid=OTC-RSS",
         "source": "ESPN Cricinfo",
-        "published": "2026-08-21T23:52:05+00:00"
+        "published": "2026-08-22T21:29:10+00:00"
       },
       {
-        "title": "Lessons learned, but Coventry's top-flight return about more than result",
-        "summary": "Twenty-five years, 94 days and countless twists later, Coventry City have started life back in the Premier League, but it was a tough baptism of fire with a 3-0 loss at defending champions Arsenal.",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cp8e37mpp0eo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "published": "2026-08-21T23:13:13+00:00"
-      },
-      {
-        "title": "Swaggering Arsenal want title attack, not defence",
-        "summary": "Arsenal started last season as nearly men but their title win has given them a swagger - as Coventry discovered on the Premier League's opening night.",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cpw94evj1q7o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "published": "2026-08-21T22:55:40+00:00"
-      },
-      {
-        "title": "Arsenal start title defence with comfortable win over Coventry",
-        "summary": "Goals from Kai Havertz, Bukayo Saka and Martin Odegaard give champions Arsenal a comfortable 3-0 win over newcomers Coventry City, in the opening game of the Premier League campaign at the Emirates Stadium.",
-        "link": "https://www.bbc.co.uk/sport/football/videos/cgr7e17010go?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "published": "2026-08-21T21:35:28+00:00"
-      },
-      {
-        "title": "Milnes five-for puts Kent in charge against Middlesex",
-        "summary": "Toby Roland-Jones battles for home side as they concede hefty first-innings deficit",
-        "link": "https://www.cricinfo.com/ci/content/story/1550935.html?ex_cid=OTC-RSS",
+        "title": "Woakes holds nerve for Warwickshire in title-igniting thriller",
+        "summary": "Epic one-wicket win over Sussex sets up Bears for Championship run-in",
+        "link": "https://www.cricinfo.com/ci/content/story/1551047.html?ex_cid=OTC-RSS",
         "source": "ESPN Cricinfo",
-        "published": "2026-08-21T20:13:02+00:00"
+        "published": "2026-08-22T21:28:27+00:00"
       },
       {
-        "title": "Man Utd agree £70m fee for Brighton's Baleba",
-        "summary": "Manchester United agree a fee of up to £70m for Brighton midfielder Carlos Baleba.",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cwy452d662ko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "published": "2026-08-21T19:58:11+00:00"
-      },
-      {
-        "title": "Neeraj Chopra At Lausanne Diamond League 2026 Highlights: Neeraj Chopra 2nd With Season Best 88.05m Throw, SL's Rumesh Pathirage Completes Hattrick",
-        "summary": "Neeraj Chopra Highlights, Lausanne Diamond League 2026",
-        "link": "https://sports.ndtv.com/athletics/neeraj-chopra-lausanne-diamond-league-2026-live-updates-results-javelin-throw-event-in-switzerland-rumesh-pathirage-11942272#publisher=newsstand",
-        "source": "NDTV Sports",
-        "published": "2026-08-21T19:57:45+00:00"
-      },
-      {
-        "title": "0.09m: Fine Margins As Neeraj Chopra Beaten By Rumesh Pathirage At Lausanne Diamond League 2026",
-        "summary": "Neeraj Chopra at Lausanne Diamond League 2026",
-        "link": "https://sports.ndtv.com/athletics/0-09m-fine-margins-as-neeraj-chopra-beaten-by-rumesh-pathirage-at-lausanne-diamond-league-2026-11942818#publisher=newsstand",
-        "source": "NDTV Sports",
-        "published": "2026-08-21T19:53:28+00:00"
-      },
-      {
-        "title": "Top-Ranked An Se-Young, Holder Akane Yamaguchi Reach Badminton World Championships Semi-Finals",
-        "summary": "An Se-young in action at BWF World Championships 2026",
-        "link": "https://sports.ndtv.com/badminton/top-ranked-an-se-young-holder-akane-yamaguchi-reach-badminton-world-championships-semi-finals-11941821#publisher=newsstand",
-        "source": "NDTV Sports",
-        "published": "2026-08-21T19:48:43+00:00"
-      },
-      {
-        "title": "Bartlett battles to give Northants a fighting chance at Old Trafford",
-        "summary": "Lancashire lose two wickets in reply as promotion race hots up",
-        "link": "https://www.cricinfo.com/ci/content/story/1550934.html?ex_cid=OTC-RSS",
+        "title": "Carlson keeps Glamorgan in hunt after Gumbs shows quality",
+        "summary": "Rookie Leicestershire opener falls for 93 but not before giving hosts a glimmer of victory",
+        "link": "https://www.cricinfo.com/ci/content/story/1551048.html?ex_cid=OTC-RSS",
         "source": "ESPN Cricinfo",
-        "published": "2026-08-21T19:43:31+00:00"
+        "published": "2026-08-22T20:21:27+00:00"
       },
       {
-        "title": "George Russell Roars To Sprint Pole At Dutch GP, Championship Leader Kimi Antonelli P5",
-        "summary": "George Russell celebrates after his Dutch GP sprint pole",
-        "link": "https://sports.ndtv.com/formula-1/george-russell-roars-to-sprint-pole-at-dutch-gp-championship-leader-kimi-antonelli-p5-11942130#publisher=newsstand",
+        "title": "All-round Hill leaves Hampshire with a mountain to climb",
+        "summary": "Hampshire need 172 more runs with seven wickets in hand",
+        "link": "https://www.cricinfo.com/ci/content/story/1551050.html?ex_cid=OTC-RSS",
+        "source": "ESPN Cricinfo",
+        "published": "2026-08-22T20:11:34+00:00"
+      },
+      {
+        "title": "Ekansh Singh fires Kent push after Compton, Muyeye fifties",
+        "summary": "Middlesex stumble after being set 356 to win at Merchant Taylors' School",
+        "link": "https://www.cricinfo.com/ci/content/story/1551051.html?ex_cid=OTC-RSS",
+        "source": "ESPN Cricinfo",
+        "published": "2026-08-22T19:17:59+00:00"
+      },
+      {
+        "title": "The Equation Is Brutal: What India Need After Painful Loss To Netherlands In Hockey World Cup",
+        "summary": "Photo from the India vs Netherlands Hockey World Cup match.",
+        "link": "https://sports.ndtv.com/hockey/how-can-india-qualify-for-hockey-world-cup-semi-finals-after-loss-to-netherlands-11945706#publisher=newsstand",
         "source": "NDTV Sports",
-        "published": "2026-08-21T19:42:33+00:00"
+        "published": "2026-08-22T19:03:35+00:00"
+      },
+      {
+        "title": "Brentford beat lacklustre Spurs in comfortable opening day win",
+        "summary": "Tottenham Hotspur's Premier League season under Roberto De Zerbi gets off to a dismal start as they lose 3-0 to a dominant Brentford side at the Gtech Community Stadium.",
+        "link": "https://www.bbc.co.uk/sport/football/videos/cqx75yq28rwo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "published": "2026-08-22T19:02:31+00:00"
       }
     ]
   }
