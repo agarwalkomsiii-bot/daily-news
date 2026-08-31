@@ -1,313 +1,313 @@
 {
-  "generated_at": "2026-08-30 07:11",
+  "generated_at": "2026-08-31 07:26",
   "data": {
     "World": [
       {
-        "title": "Manhunt after one killed and five injured in Swiss shooting, police say",
-        "summary": "A major police operation has been launched after the shooting at an event near Zurich overnight.",
+        "title": "US and Iran trade strikes for first time in weeks",
+        "summary": "Iran says the attack on Larak Island, the first known US strikes since late July, killed two people and injured two others.",
+        "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "2026-08-31T07:04:36+00:00"
+      },
+      {
+        "title": "FIFA president Infantino ‘must go’, says former UEFA boss Platini",
+        "summary": "In a scathing interview, French great Michel Platini accuses Infantino of always loving 'money and power'.",
+        "link": "https://www.aljazeera.com/sports/2026/8/31/fifa-president-infantino-must-go-says-former-uefa-boss-platini?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-08-31T06:33:06+00:00"
+      },
+      {
+        "title": "Aston Villa vs Arsenal: Premier League – prediction, team news, lineups",
+        "summary": "Declan Rice continues to star for Arsenal, who may add Julian Alvarez to ranks, but hosts Villa are sore from sales.",
+        "link": "https://www.aljazeera.com/sports/2026/8/31/aston-villa-vs-arsenal-premier-league-prediction-team-news-lineups?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-08-31T05:37:23+00:00"
+      },
+      {
+        "title": "Tennis great Djokovic exits US Open in first round amid tears and pain",
+        "summary": "Novak Djokovic's pursuit of a 25th Grand Slam ends in a five-set defeat to unseeded Argentinian player Mariano Navone.",
+        "link": "https://www.aljazeera.com/sports/2026/8/31/tennis-great-djokovic-exits-us-open-in-first-round-amid-tears-and-pain?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-08-31T05:31:25+00:00"
+      },
+      {
+        "title": "Global coral reef coverage risks irreversible decline, new report warns",
+        "summary": "Coral reefs make up just 1 percent of ocean coverage, but host a quarter of all life in the sea.",
+        "link": "https://www.aljazeera.com/news/2026/8/31/global-coral-reef-coverage-risks-irreversible-decline-new-report-warns?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-08-31T05:19:05+00:00"
+      },
+      {
+        "title": "People return to their flood-ravaged homes in Nepal",
+        "summary": "Survivors in Nepal’s Nuwakot district are digging through mud and debris for belongings left behind by flash floods.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/08-31-26-nepal-aftermath-clip?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-08-31T04:19:22+00:00"
+      },
+      {
+        "title": "Russia, China leaders to meet at Shanghai Cooperation Organisation summit",
+        "summary": "The organisation is not officially anti-West, but Russian and Chinese leaders have used it to amplify their worldview.",
+        "link": "https://www.aljazeera.com/news/2026/8/31/russia-china-leaders-to-meet-at-shanghai-cooperation-organisation-summit?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-08-31T04:18:23+00:00"
+      },
+      {
+        "title": "Eight killed and 18 missing after ferry capsizes off northern Cyprus",
+        "summary": "A search and rescue operation is under way after a ferry carrying nearly 270 people turns over after leaving port.",
+        "link": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "2026-08-31T03:56:15+00:00"
+      },
+      {
+        "title": "15 hikers feared missing after 'terrifying' flash flooding hits Grand Canyon",
+        "summary": "\"It was a beautiful day - and then people were screaming,\" one hiker who was airlifted to safety tells the BBC.",
+        "link": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "2026-08-30T23:52:27+00:00"
+      },
+      {
+        "title": "Canada erects giant ‘Lake Ontario’ sign as spat with Trump over name escalates",
+        "summary": "Meanwhile, Trump posts video of himself kicking over a Lake Ontario sign and replacing it with Lake America sign Donald Trump and Canada continued a verbal duel on Saturday over the US government’s administrative…",
+        "link": "https://www.theguardian.com/us-news/2026/aug/30/canada-trump-lake-ontario-name",
+        "source": "The Guardian World",
+        "published": "2026-08-30T18:57:22+00:00"
+      },
+      {
+        "title": "'A giant leap forward': Nasa launches powerful new space telescope",
+        "summary": "The US space agency's telescope is starting a multi-year mission to create a new map of the universe and learn more about dark energy and dark matter.",
+        "link": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "2026-08-30T18:53:53+00:00"
+      },
+      {
+        "title": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
+        "summary": "Five others in their twenties were injured after shots were fired at a techno event near Zurich.",
         "link": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "2026-08-30T07:05:20+00:00"
-      },
-      {
-        "title": "Humanitarian crisis worsening in refuge for civilians fleeing Sudan’s civil war",
-        "summary": "Conditions are deteriorating in city of El Obeid and camps on its outskirts, with more people arriving every day Humanitarian conditions in the Sudanese city of El Obeid and two camps on its outskirts are dire and…",
-        "link": "https://www.theguardian.com/world/2026/aug/30/humanitarian-crisis-worsening-refuge-civilians-sudan-el-obeid",
-        "source": "The Guardian World",
-        "published": "2026-08-30T06:00:48+00:00"
-      },
-      {
-        "title": "Hrgovic wins IBF world heavyweight boxing title as Itauma hospitalised",
-        "summary": "Filip Hrgovic is the first Croatian to become a world heavyweight boxing champion after beating Briton Moses Itauma.",
-        "link": "https://www.aljazeera.com/sports/2026/8/30/hrgovic-wins-ibf-world-heavyweight-boxing-title-as-itauma-hospitalised?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-08-30T05:58:28+00:00"
-      },
-      {
-        "title": "Mapping Iran war’s strikes on Gulf energy – and what comes next for oil",
-        "summary": "US energy companies have reaped billions from rising oil price, but their assets in the region remain at risk.",
-        "link": "https://www.aljazeera.com/news/2026/8/30/mapping-the-iran-wars-strikes-on-gulf-energy-and-what-comes-next-for-oil?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-08-30T05:09:11+00:00"
-      },
-      {
-        "title": "WhatsApp chat used to send cash for crime and extremism",
-        "summary": "The WhatsApp money launderers arranged cash transfers in the UK and around the world with no paper trail.",
-        "link": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "2026-08-30T04:59:56+00:00"
-      },
-      {
-        "title": "US police officer pulls hair, throws punches during arrest in Arkansas",
-        "summary": "Footage shows an Arkansas state patrol officer pulling a passenger by his hair and punching him during an arrest.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/us-police-officer-pulls-hair-throws-punches-during-arrest-in-arkansas?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-08-30T04:50:17+00:00"
-      },
-      {
-        "title": "Protests as India’s Hindu nationalists take centre stage in New York",
-        "summary": "Demonstrators rallied against a celebration in New York City that was hosting Mohan Bhagwat, chief of the RSS.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/protests-as-indias-hindu-nationalists-take-centre-stage-in-new-york?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-08-30T04:31:06+00:00"
-      },
-      {
-        "title": "Air raids, conscripts and China: How Myanmar’s military is regaining ground",
-        "summary": "Rebel fighters in Myanmar lose key towns as conscription, relentless air raids and Chinese support bolster the military.",
-        "link": "https://www.aljazeera.com/news/2026/8/30/air-raids-conscripts-and-china-how-myanmars-military-is-regaining-ground?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-08-30T04:28:10+00:00"
-      },
-      {
-        "title": "Sudanese repair roads by hand in Darfur to improve emergency access",
-        "summary": "Residents of Golo in Sudan’s central Darfur are clearing and repairing a rugged road by hand to help emergency vehicles.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/sudanese-repair-roads-by-hand-in-darfur-to-improve-emergency-access?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-08-30T04:05:04+00:00"
-      },
-      {
-        "title": "Iceland EU referendum on a knife edge as counting continues",
-        "summary": "A vote on whether to resume membership talks with the European Union is too close to call.",
-        "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "2026-08-30T03:57:01+00:00"
-      },
-      {
-        "title": "Large Lake Ontario sign installed in Canada in latest jab at US",
-        "summary": "Ontario Premier Doug Ford unveiled a billboard on Canada's shoreline with the message: \"Lake Ontario. Now and Always.\"",
-        "link": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "2026-08-30T00:17:25+00:00"
-      },
-      {
-        "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
-        "summary": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
-        "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "2026-08-29T20:13:16+00:00"
+        "published": "2026-08-30T17:49:31+00:00"
       }
     ],
     "India": [
       {
-        "title": "India provides 68.5 tonnes of relief, Bailey bridge, tunnel expertise to flood-hit Nepal",
-        "summary": "A fourth flight carrying 11 tonnes of relief assistance landed in Nepal on Sunday (August 30, 2026), the Ministry of External Affairs (MEA) said in a post on X",
-        "link": "https://www.thehindu.com/news/international/india-provides-685-tonnes-of-relief-bailey-bridge-tunnel-expertise-to-flood-hit-nepal/article71407149.ece",
+        "title": "Tamil Nadu Congress floor leader Tharahai Cuthbert allotted front-row seat in Assembly",
+        "summary": "DMK party whip in the Assembly E.V. Velu asked Speaker J.C.D. Prabhakar to consider their request to allot front-row seats to senior members including M.H. Jawahirullah and Thameemun Ansari.",
+        "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-congress-floor-leader-tharahai-cuthbert-allotted-front-row-seat-in-assembly/article71409957.ece",
         "source": "The Hindu",
-        "published": "2026-08-30T06:51:44+00:00"
+        "published": "2026-08-31T07:20:11+00:00"
       },
       {
-        "title": "1 Dead, 5 Injured In Shooting Near Rave Attended By 3,500 In Switzerland",
-        "summary": "One witness reported \"bursts of gunfire\".",
-        "link": "https://www.ndtv.com/world-news/switzerland-party-shooting-several-victims-in-shooting-at-rave-party-in-switzerland-3-500-people-attended-event-11977207#publisher=newsstand",
-        "source": "NDTV",
-        "published": "2026-08-30T06:40:36+00:00"
-      },
-      {
-        "title": "Nepal To Bury Unidentified Flood Victims. How They Will Be Identified Later",
-        "summary": "Chitwan, a Nepali district that borders India, recovered the most number of bodies of flood victims",
-        "link": "https://www.ndtv.com/world-news/nepal-flash-floods-nepal-to-bury-unidentified-flood-victims-how-they-will-be-identified-later-11976752#publisher=newsstand",
-        "source": "NDTV",
-        "published": "2026-08-30T06:40:22+00:00"
-      },
-      {
-        "title": "Can an accused be denied a copy of the FIR? | Explained",
-        "summary": "Experts told The Hindu that police officials routinely fail to comply with the Supreme Court’s directive to upload FIRs online within 24 hours of registration. What do statutory provisions stipulate? What are the…",
-        "link": "https://www.thehindu.com/news/national/can-an-accused-be-denied-a-copy-of-the-fir-explained/article71405905.ece",
+        "title": "Indian Navy commissions deep-sea diving vessel INS Nipun",
+        "summary": "INS Nipun was commissioned in the presence of Navy chief Admiral Krishna Swaminathan.",
+        "link": "https://www.thehindu.com/news/national/indian-navy-commissions-deep-sea-diving-vessel-ins-nipun/article71409836.ece",
         "source": "The Hindu",
-        "published": "2026-08-30T06:38:33+00:00"
+        "published": "2026-08-31T07:19:34+00:00"
       },
       {
-        "title": "After 101-years, California business shutting down on Aug 31; owner shares note",
-        "summary": "Hank & Frank Bicycles will close its doors permanently on August 31, 2026. This beloved Bay Area institution has served the community for over a century. The shop's closure is due to the building changing ownership and…",
-        "link": "https://timesofindia.indiatimes.com/technology/tech-news/after-101-years-this-california-business-is-shutting-down-on-august-31-owner-says-in-an-emotional-note-decision-comes-with-/articleshow/133624811.cms",
+        "title": "NIA court sentences accused in Bengaluru Al-Hind ISIS conspiracy case to seven years imprisonment",
+        "summary": "According to the NIA, it has so far filed three chargesheets against 20 accused in the case",
+        "link": "https://www.thehindu.com/news/national/karnataka/nia-court-sentences-accused-in-bengaluru-al-hind-isis-conspiracy-case-to-seven-years-imprisonment/article71407201.ece",
+        "source": "The Hindu",
+        "published": "2026-08-31T07:18:36+00:00"
+      },
+      {
+        "title": "El Niño leaves Telangana 38% rain-deficient in August 2026",
+        "summary": "Rainfall deficit was sharper across Telangana’s major urban areas — Greater Hyderabad Municipal Corporation (GHMC), Cyberabad Municipal Corporation (CMC) and Malkajgiri Municipal Corporation (MMC)",
+        "link": "https://www.thehindu.com/news/national/telangana/el-nino-leaves-telangana-38-rain-deficient-in-august-2026/article71409866.ece",
+        "source": "The Hindu",
+        "published": "2026-08-31T07:18:14+00:00"
+      },
+      {
+        "title": "Madras High Court reserves orders on M.K. Stalin’s plea to declare him elected from Kolathur constituency",
+        "summary": "Chief Justice Sushrut Arvind Dharmadhikari and Justice G. Arul Murugan permit the former Chief Minister to withdraw another writ petition challenging certain provisions of the SOP framed by the ECI for verifying 5% of…",
+        "link": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-reserves-orders-on-mk-stalins-plea-to-declare-him-elected-from-kolathur-constituency/article71409830.ece",
+        "source": "The Hindu",
+        "published": "2026-08-31T07:16:02+00:00"
+      },
+      {
+        "title": "Supreme Court junks plea for mandatory ethanol disclosure at fuel pumps",
+        "summary": "The plea contended that consumers were entitled to know the composition, quality, standards, and compatibility implications of the fuel they purchase",
+        "link": "https://www.thehindu.com/news/national/supreme-court-refuses-to-hear-plea-seeking-mandatory-disclosure-of-ethanol-content-in-petrol-at-fuel-pumps/article71409791.ece",
+        "source": "The Hindu",
+        "published": "2026-08-31T07:14:05+00:00"
+      },
+      {
+        "title": "The 'troika' of Mumbai: 3 dons, 3 spheres, 1 city's underbelly",
+        "summary": "Karim Lala, Haji Mastan, and Varadarajan Mudaliar were pivotal figures in Mumbai's criminal underworld, orchestrating smuggling and gambling operations while wielding significant community dominance. Haji Mastan, known…",
+        "link": "https://timesofindia.indiatimes.com/city/mumbai/the-troika-of-mumbai-3-dons-3-spheres-1-citys-underbelly/articleshow/133634895.cms",
         "source": "Times of India",
-        "published": "2026-08-30T06:37:16+00:00"
+        "published": "2026-08-31T06:28:40+00:00"
       },
       {
-        "title": "Addicted To Drugs, UP Man Throws Acid At Ex-Fiancee, Her Sister For Calling Off Wedding",
-        "summary": "A case has been registered on the basis of the complaint filed by the victims' family",
-        "link": "https://www.ndtv.com/india-news/addicted-to-drugs-up-man-throws-acid-at-ex-fiancee-her-sister-for-calling-off-wedding-11977230#publisher=newsstand",
-        "source": "NDTV",
-        "published": "2026-08-30T06:27:59+00:00"
-      },
-      {
-        "title": "India emerges as key petrol supplier to Russia as refinery attacks disrupt fuel supplies",
-        "summary": "Since 2022, India has pivoted towards Russia to meet the bulk of its crude oil needs — raw material for making fuels like petrol and diesel",
-        "link": "https://www.thehindu.com/news/international/india-emerges-as-key-petrol-supplier-to-russia-as-refinery-attacks-disrupt-fuel-supplies/article71407088.ece",
-        "source": "The Hindu",
-        "published": "2026-08-30T06:19:25+00:00"
-      },
-      {
-        "title": "How A Tea Break Saved 5 Chhattisgarh Friends From Nepal Floods",
-        "summary": "Damaged structures stand alongside a swollen river following flash floods in Nepal",
-        "link": "https://www.ndtv.com/world-news/nepal-flashfloods-nepal-flood-how-a-tea-break-saved-5-chhattisgarh-friends-from-nepal-flash-floods-11977187#publisher=newsstand",
-        "source": "NDTV",
-        "published": "2026-08-30T06:08:44+00:00"
-      },
-      {
-        "title": "Bihar Congress leaders plan Delhi protest on Sept. 8 seeking removal of in-charge, State chief",
-        "summary": "In a letter dated August 15, the workers alleged “disorder” in the Bihar Pradesh Congress Committee (BPCC) during the Assembly election and accused the party’s in-charge of acting arbitrarily in the distribution of…",
-        "link": "https://www.thehindu.com/news/national/bihar/bihar-congress-leaders-plan-delhi-protest-on-sept-8-seeking-removal-of-in-charge-state-chief/article71407082.ece",
-        "source": "The Hindu",
-        "published": "2026-08-30T06:07:12+00:00"
-      },
-      {
-        "title": "Panjab University Law Student Dies By Suicide In Campus Hostel",
-        "summary": "An investigation into the matter has been initiated",
-        "link": "https://www.ndtv.com/india-news/panjab-university-law-student-dies-by-suicide-in-campus-hostel-11976983#publisher=newsstand",
-        "source": "NDTV",
-        "published": "2026-08-30T05:40:25+00:00"
-      },
-      {
-        "title": "Congregation-facing Mass resumes at St. Mary’s Cathedral Basilica in Kochi",
-        "summary": "A sizeable share of priests and laity members of the Ernakulam-Angamaly Archdiocese had been demanding this mode of Mass, while opposing the Unified Mass that the Synod of the Syro-Malabar Church had been insisting on",
-        "link": "https://www.thehindu.com/news/national/kerala/congregation-facing-mass-resumes-at-st-marys-cathedral-basilica-in-kochi/article71407030.ece",
-        "source": "The Hindu",
-        "published": "2026-08-30T05:40:21+00:00"
-      },
-      {
-        "title": "1 killed, 5 injured in shooting at rave party in northern Switzerland",
-        "summary": "",
-        "link": "https://timesofindia.indiatimes.com/world/europe/several-injured-after-shots-fired-at-event-in-switzerlands-aarau/articleshow/133623516.cms",
+        "title": "Vaibhav Sooryavanshi scripts history, breaks all-time Duleep Trophy record",
+        "summary": "Vaibhav Sooryavanshi set a new Duleep Trophy record as the youngest batter to score a half-century. He achieved this milestone at fifteen years and 175 days old during the semi-final match. Sooryavanshi narrowly missed…",
+        "link": "https://timesofindia.indiatimes.com/sports/cricket/news/vaibhav-sooryavanshi-scripts-history-breaks-all-time-duleep-trophy-record-in-semi-final/articleshow/133643835.cms",
         "source": "Times of India",
-        "published": "2026-08-30T05:34:24+00:00"
+        "published": "2026-08-31T06:12:32+00:00"
+      },
+      {
+        "title": "Hundreds Gather In New York For Mayor Zohran Mamdani Look-Alike Contest",
+        "summary": "It wasn't the first time Mamdani look-alikes gathered.",
+        "link": "https://www.ndtv.com/world-news/hundreds-gather-in-new-york-for-mayor-zohran-mamdani-look-alike-contest-11980563#publisher=newsstand",
+        "source": "NDTV",
+        "published": "2026-08-31T06:12:23+00:00"
+      },
+      {
+        "title": "Before Floods, Nepal Asked China For Early Warnings As Risks Mounted",
+        "summary": "China said it has shared important information with Nepal \"in a timely manner.\"",
+        "link": "https://www.ndtv.com/world-news/before-floods-nepal-asked-china-for-early-warnings-as-risks-mounted-11980537#publisher=newsstand",
+        "source": "NDTV",
+        "published": "2026-08-31T06:06:02+00:00"
+      },
+      {
+        "title": "Drunk Pilot Flies Stolen Plane Near Hungary Nuclear Plant, Then Crash-Lands In Field",
+        "summary": "The aircraft made an emergency landing in a sunflower field",
+        "link": "https://www.ndtv.com/world-news/drunk-pilot-flies-stolen-plane-near-hungary-nuclear-plant-crash-lands-in-field-11980132#publisher=newsstand",
+        "source": "NDTV",
+        "published": "2026-08-31T06:02:28+00:00"
+      },
+      {
+        "title": "3-Year-old Boy Allegedly Tied To Chair, Slapped, Hit At Delhi Day Care",
+        "summary": "A video grab shows the teacher hitting the child at a Delhi day care",
+        "link": "https://www.ndtv.com/india-news/3-year-old-boy-tied-to-chair-allegedly-assaulted-at-delhi-day-care-11980496#publisher=newsstand",
+        "source": "NDTV",
+        "published": "2026-08-31T05:58:13+00:00"
       }
     ],
     "Business": [
       {
-        "title": "Quote of the Day by Eleanor Roosevelt: 'Great minds discuss ideas...small minds discuss people'",
-        "summary": "This quote by Eleanor Roosevelt highlights the different ways people choose to use their thoughts and conversations.",
-        "link": "https://www.livemint.com/news/us-news/quote-of-the-day-by-eleanor-roosevelt-great-minds-discuss-ideas-small-minds-discuss-people-11788073322200.html",
+        "title": "E20 row: ‘Right to know’ exact percentage of ethanol in petrol? Supreme Court dismisses plea",
+        "summary": "The Supreme Court on Monday dismissed a petition seeking mandatory labelling/ disclosure of ethanol content in petrol sold across petrol pumps in the country.",
+        "link": "https://www.livemint.com/news/india/e20-row-right-to-know-exact-percentage-of-ethanol-in-petrol-supreme-court-dismisses-plea-11788157951523.html",
         "source": "Livemint",
-        "published": "2026-08-30T07:08:12+00:00"
+        "published": "2026-08-31T06:40:54+00:00"
       },
       {
-        "title": "Vietnam outruns two Asian giants",
-        "summary": "",
-        "link": "https://economictimes.indiatimes.com/news/international/world-news/vietnams-export-triumph-how-a-small-nation-beat-china-and-india-to-become-americas-top-trade-partner/articleshow/133624914.cms",
-        "source": "Economic Times",
-        "published": "2026-08-30T06:50:11+00:00"
-      },
-      {
-        "title": "Switzerland shooting: At least one dead, five injured after shots fired at a rave party in Aargau; probe underway",
-        "summary": "At least one person has been reportedly killed, and five people were injured on Sunday (local time) after a person fired shots at an event in northern Switzerland, local police say.",
-        "link": "https://www.livemint.com/news/world/switzerland-shooting-several-injured-at-a-rave-party-officials-yet-to-confirm-fatalities-as-search-for-accused-begins-11788071199685.html",
+        "title": "Conman Sukesh Chandrasekhar gets 8-year jail for posing as SC judge; moves Delhi HC",
+        "summary": "Tis Hazari Court described Sukesh Chandrasekhar's crime as a “direct affront” to the independence and sanctity of the judicial process.",
+        "link": "https://www.livemint.com/news/india/conman-sukesh-chandrasekhar-gets-8-year-jail-for-posing-as-sc-judge-moves-delhi-hc-11788155151467.html",
         "source": "Livemint",
-        "published": "2026-08-30T06:34:27+00:00"
+        "published": "2026-08-31T06:22:20+00:00"
       },
       {
-        "title": "SBI, SBI Capital Markets plan 1% NSE stake sale",
-        "summary": "",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/sbi-sbi-capital-markets-plan-1-nse-stake-sale-via-ipo/articleshow/133624789.cms",
-        "source": "Economic Times",
-        "published": "2026-08-30T06:33:43+00:00"
-      },
-      {
-        "title": "HDFC Bank’s new CEO hunt sets up a dual test",
-        "summary": "",
-        "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hdfc-bank-ceo-search-tests-investor-confidence-governance-sashidhar-jagdishan-retirement-hdfc-share-price/articleshow/133624769.cms",
-        "source": "Economic Times",
-        "published": "2026-08-30T06:31:46+00:00"
-      },
-      {
-        "title": "‘Flight from Ahmedabad took less time...’: Viral video roasts Bengaluru airport to city commute",
-        "summary": "The man roasted Bengaluru's notorious gridlock after his road commute from the airport into the city took longer than his entire flight from Ahmedabad.",
-        "link": "https://www.livemint.com/news/trends/flight-from-ahmedabad-took-less-time-viral-video-roasts-bengaluru-airport-to-city-commute-11788068446711.html",
+        "title": "Economist Sanjeev Sanyal explains how Kolkata lost its tech edge and Bengaluru won India’s IT crown",
+        "summary": "Economist Sanjeev Sanyal has made a striking claim about Bengaluru's rise as India's technology capital, linking it to the exodus of talent from Kolkata during Jyoti Basu's tenure as West Bengal chief minister.",
+        "link": "https://www.livemint.com/news/trends/economist-sanjeev-sanyal-explains-how-kolkata-lost-its-tech-edge-and-bengaluru-won-india-s-it-crown-11788155831364.html",
         "source": "Livemint",
-        "published": "2026-08-30T06:22:47+00:00"
+        "published": "2026-08-31T06:20:07+00:00"
       },
       {
-        "title": "Jail inmates to work outside to earn in Jharkhand",
-        "summary": "",
-        "link": "https://economictimes.indiatimes.com/news/new-updates/jail-inmates-will-leave-prison-to-work-outside-in-the-morning-and-return-by-evening-to-support-their-families-jharkhand-starts-open-jail-reform/articleshow/133624539.cms",
-        "source": "Economic Times",
-        "published": "2026-08-30T06:18:53+00:00"
-      },
-      {
-        "title": "Khamenei urges Gulf rulers to face 'real enemy'",
-        "summary": "",
-        "link": "https://economictimes.indiatimes.com/news/international/world-news/irans-supreme-leader-mojtaba-khamenei-urges-gulf-rulers-in-written-message-to-confront-real-enemy/articleshow/133624601.cms",
-        "source": "Economic Times",
-        "published": "2026-08-30T06:18:06+00:00"
-      },
-      {
-        "title": "Death toll rises to 734, over 3,000 missing in Nepal, Tibet as authorities warn of fresh flooding | Top Updates",
-        "summary": "Catastrophic floods along the Nepal-China border have killed at least 734 people and left more than 3,000 missing. Rescue teams are searching for survivors, while Nepal has sought international assistance as hundreds…",
-        "link": "https://www.livemint.com/news/world/death-toll-rises-to-734-over-3-000-missing-in-nepal-tibet-as-authorities-warn-of-fresh-flooding-top-updates-11788069889701.html",
+        "title": "NCLAT to hear creditors' plea challenging Subhash Chandra’s repayment plan",
+        "summary": "NCLAT will hear creditors’ challenge to Subhash Chandra’s ₹6.5 crore repayment plan after several lenders opposed the proposal, arguing it could undermine the intent and purpose of the insolvency law.",
+        "link": "https://www.livemint.com/news/subhash-chandra-nclat-nclt-hdfc-bank-insolvency-repayment-plan-essel-group-zee-group-creditors-ibc-11788154853437.html",
         "source": "Livemint",
-        "published": "2026-08-30T06:16:50+00:00"
+        "published": "2026-08-31T05:45:35+00:00"
       },
       {
-        "title": "Headmaster hailed hero for timely action that saved 1,643 school students from Nepal floods",
-        "summary": "Nepal floods wash away a three-story school building. Find out how a headmaster saved all 1,643 students from the deadly floods.",
-        "link": "https://www.livemint.com/news/world/headmaster-hailed-hero-for-timely-action-that-saved-1-643-school-students-from-nepal-floods-11788064572944.html",
-        "source": "Livemint",
-        "published": "2026-08-30T06:13:27+00:00"
-      },
-      {
-        "title": "Why oil-rich Russia buys fuel from India",
+        "title": "These NPS charges will change from October 1",
         "summary": "",
-        "link": "https://economictimes.indiatimes.com/industry/energy/oil-gas/russia-is-one-of-the-worlds-top-oil-producers-so-why-is-it-still-importing-petrol-from-india/articleshow/133624269.cms",
+        "link": "https://economictimes.indiatimes.com/wealth/invest/nps-charges-revised-from-october-1-2026-check-new-pop-onboarding-and-annual-charges-for-nps-nps-lite/articleshow/133642897.cms",
         "source": "Economic Times",
-        "published": "2026-08-30T06:10:18+00:00"
+        "published": "2026-08-31T05:38:18+00:00"
       },
       {
-        "title": "$22 billion extra for fuel: India among countries which paid the most in Strait of Hormuz price shock, reveals study",
-        "summary": "A study revealed that India was among the Top 20 countries incurring the highest gross extra costs for fuel amid the Strait of Hormuz crisis. India reportedly suffered a gross additional cost of USD 22 billion in the…",
-        "link": "https://www.livemint.com/news/india/22-billion-extra-for-fuel-india-among-countries-which-paid-the-most-in-strait-of-hormuz-price-shock-reveals-study-11788066064017.html",
+        "title": "Exclusive: Zomato to lay off 250 people",
+        "summary": "",
+        "link": "https://economictimes.indiatimes.com/tech/technology/exclusive-zomato-to-lay-off-250-people-as-it-shuts-hyderabad-customer-support-centre/articleshow/133642872.cms",
+        "source": "Economic Times",
+        "published": "2026-08-31T05:26:15+00:00"
+      },
+      {
+        "title": "Lessons from Revolut and POSB: how Indian banks can attract more Gen Z",
+        "summary": "Indian banks have a golden opportunity to win India's 400 million Gen Z digital natives. But traditional banks are not competing only with each other but also with neobanks, payment banks, and digital wallets.",
+        "link": "https://www.livemint.com/news/gen-z-public-sector-banks-psbs-banking-for-youth-fintech-digital-banking-upi-neobanks-digital-payments-financia-11788089066432.html",
         "source": "Livemint",
-        "published": "2026-08-30T05:28:23+00:00"
+        "published": "2026-08-31T05:00:14+00:00"
+      },
+      {
+        "title": "Crane catches fire during cargo unloading at Mumbai's BPS port, two injured. Here's what exactly happened — VIDEO",
+        "summary": "According to the Mumbai Police, the incident took place at approximately 7:30 PM on August 30 and involved the vessel “Vienna,” which was flying the Barbados flag.",
+        "link": "https://www.livemint.com/news/us-news/crane-catches-fire-during-cargo-unloading-at-mumbai-bps-port-two-injured-here-what-exactly-happened-video-11788147566832.html",
+        "source": "Livemint",
+        "published": "2026-08-31T04:07:55+00:00"
+      },
+      {
+        "title": "$4 bn, CAS & mess: Something big for markets today",
+        "summary": "",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/msci-rebalancing-threatens-to-turn-messy-in-new-indian-auction/articleshow/133639598.cms",
+        "source": "Economic Times",
+        "published": "2026-08-31T02:06:17+00:00"
+      },
+      {
+        "title": "ET Wealth | Buying house in gated society? 4 checks",
+        "summary": "",
+        "link": "https://economictimes.indiatimes.com/wealth/real-estate/buying-a-house-in-a-big-gated-society-check-these-4-key-things-before-your-dream-home-turns-into-a-nightmare/articleshow/133593735.cms",
+        "source": "Economic Times",
+        "published": "2026-08-31T01:00:00+00:00"
+      },
+      {
+        "title": "A big deal brewing for Starbucks' 13-year old desi rival",
+        "summary": "",
+        "link": "https://economictimes.indiatimes.com/industry/cons-products/food/temasek-chryscap-brew-up-plans-for-blue-tokai-stake-put-rs-1000-1200-crore-on-the-table/articleshow/133636125.cms",
+        "source": "Economic Times",
+        "published": "2026-08-31T00:30:00+00:00"
+      },
+      {
+        "title": "How the US-Canada trade war is being felt on both sides of the border",
+        "summary": "The US-Canada trade war is being felt on both sides of the border.",
+        "link": "https://www.bbc.co.uk/news/articles/c4g4r4lxx25o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "published": "2026-08-31T00:05:22+00:00"
       }
     ],
     "Technology": [
+      {
+        "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
+        "summary": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere.",
+        "link": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
+        "source": "TechCrunch",
+        "published": "2026-08-31T02:34:00+00:00"
+      },
+      {
+        "title": "Grindr wants to be the everything app for gay men; investors are still deciding whether it can pull it off",
+        "summary": "George Arison is done letting Wall Street's \"Grindr discount\" go unchallenged — in a wide-ranging Q&A, the CEO walks us through how AI, a controversial $350-plus EDGE tier, and a bet on healthcare and long-distance…",
+        "link": "https://techcrunch.com/2026/08/30/grindr-wants-to-be-the-everything-app-for-gay-men-investors-are-still-deciding-whether-it-can-pull-it-off/",
+        "source": "TechCrunch",
+        "published": "2026-08-31T02:18:57+00:00"
+      },
+      {
+        "title": "Liux’s Big microcar bets on sustainability to take on Chinese rivals",
+        "summary": "The Liux Big microcar is made in Spain. The startup thinks it can compete in a crowded market with its tiny electric car built around sustainability.",
+        "link": "https://techcrunch.com/2026/08/30/liuxs-big-microcar-bets-on-sustainability-to-take-on-chinese-rivals/",
+        "source": "TechCrunch",
+        "published": "2026-08-30T18:33:44+00:00"
+      },
+      {
+        "title": "Musk’s faster path to more gas turbines comes with pollution problem",
+        "summary": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a fuel source that's already triggering lawsuits and…",
+        "link": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
+        "source": "TechCrunch",
+        "published": "2026-08-30T16:54:25+00:00"
+      },
+      {
+        "title": "TechCrunch Mobility: The hidden human cost of robotaxis",
+        "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+        "link": "https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/",
+        "source": "TechCrunch",
+        "published": "2026-08-30T16:03:00+00:00"
+      },
+      {
+        "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+        "summary": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
+        "link": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+        "source": "TechCrunch",
+        "published": "2026-08-30T15:00:00+00:00"
+      },
       {
         "title": "I've been to Gamescom six times - here's what excited me this year",
         "summary": "The BBC's Laura Cress gets a first look at the biggest games in Cologne from Witcher 3 to Alien: Isolation 2.",
         "link": "https://www.bbc.co.uk/news/articles/cew92lp2g45o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Technology",
         "published": "2026-08-29T23:02:28+00:00"
-      },
-      {
-        "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
-        "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
-        "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
-        "source": "TechCrunch",
-        "published": "2026-08-29T18:41:59+00:00"
-      },
-      {
-        "title": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
-        "summary": "Investors, founders, and operators from across Europe arrived for the annual Nordic TechBBQ conference to talk about how humans can have agency over AI.",
-        "link": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
-        "source": "TechCrunch",
-        "published": "2026-08-29T17:51:10+00:00"
-      },
-      {
-        "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
-        "summary": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why…",
-        "link": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
-        "source": "TechCrunch",
-        "published": "2026-08-29T17:36:47+00:00"
-      },
-      {
-        "title": "Hollywood celebs are getting into microdrama apps",
-        "summary": "Several Hollywood celebs are ditching the massive eight-figure checks and exotic movie sets for a rising format: microdramas.",
-        "link": "https://techcrunch.com/2026/08/29/hollywood-celebs-are-getting-into-microdrama-apps/",
-        "source": "TechCrunch",
-        "published": "2026-08-29T16:10:00+00:00"
-      },
-      {
-        "title": "The Theragun Sense makes everyday recovery surprisingly easy",
-        "summary": "As my 20s are set to come to an end later this year, I’ve officially reached the age where sleeping in the wrong position or stretching just a little too far can cause aches and pains. I’ve always been somewhat…",
-        "link": "https://techcrunch.com/2026/08/29/the-theragun-sense-makes-everyday-recovery-surprisingly-easy/",
-        "source": "TechCrunch",
-        "published": "2026-08-29T14:00:00+00:00"
-      },
-      {
-        "title": "Nvidia’s AI advantage is moving beyond the GPU",
-        "summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
-        "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
-        "source": "TechCrunch",
-        "published": "2026-08-29T13:00:00+00:00"
       },
       {
         "title": "Matt Lucas and Hugh Bonneville among actors calling for law on AI voice cloning",
@@ -347,88 +347,88 @@
     ],
     "Sports": [
       {
-        "title": "Heavyweight Itauma handed harsh world-title lesson",
-        "summary": "British heavyweight Moses Itauma was taught a harsh lesson at world level - what can he learn from defeat and where does the 21-year-old go next?",
-        "link": "https://www.bbc.co.uk/sport/boxing/articles/cg7krndl84do?at_medium=RSS&at_campaign=rss",
+        "title": "Djokovic in tears during US Open first-round exit",
+        "summary": "An emotional Novak Djokovic suffers a US Open first-round defeat which provides further evidence that age is catching up with the 39-year-old great.",
+        "link": "https://www.bbc.co.uk/sport/tennis/articles/c39m1le9gjeo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Sport",
-        "published": "2026-08-30T06:08:52+00:00"
+        "published": "2026-08-31T06:51:44+00:00"
       },
       {
-        "title": "\"This Is Such A Mess\": Tearful Roger Federer Breaks Down During Tennis Hall Of Fame Speech",
-        "summary": "Roger Federer in tears after being inducted into International Tennis Hall of Fame",
-        "link": "https://sports.ndtv.com/tennis/this-is-such-a-mess-tearful-roger-federer-breaks-down-during-tennis-hall-of-fame-speech-11977152#publisher=newsstand",
-        "source": "NDTV Sports",
-        "published": "2026-08-30T05:58:39+00:00"
-      },
-      {
-        "title": "Trinbago Knight Riders retire Dwayne Bravo's No. 47 jersey",
-        "summary": "Dwayne Bravo won the CPL title five times as a player and then as head coach of Trinbago Knight Riders last season",
-        "link": "https://www.cricinfo.com/ci/content/story/1552197.html?ex_cid=OTC-RSS",
-        "source": "ESPN Cricinfo",
-        "published": "2026-08-30T05:29:31+00:00"
-      },
-      {
-        "title": "Central Zone vs East Zone, Duleep Trophy 1st Semi-Final LIVE Updates: Onus On Rajat Patidar As Central Zone Go 2 Down vs East",
-        "summary": "Central Zone vs East Zone, Duleep Trophy 1st Semi-Final LIVE Score Updates",
-        "link": "https://sports.ndtv.com/cricket/central-zone-vs-east-zone-duleep-trophy-1st-semi-final-live-score-updates-vaibhav-sooryavanshi-ishan-kishan-rajat-patidar-11975999#publisher=newsstand",
-        "source": "NDTV Sports",
-        "published": "2026-08-30T05:21:45+00:00"
-      },
-      {
-        "title": "Fighting to stay No 1 - Sabalenka's US Open mission",
-        "summary": "Will Aryna Sabalenka rediscover her mojo? How will Carlos Alcaraz's comeback go? And can Novak Djokovic win? It's time for the 2026 US Open singles.",
-        "link": "https://www.bbc.co.uk/sport/tennis/articles/c4glzvq3pzno?at_medium=RSS&at_campaign=rss",
+        "title": "The transfers to watch before window closes",
+        "summary": "BBC Sport's football experts picks out the standout transfers that could go through before Tuesday's 23:00 BST English deadline.",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c7v433lejveo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Sport",
-        "published": "2026-08-30T05:06:28+00:00"
+        "published": "2026-08-31T06:42:23+00:00"
       },
       {
-        "title": "\"Didn't Work Hard Enough\": Suryakumar Yadav's Blunt Confession Over ODI Catastrophe",
-        "summary": "File photo of Suryakumar Yadav",
-        "link": "https://sports.ndtv.com/cricket/didnt-work-hard-enough-suryakumar-yadavs-blunt-confession-over-odi-catastrophe-11977004#publisher=newsstand",
+        "title": "Babar Azam Exposed During Post-Match Chat, His Response To 'Change' Shows His Tactical Limits",
+        "summary": "Babar Azam's reaction during post-match chat sparks controversy",
+        "link": "https://sports.ndtv.com/cricket/babar-azam-exposed-during-post-match-chat-his-response-to-change-shows-his-tactical-limits-11979866#publisher=newsstand",
         "source": "NDTV Sports",
-        "published": "2026-08-30T05:05:42+00:00"
+        "published": "2026-08-31T06:31:35+00:00"
       },
       {
-        "title": "Kingsmen get past Knight Riders as rain scuttles potential thriller",
-        "summary": "Jamaica Kingsmen were 127 for 3 in 14.4 overs chasing 181 for victory when the rain came down for the second time, ending the game and leaving them seven runs in front",
-        "link": "https://www.cricinfo.com/ci/content/story/1552194.html?ex_cid=OTC-RSS",
+        "title": "Babar Azam Asked About Pakistan Boycott Over Imran Khan's Sons' Interview. His Reply",
+        "summary": "Babar Azam on row over Imran Khan's sons' interview",
+        "link": "https://sports.ndtv.com/cricket/babar-azam-ends-silence-on-boycott-rumours-over-imran-khans-sons-interview-11979908#publisher=newsstand",
+        "source": "NDTV Sports",
+        "published": "2026-08-31T06:29:55+00:00"
+      },
+      {
+        "title": "4.5 Hour Match, Vomit On Court, 5 Sets: Djokovic Out Of US Open in 1st Round",
+        "summary": "Noavk Djokovic crashed out of US Open 2026 in first round",
+        "link": "https://sports.ndtv.com/tennis/novak-djokovic-stunned-by-mariano-navone-crashes-out-of-us-open-in-1st-round-11980116#publisher=newsstand",
+        "source": "NDTV Sports",
+        "published": "2026-08-31T06:28:56+00:00"
+      },
+      {
+        "title": "Duleep Trophy Semi-final 1 Live Score: Vaibhav Sooryavanshi Misses All-Time Record, Dismissed On 92",
+        "summary": "Duleep Trophy semifinal 1 Live Score: Vaibhav Sooryavanshi in focus",
+        "link": "https://sports.ndtv.com/cricket/central-zone-vs-east-zone-duleep-trophy-semi-final-live-score-day-2-batter-sooraryavanshi-in-spotlight-after-captaincy-stint-11980055#publisher=newsstand",
+        "source": "NDTV Sports",
+        "published": "2026-08-31T06:22:00+00:00"
+      },
+      {
+        "title": "Vaibhav Sooryavanshi Scripts History At 15, Shatters 57-Year-Old Duleep Trophy Record",
+        "summary": "Vaibhav Sooryavanshi hit fastest Duleep Trophy fifty",
+        "link": "https://sports.ndtv.com/cricket/vaibhav-sooryavanshi-scripts-history-at-15-shatters-57-year-old-duleep-trophy-record-11980583#publisher=newsstand",
+        "source": "NDTV Sports",
+        "published": "2026-08-31T06:16:26+00:00"
+      },
+      {
+        "title": "Hazlewood looks to maintain intensity after successful Test return",
+        "summary": "Australia's ODI squads for the Zimbabwe and South Africa series will be named this week",
+        "link": "https://www.cricinfo.com/ci/content/story/1552299.html?ex_cid=OTC-RSS",
         "source": "ESPN Cricinfo",
-        "published": "2026-08-30T04:43:32+00:00"
+        "published": "2026-08-31T05:59:00+00:00"
       },
       {
-        "title": "Emotional Roger Federer Inducted Into Tennis Hall Of Fame",
-        "summary": "Roger Federer inducted into Tennis Hall Of Fame",
-        "link": "https://sports.ndtv.com/tennis/emotional-federer-inducted-into-tennis-hall-of-fame-11976587#publisher=newsstand",
+        "title": "Pakistan Hit Panic Button: Squad Clear-Out And Coaching Change Unloading Ahead Of 3rd Test",
+        "summary": "Sarfaraz Ahmed with Babar Azam in England",
+        "link": "https://sports.ndtv.com/cricket/pakistan-hit-panic-button-squad-clear-out-and-coaching-change-unloading-ahead-of-3rd-test-11980455#publisher=newsstand",
         "source": "NDTV Sports",
-        "published": "2026-08-30T04:22:11+00:00"
+        "published": "2026-08-31T05:42:49+00:00"
       },
       {
-        "title": "\"Aise Bhi Log Hote Hain\": Suryakumar Yadav Reveals Sanju Samson's Stunning Reaction To Being Dropped",
-        "summary": "Sanju Samson and Suryakumar Yadav",
-        "link": "https://sports.ndtv.com/cricket/aise-bhi-log-hote-hai-suryakumar-yadav-reveals-sanju-samsons-stunning-reaction-to-being-dropped-11975029#publisher=newsstand",
-        "source": "NDTV Sports",
-        "published": "2026-08-30T04:08:06+00:00"
+        "title": "'It's not a good relationship, it's a deal for money' - Emery on Villa-Chelsea moves",
+        "summary": "Unai Emery insists that there are no \"good relations\" between Chelsea and Aston Villa after a series of transfers between the clubs.",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cvgy0qjl0xno?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "published": "2026-08-31T05:31:02+00:00"
       },
       {
-        "title": "Atletico Madrid Down Sevilla To Go Top Of La Liga",
-        "summary": "Team Atletico Madrid in action",
-        "link": "https://sports.ndtv.com/football/atletico-down-sevilla-to-go-top-of-la-liga-11976440#publisher=newsstand",
-        "source": "NDTV Sports",
-        "published": "2026-08-30T03:53:29+00:00"
+        "title": "Robinson's rhythmical action reminiscent of McGrath - Agnew",
+        "summary": "Glenn McGrath-like Ollie Robinson has Australia to thank for bringing back into fashion an age-old tactic which is fuelling his success.",
+        "link": "https://www.bbc.co.uk/sport/cricket/articles/c750w5vdlveo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "published": "2026-08-31T05:14:26+00:00"
       },
       {
-        "title": "Muzumdar: 'India hungry to win some tournaments'",
-        "summary": "The India head coach said they are trying to play \"aggressive cricket\" and \"set the tone for the next six months\"",
-        "link": "https://www.cricinfo.com/ci/content/story/1552163.html?ex_cid=OTC-RSS",
-        "source": "ESPN Cricinfo",
-        "published": "2026-08-29T21:42:39+00:00"
-      },
-      {
-        "title": "Kathryn Bryce leads with bat and ball as The Blaze seal T20 double",
-        "summary": "Scotland international sets up win over Surrey with 4 for 18 before unbeaten 38 in rain-reduced Final",
-        "link": "https://www.cricinfo.com/ci/content/story/1552178.html?ex_cid=OTC-RSS",
-        "source": "ESPN Cricinfo",
-        "published": "2026-08-29T21:31:57+00:00"
+        "title": "World number one Scheffler claims second Fedex Cup title",
+        "summary": "At times it felt like there was a certain inevitability about Scottie Scheffler collecting his second Fedex Cup title on Sunday.",
+        "link": "https://www.bbc.co.uk/sport/golf/articles/cx2zj8xngvdo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "published": "2026-08-30T22:38:09+00:00"
       }
     ]
   }
