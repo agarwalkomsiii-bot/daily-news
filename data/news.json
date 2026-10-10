@@ -1,265 +1,328 @@
 {
-  "generated_at": "2026-10-09 07:51",
+  "generated_at": "2026-10-10 07:37",
   "data": {
     "World": [
       {
-        "title": "Firing squad execution to be livestreamed, Pentagon says",
-        "summary": "Pete Hegseth says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\".",
-        "link": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+        "title": "Saudi-led coalition says it’s carrying out operation in Yemen",
+        "summary": "The Saudi-led coalition says it’s carrying out a wide-ranging operation, targeting Yemen’s Houthis.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/saudi-led-coalition-says-its-carrying-out-operation-in-yemen?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-10-10T07:19:36+00:00"
+      },
+      {
+        "title": "‘How can you stop these kids?’ Indian capital on lockdown before protests",
+        "summary": "Indian Prime Minister Narendra Modi has pulled out all the stops to prevent Cockroach movement protests.",
+        "link": "https://www.aljazeera.com/news/2026/10/10/how-can-you-stop-these-kids-indian-capital-on-lockdown-before-protests?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-10-10T07:17:11+00:00"
+      },
+      {
+        "title": "India’s Cockroach Party founder, top leaders detained ahead of protest",
+        "summary": "India’s Cockroach Janta Party leaders have allegedly been detained after landing in New Delhi to lead a mass protest.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/indias-cockroach-party-founder-top-leaders-detained-ahead-of-protest?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-10-10T07:13:48+00:00"
+      },
+      {
+        "title": "Hurricane Isaias downgraded after making landfall in Florida",
+        "summary": "Isaias is continuing across the Southeastern US after being downgraded from a hurricane to a post-tropical cyclone.",
+        "link": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "2026-10-09T07:05:05+00:00"
+        "published": "2026-10-10T06:54:16+00:00"
       },
       {
-        "title": "Who is Dov Lando, the Israeli rabbi criticising Zionism?",
-        "summary": "The senior rabbi, whose party is in Netanyahu's coalition, has caused uproar in Israel by calling Zionism disastrous.",
-        "link": "https://www.aljazeera.com/news/2026/10/9/who-is-dov-lando-the-israeli-rabbi-criticising-zionism?traffic_source=rss",
+        "title": "Trump slams Norway for not awarding him Nobel Peace Prize",
+        "summary": "Trump slams Norway for not awarding him Nobel Peace Prize",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/trump-slams-norway-for-not-awarding-him-nobel-peace-prize?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-10-09T06:55:11+00:00"
+        "published": "2026-10-10T06:47:10+00:00"
       },
       {
-        "title": "Afghanistan’s emerald miners struggle with tools but attract global buyers",
-        "summary": "Afghan miners endure harsh conditions, relying on basic tools to extract precious emeralds in Panjshir's steep valleys.",
-        "link": "https://www.aljazeera.com/news/2026/10/9/afghanistans-emerald-miners-struggle-with-tools-but-attract-global-buyers?traffic_source=rss",
+        "title": "Yemen’s Taiz under siege again as food and fuel prices rise",
+        "summary": "Houthi advances and the closure of vital roads into Taiz have triggered shortages, reviving memories of earlier siege.",
+        "link": "https://www.aljazeera.com/news/2026/10/10/yemens-taiz-under-siege-again-as-food-and-fuel-prices-rise?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-10-09T06:36:48+00:00"
+        "published": "2026-10-10T06:20:53+00:00"
       },
       {
-        "title": "Trump says US will not strike Iran before midterm elections",
-        "summary": "Oil prices drop as Trump dismisses speculation of pre-midterm military action against Iran.",
-        "link": "https://www.aljazeera.com/news/2026/10/9/trump-says-us-will-not-strike-iran-before-midterm-elections?traffic_source=rss",
+        "title": "India protest live: ‘Cockroach’ leaders detained; New Delhi in lockdown",
+        "summary": "Cockroach Janta ​Party founder Abhijeet Dipke and other leaders detained before ​protest to demand election chief quit.",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/10/10/india-protest-live-police-detain-cockroach-leaders-new-delhi-in-lockdown?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-10-09T06:22:07+00:00"
+        "published": "2026-10-10T05:54:36+00:00"
       },
       {
-        "title": "Brazilian Supreme Court judge issues arrest warrant for Eduardo Bolsonaro",
-        "summary": "Arrest warrant for presidential candidate's brother is issued weeks before Brazil's runoff election.",
-        "link": "https://www.aljazeera.com/news/2026/10/9/brazilian-supreme-court-judge-issues-arrest-warrant-for-eduardo-bolsonaro?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-10-09T06:19:56+00:00"
-      },
-      {
-        "title": "From Aden to Sanaa, Yemenis struggle to deal with soaring living costs",
-        "summary": "As fighting intensifies, Yemenis face a deepening economic crisis, with unpaid salaries and rising prices.",
-        "link": "https://www.aljazeera.com/economy/2026/10/9/from-aden-to-sanaa-yemenis-struggle-to-deal-with-soaring-living-costs?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-10-09T05:53:04+00:00"
-      },
-      {
-        "title": "How October 7 changed Lebanon and Hezbollah’s political reality",
-        "summary": "Analysts say Hezbollah's decision on October 8 to join a 'war of support' for Gaza changed Lebanon's political reality.",
-        "link": "https://www.aljazeera.com/news-analysis/2026/10/9/how-october-7-changed-lebanon-and-hezbollahs-political-reality?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-10-09T05:52:49+00:00"
-      },
-      {
-        "title": "Cars torched and shops looted as anti-migrant violence erupts in South Africa",
-        "summary": "South Africa has experienced recurrent outbreaks of violence, often targeting migrants from neighbouring countries.",
-        "link": "https://www.bbc.co.uk/news/articles/cwm24v45p4jgo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "2026-10-09T04:44:22+00:00"
-      },
-      {
-        "title": "ICE agent shoots man in New York City",
-        "summary": "The mayor of New York expressed outrage at the shooting which the Department of Homeland Security said happened during the arrest of a \"criminal illegal alien\".",
-        "link": "https://www.bbc.co.uk/news/articles/c59vzk9yypn3o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "2026-10-09T04:26:19+00:00"
-      },
-      {
-        "title": "Egyptian journalists plan weekend protest over detention of six colleagues",
-        "summary": "Matsadaash staff allege torture and forced confessions after being held on charges of working for Muslim Brotherhood Egyptian journalists are planning a new protest in Cairo this weekend after six colleagues were…",
-        "link": "https://www.theguardian.com/global-development/2026/oct/09/egypt-six-journalists-matsadaash-protest-over-detentions",
+        "title": "‘Like a drill going into my eye’: why the mystery over Havana syndrome refuses to die",
+        "summary": "Dozens of CIA officers have been afflicted by debilitating symptoms over the past decade. Are they the result of ‘mass hysteria’? Or are they from attacks with an energy weapon and, if so, who is responsible? And has…",
+        "link": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/10/havana-syndrome-mystery-cia-russia",
         "source": "The Guardian World",
-        "published": "2026-10-09T04:00:38+00:00"
+        "published": "2026-10-10T05:00:48+00:00"
       },
       {
-        "title": "How a plant selfie in Colombian jungle led to ‘jaw dropping’ giant waterlily find",
-        "summary": "Species with leaves large enough to be seen from space is already critically endangered – and plans are afoot to protect it A chance social media encounter has led to the race-against-time discovery of a new species of…",
-        "link": "https://www.theguardian.com/environment/2026/oct/09/plant-selfie-jaw-dropping-giant-waterlily-discovery-colombia",
-        "source": "The Guardian World",
-        "published": "2026-10-09T04:00:37+00:00"
-      },
-      {
-        "title": "Suspect linked to Monaco bomb attack on millionaire speaks to BBC",
-        "summary": "Vitalii Zhykovych gives his own account of the attempted assassination of Ukrainian-born businessman Vadym Yermolayev.",
-        "link": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss",
+        "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+        "summary": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
+        "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "2026-10-08T23:11:10+00:00"
+        "published": "2026-10-10T04:38:20+00:00"
+      },
+      {
+        "title": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
+        "summary": "The United Arab Emirates' attorney-general also alleges the co-pilot was trying to crash the plane into Tel Aviv's airport.",
+        "link": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "2026-10-10T04:34:55+00:00"
+      },
+      {
+        "title": "US country music star Ella Langley cancels show due to 'security threat'",
+        "summary": "Police say they checked the concert venue in Tulsa, Oklahoma but \"could not find any threat\".",
+        "link": "https://www.bbc.co.uk/news/articles/cm79pdlywqd4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "2026-10-10T02:02:54+00:00"
+      },
+      {
+        "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+        "summary": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
+        "link": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "2026-10-09T22:30:22+00:00"
       }
     ],
     "India": [
       {
-        "title": "CEC row LIVE updates: Delhi Police deny permission for CJP's Oct. 10 protest at Jantar Mantar, cite violation of conditions during past agitation",
-        "summary": "CJP, Left groups allege supporters being detained ahead of Oct. 10 protest as Delhi Police urge citizens to not participate",
-        "link": "https://www.thehindu.com/news/national/cec-gyanesh-kumar-controversy-live-updates-india-bloc-congress-jantar-mantar-cjp-protest-live-updates-october-9-2026/article71562437.ece",
+        "title": "Family rejection, hunger and a court battle: Hyderabad’s Ruth John Paul becomes India’s first transgender PG doctor",
+        "summary": "“I am feeling very happy. It is a matter of pride for me and my community. It is a great achievement in my life,” says Ruth John Paul",
+        "link": "https://www.thehindu.com/news/cities/Hyderabad/family-rejection-hunger-and-a-court-battle-hyderabads-ruth-john-paul-becomes-indias-first-transgender-pg-doctor/article71567252.ece",
         "source": "The Hindu",
-        "published": "2026-10-09T07:48:28+00:00"
+        "published": "2026-10-10T07:23:54+00:00"
       },
       {
-        "title": "APSRTC driver dying of a heart attack brings his bus and 40 passengers to a safe halt",
-        "summary": "The 34-year-old APSRTC driver pulls the Kakinada-Visakhapatnam bus over near Tuni and parks it before collapsing at the wheel",
-        "link": "https://www.thehindu.com/news/national/andhra-pradesh/apsrtc-driver-dying-of-a-heart-attack-brings-his-bus-and-40-passengers-to-a-safe-halt/article71562760.ece",
+        "title": "Tamil Nadu CM Vijay hails TVK’s bypoll wins as victory for people, political decorum",
+        "summary": "In a statement on X, Mr. Vijay claimed the TVK had won without distributing money to voters or resorting to inducements",
+        "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-cm-vijay-hails-tvks-bypoll-wins-as-victory-for-people-political-decorum/article71564000.ece",
         "source": "The Hindu",
-        "published": "2026-10-09T07:48:18+00:00"
+        "published": "2026-10-10T07:23:34+00:00"
       },
       {
-        "title": "Delhi Police deny permission for CJP’s October 10 Jantar Mantar protest, cite breach of past undertaking",
-        "summary": "The decision comes two days after CJP co-convener Saurav Das submitted an intimation letter to the Delhi Police on October 7, informing them of the planned demonstration and seeking arrangements for law and order and…",
-        "link": "https://www.thehindu.com/news/national/delhi-police-deny-cjps-october-10-jantar-mantar-protest/article71562901.ece",
+        "title": "No surprises in byelection results in Tamil Nadu and Puducherry as voters favour the ruling party candidates",
+        "summary": "The Tamilaga Vettri Kazhagam bags the Madurantakam and Dharapuram (Reserved) Assembly constituencies. In Puducherry, the All India N.R. Congress retains Thattanchavady",
+        "link": "https://www.thehindu.com/news/national/tamil-nadu/no-surprises-in-byelection-results-in-tamil-nadu-and-puducherry-as-voters-favour-the-ruling-party-candidates/article71564070.ece",
         "source": "The Hindu",
-        "published": "2026-10-09T07:45:03+00:00"
+        "published": "2026-10-10T07:23:08+00:00"
       },
       {
-        "title": "Bypoll results LIVE: BJP widens lead in West Bengal; TVK leads in Tamil Nadu",
-        "summary": "In Puducherry, Chief Minister Rangasamy's AINRC wins",
-        "link": "https://www.thehindu.com/news/national/byelection-bypoll-results-nandigram-rejinagar-madurantakam-dharapuram-thattanchavady-nagaon-live-updates-october-9-2026/article71562394.ece",
+        "title": "Byelection outcome a ‘temporary victory for politics of betrayal’, says Stalin",
+        "summary": "He says the votes polled by the parties that contested against the ruling TVK shows that it has been rejected by a majority of voters",
+        "link": "https://www.thehindu.com/news/national/tamil-nadu/byelection-outcome-a-temporary-victory-for-politics-of-betrayal-says-stalin/article71564172.ece",
         "source": "The Hindu",
-        "published": "2026-10-09T07:42:44+00:00"
+        "published": "2026-10-10T07:22:36+00:00"
       },
       {
-        "title": "India advises nationals in Saudi Arabia to remain vigilant amid escalating regional tensions",
-        "summary": "The Indian Embassy in Riyadh has asked nationals to stay indoors as necessary, after attacks attributed to Houthi militants killed three people and disrupted flights between India and Saudi Arabia",
-        "link": "https://www.thehindu.com/news/national/india-advises-nationals-in-saudi-arabia-to-remain-vigilant-amid-escalating-regional-tensions/article71563038.ece",
+        "title": "TVK allies hail byelection victory, says its an endorsement of government’s performance",
+        "summary": "Alliance leaders including Thirumavalavan and Manickam Tagore congratulate the party on its electoral success",
+        "link": "https://www.thehindu.com/news/national/tamil-nadu/tvk-allies-hail-byelection-victory-says-its-an-endorsement-of-governments-performance/article71564417.ece",
         "source": "The Hindu",
-        "published": "2026-10-09T07:41:01+00:00"
+        "published": "2026-10-10T07:21:55+00:00"
       },
       {
-        "title": "How a Keralam teacher’s ‘portable chemistry lab’ is sparking students’ interest in experiments",
-        "summary": "Basic equipment and chemicals required in a chemistry lab are stocked in ‘Rasappetti’ designed by Abhilash Thiruvoth, a teacher at Government Vocational Higher Secondary School for Girls, Nadakkavu",
-        "link": "https://www.thehindu.com/news/national/kerala/how-a-keralam-teachers-portable-chemistry-lab-is-sparking-students-interest-in-experiments/article71558644.ece",
+        "title": "11-year-old tribal student of Thane ashram school dies after fever; three officials suspended",
+        "summary": "Vivek Subhash Bhoye, a Class 5 student, died in Maharashtra’s Thane district after the school allegedly delayed informing his mother and failed to provide timely medical treatment",
+        "link": "https://www.thehindu.com/news/national/maharashtra/11-year-old-tribal-student-of-thane-ashram-school-dies-after-fever-three-officials-suspended/article71567297.ece",
         "source": "The Hindu",
-        "published": "2026-10-09T07:38:34+00:00"
+        "published": "2026-10-10T07:21:28+00:00"
       },
       {
-        "title": "'Did not follow lawful directions': Why Delhi Police denied nod for CJP protest",
-        "summary": "",
-        "link": "https://timesofindia.indiatimes.com/india/did-not-follow-lawful-directions-earlier-why-delhi-police-denied-permission-for-cjps-october-10-protest/articleshow/134818313.cms",
-        "source": "Times of India",
-        "published": "2026-10-09T07:19:53+00:00"
-      },
-      {
-        "title": "\"No Nation Was Better Fit\": Former PM Shinzo Abe's Aide On India-Japan Ties",
-        "summary": "TomohikoTaniguchi speaks at NDTV summit",
-        "link": "https://www.ndtv.com/world-news/ndtv-indo-japan-summit-former-pm-shinzo-abes-aide-tomohikotaniguchi-on-india-japan-ties-12160128#publisher=newsstand",
+        "title": "Video: CJP Protesters Being Detained, Taken To Delhi's Chhatrasal Stadium",
+        "summary": "CJP protest: Visuals showed the protesters being bundled into police vans and taken away in areas such as Connaught Place near Jantar Mantar.",
+        "link": "https://www.ndtv.com/india-news/video-cjp-protesters-being-detained-taken-to-delhis-chhatrasal-stadium-protest-against-gyanesh-kumar-election-commission-12165272#publisher=newsstand",
         "source": "NDTV",
-        "published": "2026-10-09T06:44:08+00:00"
+        "published": "2026-10-10T07:07:29+00:00"
       },
       {
-        "title": "Mehbooba Mufti Party Leader Calls Hizbul Terrorist Burhan Wani \"Martyr\"",
-        "summary": "Senior PDP leader Abdul Kabir",
-        "link": "https://www.ndtv.com/india-news/mehbooba-mufti-party-leader-abdul-kabi-calls-hizbul-terrorist-burhan-wani-martyr-12160233#publisher=newsstand",
+        "title": "4,00,000 Without Power In Florida As Hurricane Isaias Makes Landfall",
+        "summary": "In Mobile, Alabama, officials reported downed trees and power lines.",
+        "link": "https://www.ndtv.com/world-news/isaias-makes-landfall-along-the-us-gulf-coast-as-a-dangerous-category-2-hurricane-12164557#publisher=newsstand",
         "source": "NDTV",
-        "published": "2026-10-09T06:41:41+00:00"
+        "published": "2026-10-10T06:42:42+00:00"
       },
       {
-        "title": "America First, powered by foreign talent: Tech execs honored by Trump born outside US",
-        "summary": "",
-        "link": "https://timesofindia.indiatimes.com/world/us/america-first-powered-by-foreign-talent-five-of-six-tech-execs-honored-by-trump-were-born-outside-us/articleshow/134815709.cms",
-        "source": "Times of India",
-        "published": "2026-10-09T06:38:09+00:00"
-      },
-      {
-        "title": "Trump Warns: Call AI \"Super Intelligence\" Or Face \"Enemy\" Status",
-        "summary": "Trump is going all out to rebrand AI",
-        "link": "https://www.ndtv.com/artificial-intelligence/trump-warns-call-ai-super-intelligence-or-face-enemy-status-12160188#publisher=newsstand",
+        "title": "\"I've Come To Get Arrested\": Moment Abhijeet Dipke Was Detained From Plane",
+        "summary": "Abhijeet Dipke was detained from the plane",
+        "link": "https://www.ndtv.com/india-news/abhijeet-dipke-cjp-protest-delhi-jantar-mantar-live-video-shows-moment-abhijeet-dipke-was-detained-from-plane-ahead-of-gyanesh-kumar-ec-protests-12165044#publisher=newsstand",
         "source": "NDTV",
-        "published": "2026-10-09T06:33:56+00:00"
+        "published": "2026-10-10T06:36:46+00:00"
       },
       {
-        "title": "Makeup, colourful scarves: Bizarre reasons Taliban uses to detain women",
-        "summary": "",
-        "link": "https://timesofindia.indiatimes.com/world/south-asia/makeup-colourful-scarves-speaking-in-public-bizarre-reasons-taliban-uses-to-detain-women/articleshow/134806082.cms",
-        "source": "Times of India",
-        "published": "2026-10-09T06:30:11+00:00"
+        "title": "Delhi CJP Protest News LIVE: CJP's Abhijeet Dipke, Saurav Das, Ashutosh Ranka Taken To 3 Different Locations",
+        "summary": "Jantar Mantar Delhi CJP Protest LIVE News Updates",
+        "link": "https://www.ndtv.com/india-news/delhi-cjp-protest-live-updates-jantar-mantar-2-0-gyanesh-kumar-metro-stations-road-closure-traffic-advisory-trains-cancelled-delhi-police-election-com-12164478#publisher=newsstand",
+        "source": "NDTV",
+        "published": "2026-10-10T06:36:17+00:00"
+      },
+      {
+        "title": "Probe Agency ED Arrests Sadhna Group Chairman In Money Laundering Case",
+        "summary": "Sadhna Group Chairman Rakesh Kumar Gupta",
+        "link": "https://www.ndtv.com/india-news/ed-arrests-chairman-of-media-broadcast-company-in-insolvency-linked-case-12165140#publisher=newsstand",
+        "source": "NDTV",
+        "published": "2026-10-10T06:35:55+00:00"
+      },
+      {
+        "title": "Opinion: Opinion | Visa Shocks To Racist Attacks, When Did America Come To Hate Indians So?",
+        "summary": "Sometimes it is about H-1B visas. Sometimes it is jobs. Sometimes it is \"foreigners.\" Sometimes it is about temples. The language of the attack varies, but the message is consistent",
+        "link": "https://www.ndtv.com/opinion/visa-shocks-to-racist-comments-when-did-america-come-to-hate-indians-so-12165155#publisher=newsstand",
+        "source": "NDTV",
+        "published": "2026-10-10T06:26:40+00:00"
       }
     ],
     "Business": [
       {
-        "title": "IIT alumnus urges fair US immigration policies",
-        "summary": "",
-        "link": "https://economictimes.indiatimes.com/nri/latest-updates/build-here-scale-here-die-here-iit-alumni-group-urges-fair-us-immigration-policies-amid-green-card-visa-cycle/articleshow/134818508.cms",
-        "source": "Economic Times",
-        "published": "2026-10-09T07:29:54+00:00"
+        "title": "Shashi Tharoor slams Delhi crackdown on CJP protest, calls it an ‘undeclared Emer-GenZ’",
+        "summary": "Congress MP Shashi Tharoor criticised tight security in Delhi ahead of a CJP protest against Chief Election Commissioner Gyanesh Kumar, citing barricades, closed metro stations, internet restrictions and…",
+        "link": "https://www.livemint.com/news/india/shashi-tharoor-slams-delhi-crackdown-on-cjp-protest-calls-it-an-undeclared-emergenz-11791615865060.html",
+        "source": "Livemint",
+        "published": "2026-10-10T07:27:07+00:00"
       },
       {
-        "title": "Nvidia-backed data centre firm scraps IPO as AI valuation concerns deepen",
-        "summary": "Firmus said it had made the decision due to \"recent market volatility and prevailing market conditions\".",
-        "link": "https://www.bbc.co.uk/news/articles/ck9dzpw4ll8po?at_medium=RSS&at_campaign=rss",
+        "title": "After controversy, ECI caps number of Form 7 applications by individuals - what happened and what it means",
+        "summary": "The ECI has capped individual Form 7 applications at 10 during electoral roll revision and five per month during routine updates to curb bulk objections. The directive follows concerns over misuse, inconvenience to…",
+        "link": "https://www.livemint.com/news/india/after-controversy-eci-caps-number-of-form-7-applications-by-individuals-what-happened-and-what-it-means-11791616453984.html",
+        "source": "Livemint",
+        "published": "2026-10-10T07:26:52+00:00"
+      },
+      {
+        "title": "CJP Protest at Jantar Mantar: Why is Delhi under ‘shut down’? How police explained strict curbs amid criticism",
+        "summary": "Delhi protest: The Centre drew criticism for “shutting down” Delhi ahead of the massive demonstration, likely to be attended by several political parties.",
+        "link": "https://www.livemint.com/news/india/cjp-protest-at-jantar-mantar-why-has-delhi-been-shut-down-how-police-explained-strict-curbs-amid-criticism-11791615192228.html",
+        "source": "Livemint",
+        "published": "2026-10-10T07:08:13+00:00"
+      },
+      {
+        "title": "SFI members detained ahead of CJP protest",
+        "summary": "",
+        "link": "https://economictimes.indiatimes.com/news/politics-and-nation/mass-detention-of-sfi-members-and-lawyers-in-delhi-ahead-of-protest-against-election-commissioner-gyanesh-kumar/articleshow/134849195.cms",
+        "source": "Economic Times",
+        "published": "2026-10-10T06:55:11+00:00"
+      },
+      {
+        "title": "Trump again takes credit for Indo-Pak ceasefire",
+        "summary": "",
+        "link": "https://economictimes.indiatimes.com/news/india/far-more-than-necessary-to-win-trump-again-takes-credit-for-india-pakistan-ceasefire-in-nobel-prize-claim/articleshow/134849255.cms",
+        "source": "Economic Times",
+        "published": "2026-10-10T06:53:48+00:00"
+      },
+      {
+        "title": "Musk’s Starlink India row brings him reality check",
+        "summary": "",
+        "link": "https://economictimes.indiatimes.com/industry/telecom/telecom-news/sit-down-elon-musk-gets-a-reality-check-on-his-own-platform-over-trump-donations-amid-starlink-india-row/articleshow/134848605.cms",
+        "source": "Economic Times",
+        "published": "2026-10-10T06:50:44+00:00"
+      },
+      {
+        "title": "Jantar Mantar Protest: Top leaders including Abhijeet Dipke detained in Delhi, CJP says nationwide agitation to continue",
+        "summary": "CJP founder Abhijeet Dipke and co-convenors Saurav Das and Ashutosh Ranka were detained aboard a flight at Delhi airport ahead of the planned Jantar Mantar protest. The outfit said its nationwide agitation demanding CEC…",
+        "link": "https://www.livemint.com/news/india/jantar-mantar-protest-top-leaders-including-abhijeet-dipke-detained-in-delhi-cjp-says-nationwide-agitation-to-continue-11791613835693.html",
+        "source": "Livemint",
+        "published": "2026-10-10T06:42:26+00:00"
+      },
+      {
+        "title": "₹1,200 for 8 km? How Delhi’s protest clampdown triggered 300% cab surges, WFH scrambles, festive weekend business loss",
+        "summary": "A planned Cockroach Janata Party protest at Jantar Mantar is disrupting travel and business in Delhi. Cab fares have surged, some markets will close, and deliveries may be delayed.&nbsp;",
+        "link": "https://www.livemint.com/news/india/1200-for-8-km-how-delhi-s-protest-clampdown-triggered-300-cab-surges-wfh-scrambles-festive-weekend-business-loss-11791610837108.html",
+        "source": "Livemint",
+        "published": "2026-10-10T06:35:39+00:00"
+      },
+      {
+        "title": "TDR sale is taxable as capital gains: ITAT Bangalore",
+        "summary": "",
+        "link": "https://economictimes.indiatimes.com/wealth/tax/landowner-gets-rs-6-crore-by-selling-tdrs-received-for-giving-up-land-for-road-widening-pays-no-tax-itat-bangalore-rules-tdr-sale-taxable-as-capital-gains/articleshow/134847371.cms",
+        "source": "Economic Times",
+        "published": "2026-10-10T06:34:43+00:00"
+      },
+      {
+        "title": "From a meme handle to capital ‘shutdown’: The anatomy of Cockroach Janta Party’s digital rebellion",
+        "summary": "As CJP calls another protest against CEC Gyanesh Kumar, its rise from online satire to street mobilisation comes into focus. Born after a controversial courtroom remark, the group rallied youth over unemployment and…",
+        "link": "https://www.livemint.com/news/india/from-a-meme-handle-to-shutting-down-the-capital-the-anatomy-of-cockroach-janta-party-s-digital-rebellion-11791613061731.html",
+        "source": "Livemint",
+        "published": "2026-10-10T06:24:40+00:00"
+      },
+      {
+        "title": "CJP chief Dipke, Das & Ranka detained from flight",
+        "summary": "",
+        "link": "https://economictimes.indiatimes.com/news/india/cjp-chief-abhijeet-dipke-saurav-das-and-ashutosh-ranka-detained-straight-from-flight-after-landing-in-delhi/articleshow/134847909.cms",
+        "source": "Economic Times",
+        "published": "2026-10-10T05:27:36+00:00"
+      },
+      {
+        "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+        "summary": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
+        "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
-        "published": "2026-10-09T07:14:30+00:00"
-      },
-      {
-        "title": "Starlink India row: Scindia hits out at Cong, Musk",
-        "summary": "",
-        "link": "https://economictimes.indiatimes.com/industry/telecom/telecom-policy/india-allows-no-monopoly-scindia-responds-to-musks-starlink-row-says-3-firms-await-clearances-takes-dig-at-congress/articleshow/134817287.cms",
-        "source": "Economic Times",
-        "published": "2026-10-09T07:12:40+00:00"
-      },
-      {
-        "title": "‘Visa abuse was what was necessary to create the biggest American companies': Ex-AWS techie defends immigrant workforce",
-        "summary": "Ex-Amazon Web Services employee Daniel Vassallo has defended immigrant talent in the US technology industry, saying an immigrant-heavy workforce helped build major American companies.&nbsp;",
-        "link": "https://www.livemint.com/news/trends/visa-abuse-was-what-was-necessary-to-create-the-biggest-american-companies-ex-aws-techie-defends-immigrant-workforce-11791527417016.html",
-        "source": "Livemint",
-        "published": "2026-10-09T06:54:18+00:00"
-      },
-      {
-        "title": "Me, myself & AI: The auditor is no longer alone",
-        "summary": "",
-        "link": "https://economictimes.indiatimes.com/industry/services/consultancy-/-audit/ai-is-reshaping-the-future-of-auditing-creating-new-opportunities-and-changing-audit-jobs-deloitte-ey-kpmg-pwc-and-bdo/articleshow/134814978.cms",
-        "source": "Economic Times",
-        "published": "2026-10-09T06:36:46+00:00"
-      },
-      {
-        "title": "Hurricane Isaias: 63% of Gulf oil output shut in as Florida, Alabama brace for landfall | 5 key updates",
-        "summary": "Hurricane Isaias strengthened to Category 2 as it approached the northern Gulf Coast, prompting evacuations and preparations. Forecasters warned of damaging winds, storm surge, heavy rain, flooding and possible…",
-        "link": "https://www.livemint.com/news/us-news/hurricane-isaias-63-of-gulf-oil-output-shut-in-as-florida-alabama-brace-for-landfall-5-key-updates-11791524390583.html",
-        "source": "Livemint",
-        "published": "2026-10-09T06:15:49+00:00"
-      },
-      {
-        "title": "Saudi Arabia-Houthi conflict escalates: Airlines suspend Riyadh flights after attacks | Watch",
-        "summary": "Yemen’s Houthi rebels have claimed a missile attack on Saudi Arabia’s King Khalid International Airport in Riyadh, with reports of a Saudia Airlines aircraft catching fire after being damaged. Lufthansa and Air India…",
-        "link": "https://www.livemint.com/news/world/saudi-arabia-houthi-conflict-escalates-airlines-suspend-riyadh-flights-after-attacks-watch-11791523084516.html",
-        "source": "Livemint",
-        "published": "2026-10-09T05:57:44+00:00"
-      },
-      {
-        "title": "Pill advertisments need nod before reaching you",
-        "summary": "",
-        "link": "https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/pharmacies-drug-distributors-may-need-approval-to-advertise-prescription-medicines/articleshow/134811961.cms",
-        "source": "Economic Times",
-        "published": "2026-10-09T05:51:44+00:00"
-      },
-      {
-        "title": "CJP protest on October 10: Railways cancel trains to 2 Delhi stations; 40 Metro stations may shut",
-        "summary": "Indian Railways has cancelled Mail and Express trains scheduled to arrive at New Delhi and Hazrat Nizamuddin stations between 4 am and 2 pm on October 10, citing anticipated traffic congestion. The order applies to…",
-        "link": "https://www.livemint.com/news/india/cjp-protest-railways-cancel-all-mail-express-trains-reaching-new-delhi-hazrat-nizamuddin-on-october-10-11791522583015.html",
-        "source": "Livemint",
-        "published": "2026-10-09T05:13:54+00:00"
-      },
-      {
-        "title": "Trump wants to reduce the cost of fuel as the midterms loom - will it work?",
-        "summary": "The price of fuel has soared as the cost of living emerges as a key issue for millions of Americans.",
-        "link": "https://www.bbc.co.uk/news/articles/cv2d6x749lwro?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "published": "2026-10-09T04:55:14+00:00"
-      },
-      {
-        "title": "Indian pilot Smit Machchhar to receive Israel’s top civilian award for ‘sheer bravery’: What does it recognize?",
-        "summary": "Indian pilot Smit Machchhar will receive Israel’s Presidential Award for Civilian Heroism for helping avert a catastrophe after his co-pilot allegedly attacked him aboard a Flydubai flight. Despite his injuries, reports…",
-        "link": "https://www.livemint.com/news/world/indian-pilot-smit-machchhar-to-receive-israel-s-top-civilian-award-for-sheer-bravery-what-does-it-recognize-11791517023312.html",
-        "source": "Livemint",
-        "published": "2026-10-09T04:49:27+00:00"
-      },
-      {
-        "title": "‘Not like coronavirus’: Mystery shrouds Russian lab technician’s death, some residents fear plague, others remain calm",
-        "summary": "Russian authorities blamed the October 2 death of the woman, whom news outlets identified as Darya Shipilova, on “pneumonic plague”, which can spread from person to person. Shipilova was a lab technician at the Irkutsk…",
-        "link": "https://www.livemint.com/news/world/not-like-coronavirus-mystery-shrouds-russian-lab-technician-s-death-some-residents-fear-plague-others-remain-calm-11791514800296.html",
-        "source": "Livemint",
-        "published": "2026-10-09T04:13:49+00:00"
+        "published": "2026-10-10T04:38:20+00:00"
       }
     ],
     "Technology": [
+      {
+        "title": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
+        "summary": "Elon Musk has accused Indian billionaire Mukesh Ambani of blocking competition.",
+        "link": "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/",
+        "source": "TechCrunch",
+        "published": "2026-10-10T03:10:06+00:00"
+      },
+      {
+        "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+        "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+        "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+        "source": "TechCrunch",
+        "published": "2026-10-10T00:18:32+00:00"
+      },
+      {
+        "title": "Long live the mechanical keyboard",
+        "summary": "Keychron made a name for itself after launching on Kickstarter in 2017. Today, it offers the value K2 model as well as a variety of other versions, including one with an all-wood body.",
+        "link": "https://techcrunch.com/2026/10/09/long-live-the-mechanical-keyboard/",
+        "source": "TechCrunch",
+        "published": "2026-10-09T22:08:24+00:00"
+      },
+      {
+        "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+        "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
+        "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+        "source": "TechCrunch",
+        "published": "2026-10-09T21:41:29+00:00"
+      },
+      {
+        "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+        "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
+        "link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+        "source": "TechCrunch",
+        "published": "2026-10-09T19:36:56+00:00"
+      },
+      {
+        "title": "Batteries are now cheaper than natural gas turbines used at many data centers",
+        "summary": "Batteries are now cheaper than natural gas turbines as the data center boom pushes prices up.",
+        "link": "https://techcrunch.com/2026/10/09/batteries-are-now-cheaper-than-natural-gas-turbines-used-at-many-data-centers/",
+        "source": "TechCrunch",
+        "published": "2026-10-09T18:57:58+00:00"
+      },
+      {
+        "title": "Prize-winning image which sparked backlash was AI-generated, Nikon rules",
+        "summary": "The camera-maker says it is now re-evaluating the rules and procedures of its Small World in Motion contest.",
+        "link": "https://www.bbc.co.uk/news/articles/cr86z33pdy9vo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Technology",
+        "published": "2026-10-09T15:32:30+00:00"
+      },
+      {
+        "title": "Anthropic bans users from being 'cruel' to its AI systems",
+        "summary": "The firm said users can no longer engage in \"sustained and needless\" abusive behaviour towards the tech.",
+        "link": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Technology",
+        "published": "2026-10-09T12:34:27+00:00"
+      },
+      {
+        "title": "Fired OpenAI researchers say they were let go for 'prioritising safety'",
+        "summary": "The AI firm instead claims the researchers were fired for mishandling sensitive information.",
+        "link": "https://www.bbc.co.uk/news/articles/cvlydn8d3lkjo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Technology",
+        "published": "2026-10-09T09:30:49+00:00"
+      },
       {
         "title": "Nvidia-backed data centre firm scraps IPO as AI valuation concerns deepen",
         "summary": "Firmus said it had made the decision due to \"recent market volatility and prevailing market conditions\".",
@@ -280,155 +343,92 @@
         "link": "https://www.bbc.co.uk/news/articles/cdr7n610rmzo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Technology",
         "published": "2026-10-08T23:09:56+00:00"
-      },
-      {
-        "title": "President Trump awards Big Tech donors with nation’s highest science prizes",
-        "summary": "Together, the awardees have donated nearly $6 billion to efforts tied to Trump and his administration.",
-        "link": "https://techcrunch.com/2026/10/08/president-trump-awards-big-tech-donors-with-nations-highest-science-prizes/",
-        "source": "TechCrunch",
-        "published": "2026-10-08T22:33:59+00:00"
-      },
-      {
-        "title": "White House blocks Microsoft from foreign worker hiring programme",
-        "summary": "An international visa programme has for years allowed US tech companies to hire highly skilled workers from abroad.",
-        "link": "https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Technology",
-        "published": "2026-10-08T21:37:35+00:00"
-      },
-      {
-        "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
-        "summary": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the…",
-        "link": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
-        "source": "TechCrunch",
-        "published": "2026-10-08T21:00:00+00:00"
-      },
-      {
-        "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-        "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
-        "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-        "source": "TechCrunch",
-        "published": "2026-10-08T20:04:26+00:00"
-      },
-      {
-        "title": "Watch the trailer for ‘The Altruists,’ Netflix’s show about the FTX scandal",
-        "summary": "A fictionalized Sam Bankman-Fried is coming to your TV screen on November 19.",
-        "link": "https://techcrunch.com/2026/10/08/watch-the-trailer-for-the-altruists-netflixs-show-about-the-ftx-scandal/",
-        "source": "TechCrunch",
-        "published": "2026-10-08T18:30:00+00:00"
-      },
-      {
-        "title": "Ben Affleck is an AI nerd, and the internet is impressed",
-        "summary": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just…",
-        "link": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
-        "source": "TechCrunch",
-        "published": "2026-10-08T18:20:32+00:00"
-      },
-      {
-        "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
-        "summary": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
-        "link": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
-        "source": "TechCrunch",
-        "published": "2026-10-08T18:19:45+00:00"
-      },
-      {
-        "title": "Asos hackers took more personal details than first revealed, BBC finds",
-        "summary": "Retailer issues update after BBC contacted by cyber criminals who said this week's breach went beyond \"basic contact details\"",
-        "link": "https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Technology",
-        "published": "2026-10-08T16:29:33+00:00"
-      },
-      {
-        "title": "AI chip boom pushes Samsung profits to record $80bn",
-        "summary": "The tech giant is also expected to get a boost from its latest folding devices that were launched in August.",
-        "link": "https://www.bbc.co.uk/news/articles/c687z8127302o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Technology",
-        "published": "2026-10-08T01:59:54+00:00"
       }
     ],
     "Sports": [
       {
-        "title": "Everton owners consider selling club two years after takeover",
-        "summary": "Everton owners the Friedkin Group are exploring the sale of the club less than two years after taking control.",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cmvg9pgg4keyo?at_medium=RSS&at_campaign=rss",
+        "title": "Saleem bags four as Afghanistan bowl Bangladesh out for 346",
+        "summary": "Yamin Ahmadzai finished with three wickets as Bangladesh's last two pairs added 29 on the second morning",
+        "link": "https://www.cricinfo.com/ci/content/story/1557831.html?ex_cid=OTC-RSS",
+        "source": "ESPN Cricinfo",
+        "published": "2026-10-10T07:13:24+00:00"
+      },
+      {
+        "title": "\"Only Openers Are Permanent\": Gautam Gambhir Drops Stunning Verdict After Shivam Dube's Flopshow In 2nd T20I",
+        "summary": "File image of Gautam Gambhir.",
+        "link": "https://sports.ndtv.com/cricket/only-openers-are-permanent-gautam-gambhir-drops-stunning-verdict-after-shivam-dubes-flopshow-in-2nd-t20i-12164824#publisher=newsstand",
+        "source": "NDTV Sports",
+        "published": "2026-10-10T07:01:29+00:00"
+      },
+      {
+        "title": "South Africa vs Australia LIVE Score, 1st Test Day 2: 6-Down Australia Bank On Matt Renshaw, Captain Pat Cummins vs SA",
+        "summary": "SA vs AUS 1st Test LIVE Cricket Score",
+        "link": "https://sports.ndtv.com/cricket/south-africa-vs-australia-live-score-1st-test-day-2-live-updates-cricket-match-result-durban-12165222#publisher=newsstand",
+        "source": "NDTV Sports",
+        "published": "2026-10-10T06:55:12+00:00"
+      },
+      {
+        "title": "Can Any 0-4 NFL Team Still Make The Playoffs? History Offers A Brutal Answer",
+        "summary": "Can An 0-4 NFL Team Still Make The Playoffs?",
+        "link": "https://sports.ndtv.com/us-nfl/can-any-0-4-nfl-team-still-make-the-playoffs-history-offers-a-brutal-answer-12165136#publisher=newsstand",
+        "source": "NDTV Sports",
+        "published": "2026-10-10T06:22:56+00:00"
+      },
+      {
+        "title": "Weatherald backed to return as South Australia thump Victoria",
+        "summary": "Two-time defending Sheffield Shield champions South Australia have started their new campaign with an innings win over Victoria at Junction Oval",
+        "link": "https://www.cricinfo.com/ci/content/story/1557828.html?ex_cid=OTC-RSS",
+        "source": "ESPN Cricinfo",
+        "published": "2026-10-10T06:22:55+00:00"
+      },
+      {
+        "title": "Kansas City Chiefs Find The Right Balance To Help Patrick Mahomes",
+        "summary": "Kenneth Walker III stands on the field during a Kansas City Chiefs game.",
+        "link": "https://sports.ndtv.com/us-nfl/kansas-city-chiefs-find-the-right-balance-to-help-patrick-mahomes-12165131#publisher=newsstand",
+        "source": "NDTV Sports",
+        "published": "2026-10-10T06:22:42+00:00"
+      },
+      {
+        "title": "OhnePixel Breaks Down In Tears After His Reddit Community Criticizes And Accuses Him Of Forcing Reactions",
+        "summary": "OhnePixel broke down in tears after reading Reddit complaints about his streaming content.",
+        "link": "https://sports.ndtv.com/us-us-streamers/ohnepixel-breaks-down-in-tears-after-his-reddit-community-criticizes-and-accuses-him-of-forcing-reactions-12165117#publisher=newsstand",
+        "source": "NDTV Sports",
+        "published": "2026-10-10T06:22:24+00:00"
+      },
+      {
+        "title": "1st Time In 149 Years: Australia Achieve Unique Feat vs South Africa. A Glaring Concern Pops Up",
+        "summary": "Australia registered an unusual record in the first Test against South Africa",
+        "link": "https://sports.ndtv.com/cricket/1st-time-in-149-years-australia-achieve-unique-feat-vs-south-africa-a-glaring-concern-pops-up-12165035#publisher=newsstand",
+        "source": "NDTV Sports",
+        "published": "2026-10-10T05:49:43+00:00"
+      },
+      {
+        "title": "Time to rise? Ranking European football's sleeping giants",
+        "summary": "From Sampdoria to Saint-Etienne and Real Zaragoza, who are the sleeping giants of European football?",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cq5yjyyzd35do?at_medium=RSS&at_campaign=rss",
         "source": "BBC Sport",
-        "published": "2026-10-09T07:46:02+00:00"
+        "published": "2026-10-10T05:14:17+00:00"
       },
       {
-        "title": "Australia bat, bring in Maddinson after a decade",
-        "summary": "Maddinson is slotted to open while South Africa had named their XI a day before the Test",
-        "link": "https://www.cricinfo.com/ci/content/story/1557700.html?ex_cid=OTC-RSS",
+        "title": "Gambhir: 'Bowlers' careers are at stake'",
+        "summary": "India's head coach reiterated his concern for pitches in white-ball cricket after the run-fest in Ranchi",
+        "link": "https://www.cricinfo.com/ci/content/story/1557814.html?ex_cid=OTC-RSS",
         "source": "ESPN Cricinfo",
-        "published": "2026-10-09T07:33:36+00:00"
+        "published": "2026-10-10T03:31:26+00:00"
       },
       {
-        "title": "Bevon Jacobs set to take leave from Auckland commitments for BBL gig",
-        "summary": "The BBL overlaps with the Plunket Shield, NZ's premier red-ball competition",
-        "link": "https://www.cricinfo.com/ci/content/story/1557695.html?ex_cid=OTC-RSS",
+        "title": "Will O'Rourke to miss India series to rehabilitate from hamstring, calf injuries",
+        "summary": "The New Zealand quick is being rested as a precautionary measure with one eye on the four-Test tour of Australia in December-January",
+        "link": "https://www.cricinfo.com/ci/content/story/1557813.html?ex_cid=OTC-RSS",
         "source": "ESPN Cricinfo",
-        "published": "2026-10-09T07:22:18+00:00"
+        "published": "2026-10-10T03:03:03+00:00"
       },
       {
-        "title": "Bangladesh opt to bat and pick Nayeem Hasan",
-        "summary": "Bangladesh opted for Ebadot Hossain in place of Shoriful Islam while Afghanistan went for a batting-heavy line-up",
-        "link": "https://www.cricinfo.com/ci/content/story/1557692.html?ex_cid=OTC-RSS",
-        "source": "ESPN Cricinfo",
-        "published": "2026-10-09T06:41:35+00:00"
-      },
-      {
-        "title": "How Arteta's response to Brighton loss may shape Arsenal's next chapter",
-        "summary": "Mikel Arteta has shown an increased appetite for risk this season but, as Arsenal look to stay at the top, failing to reinvent would be a greater gamble.",
-        "link": "https://www.bbc.co.uk/sport/football/articles/crn8wg221lnvo?at_medium=RSS&at_campaign=rss",
+        "title": "Man City whistleblower to remain in witness protection",
+        "summary": "The computer hacker who released documents which helped trigger the Premier League investigation into Manchester City will remain under witness protection after authorities in Portugal suspend the decision to end it.",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cq4g1xerk398o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Sport",
-        "published": "2026-10-09T06:41:14+00:00"
-      },
-      {
-        "title": "Virat Kohli Achieving His Peak At 37? AB De Villiers Drops Stunning Verdict: \"Better Version Than 2016\"",
-        "summary": "AB de Villiers and Virat Kohli.",
-        "link": "https://sports.ndtv.com/cricket/virat-kohli-achieving-his-peak-at-37-ab-de-villiers-drops-stunning-verdict-better-version-than-2016-12159778#publisher=newsstand",
-        "source": "NDTV Sports",
-        "published": "2026-10-09T06:13:03+00:00"
-      },
-      {
-        "title": "NoArmWhatley Addresses Allegations Over His Behavior Towards Women; Announces Break From Social Media",
-        "summary": "NoArmWhatley says he will step away from social media for a few days after addressing the allegations.",
-        "link": "https://sports.ndtv.com/us-us-streamers/noarmwhatley-addresses-allegations-over-his-behavior-towards-women-announces-break-from-social-media-12160091#publisher=newsstand",
-        "source": "NDTV Sports",
-        "published": "2026-10-09T06:08:10+00:00"
-      },
-      {
-        "title": "NFL Warns of Risks As It Seeks Supreme Court Ruling On Prediction Markets",
-        "summary": "The NFL is seeking clarity on who should oversee sports prediction markets in the United States.",
-        "link": "https://sports.ndtv.com/us-nfl/nfl-warns-of-risks-as-it-seeks-supreme-court-ruling-on-prediction-markets-12160033#publisher=newsstand",
-        "source": "NDTV Sports",
-        "published": "2026-10-09T06:07:05+00:00"
-      },
-      {
-        "title": "Asmongold Slams NoArmWhatley After Clip Of Him Touching Female Streamer Surfaces Draws Backlash Online",
-        "summary": "Asmongold calls NoArmWhatley a “weirdo” over his interaction with Tenshi.",
-        "link": "https://sports.ndtv.com/us-us-streamers/asmongold-slams-noarmwhatley-after-clip-of-him-touching-female-streamer-surfaces-draws-backlash-online-12159973#publisher=newsstand",
-        "source": "NDTV Sports",
-        "published": "2026-10-09T06:06:34+00:00"
-      },
-      {
-        "title": "NFL Fans Mock CeeDee Lamb’s Outfit Before Cowboys-Buccaneers Game",
-        "summary": "CeeDee Lamb arrives at AT&T Stadium in a cowboy-inspired outfit",
-        "link": "https://sports.ndtv.com/us-nfl/nfl-fans-mock-ceedee-lamb-s-outfit-before-cowboys-buccaneers-game-12159904#publisher=newsstand",
-        "source": "NDTV Sports",
-        "published": "2026-10-09T06:06:18+00:00"
-      },
-      {
-        "title": "Roman Reigns Gives Fans A BTS Look At Street Fighter And Reveals What Playing Akuma Really Takes",
-        "summary": "Roman Reigns gives fans a closer look at his Akuma role ahead of Street Fighter's October release.",
-        "link": "https://sports.ndtv.com/us-wwe/roman-reigns-gives-fans-a-bts-look-at-street-fighter-and-reveals-what-playing-akuma-really-takes-12159880#publisher=newsstand",
-        "source": "NDTV Sports",
-        "published": "2026-10-09T06:05:56+00:00"
-      },
-      {
-        "title": "Factionalism leaves Arunachal in danger of forfeiting Ranji season opener",
-        "summary": "A case is pending before the Itanagar bench of the Gauhati High Court; \"until the court gives the clearance, we cannot do anything,\" says BCCI secretary Devajit Saikia",
-        "link": "https://www.cricinfo.com/ci/content/story/1557679.html?ex_cid=OTC-RSS",
-        "source": "ESPN Cricinfo",
-        "published": "2026-10-09T05:02:39+00:00"
+        "published": "2026-10-09T22:59:32+00:00"
       }
     ]
   }
