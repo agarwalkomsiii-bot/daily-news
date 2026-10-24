@@ -1,306 +1,334 @@
 {
-  "generated_at": "2026-10-23 06:23",
+  "generated_at": "2026-10-24 06:18",
   "data": {
     "World": [
       {
-        "title": "Powerful earthquake hits Tibet killing 16 people, reports say",
-        "summary": "The quake hit a mountainous, sparsely-populated area in what China calls the Tibet Autonomous Region.",
-        "link": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss",
+        "title": "How Benjamin Netanyahu reshaped Israel’s institutions",
+        "summary": "As Israel heads to the polls on October 27, its polarising and longest-serving prime minister is seeking re-election.",
+        "link": "https://www.aljazeera.com/news/2026/10/24/how-benjamin-netanyahu-reshaped-israels-institutions?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-10-24T05:29:07+00:00"
+      },
+      {
+        "title": "Hospital in Yemen’s Taiz warns of collapse in days because of Houthi siege",
+        "summary": "Dialysis patients face shorter treatment sessions as severe shortages of fuel, medicines, and oxygen threaten hospitals.",
+        "link": "https://www.aljazeera.com/features/2026/10/24/hospital-yemen-taiz-warns-collapse-houthi-siege?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-10-24T05:20:35+00:00"
+      },
+      {
+        "title": "Lebanese sceptical Israeli polls will bring change, end occupation of south",
+        "summary": "Residents and analysts doubt October 27 vote will bring any meaningful shift in Israeli policy towards their country.",
+        "link": "https://www.aljazeera.com/features/2026/10/24/lebanese-skeptical-israeli-polls-will-bring-change-end-occupation-of-south?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-10-24T05:04:32+00:00"
+      },
+      {
+        "title": "Massive oil slick seen weeks after tanker struck off UAE’s coast",
+        "summary": "An oil spill off the UAE coast has prompted beach closures after a vessel reportedly hit a naval mine in early October.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/massive-oil-slick-seen-weeks-after-tanker-struck-off-uaes-coast?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-10-24T04:48:40+00:00"
+      },
+      {
+        "title": "France prepares for day of protest a week after nationwide riots",
+        "summary": "More than 70,000 police officers are to be deployed over fears protesters will defy restrictions on demonstrations.",
+        "link": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "2026-10-23T05:16:37+00:00"
+        "published": "2026-10-24T04:03:46+00:00"
       },
       {
-        "title": "Nigeria and Kenya Ebola patients may have crossed paths at Uganda airport, officials say",
-        "summary": "Officials say they both travelled through Entebbe International Airport on 3 October.",
-        "link": "https://www.bbc.co.uk/news/articles/cmwy4wlzqz3zo?at_medium=RSS&at_campaign=rss",
+        "title": "Argentina identifies dozens of victims killed in its ‘Dirty War’",
+        "summary": "Forensic anthropologists have identified the remains of at least 38 victims of Argentina’s last military dictatorship.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/argentina-identifies-dozens-of-victims-killed-in-its-dirty?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-10-24T03:51:58+00:00"
+      },
+      {
+        "title": "Arrest made after fire at Hitler's Eagle's Nest retreat",
+        "summary": "Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
+        "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "2026-10-23T04:54:25+00:00"
+        "published": "2026-10-24T03:51:25+00:00"
       },
       {
-        "title": "Grenade exercise sparked deadly fire at Canada military base, army says",
-        "summary": "High winds propelled the blaze across the army base in Wainwright, killing four soldiers and injuring dozens more.",
-        "link": "https://www.aljazeera.com/news/2026/10/23/grenade-exercise-sparked-deadly-fire-at-canada-military-base-army-says?traffic_source=rss",
+        "title": "Marco Rubio urges Cubans to collaborate with CIA to topple gov’t",
+        "summary": "Secretary of State Marco Rubio has urged Cubans to secretly work with the CIA to topple their government.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/10-24-rubi0-cuba-cia?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-10-23T04:41:24+00:00"
+        "published": "2026-10-24T03:50:32+00:00"
       },
       {
-        "title": "Keeping Madhubala alive: The fight for Karachi’s captive elephants",
-        "summary": "Karachi's last two African elephants remain in captivity. Their sisters are already dead. Will they survive?",
-        "link": "https://www.aljazeera.com/features/2026/10/23/keeping-madhubala-alive-the-fight-for-karachis-captive-elephants?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-10-23T04:27:55+00:00"
-      },
-      {
-        "title": "Israel arrests 36 Palestinians in the West Bank, attacks on farmers ramp up",
-        "summary": "Israeli pogroms on Palestinian farmers and their lands during the olive harvest season intensify.",
-        "link": "https://www.aljazeera.com/news/2026/10/23/israel-arrests-36-palestinians-in-the-west-bank-attacks-on-farmers-ramp-up?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-10-23T04:09:28+00:00"
-      },
-      {
-        "title": "US tech stocks tumble as investors fret over AI spending",
-        "summary": "Tech-heavy Nasdaq falls 2.6 percent as debate rages over whether AI is a bubble.",
-        "link": "https://www.aljazeera.com/economy/2026/10/23/us-tech-stocks-tumble-as-investors-fret-over-ai-spending?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-10-23T03:13:13+00:00"
-      },
-      {
-        "title": "Venezuelans demand elections in first national protest in nearly two years",
-        "summary": "No date has been set to decide on a successor for Nicolas Maduro after the former president was captured by US forces.",
-        "link": "https://www.aljazeera.com/news/2026/10/23/venezuelans-demand-elections-in-first-national-protest-in-nearly-two-years?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-10-23T03:12:12+00:00"
-      },
-      {
-        "title": "Indian developer turns ‘Cockroach’ protests into video game",
-        "summary": "A 27-year-old Indian developer has created a satirical video game inspired by the Cockroach Party-led protests.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/indian-developer-turns-cockroach-protests-into-video-game?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-10-23T02:44:35+00:00"
-      },
-      {
-        "title": "Brazil’s election and the battle for the Amazon – podcast",
-        "summary": "Our Latin America correspondent, Tom Phillips, heads to Roraima to hear what’s at stake for the rainforest and the communities that live there in the Brazilian presidential runoff on Sunday. Send your comments and…",
-        "link": "https://www.theguardian.com/news/audio/2026/oct/23/brazil-election-battle-for-amazon-podcast",
+        "title": "Rubio tells Cubans ‘now is the time’ to act to see political change",
+        "summary": "US secretary of state makes comments after Trump tells US rally warships could intervene on return from Iran Marco Rubio urged Cubans seeking political change in their country to act, saying “now is the time” moments…",
+        "link": "https://www.theguardian.com/us-news/2026/oct/23/marco-rubio-cuba-trump",
         "source": "The Guardian World",
-        "published": "2026-10-23T02:00:56+00:00"
+        "published": "2026-10-24T00:30:02+00:00"
       },
       {
-        "title": "Trump ordered to answer questions under oath in BBC lawsuit",
-        "summary": "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021.",
-        "link": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
+        "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
+        "summary": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo.",
+        "link": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "2026-10-23T01:38:44+00:00"
+        "published": "2026-10-24T00:05:43+00:00"
       },
       {
-        "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds",
-        "summary": "The UN human rights chief Volker Türk says the multiple attacks may amount to war crimes.",
-        "link": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
+        "title": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
+        "summary": "The Student List has emerged from almost two years of anti-corruption protests to form the biggest challenge to Vučić's rule.",
+        "link": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "2026-10-22T23:16:16+00:00"
+        "published": "2026-10-23T23:08:23+00:00"
       },
       {
-        "title": "L'Oreal says weight loss drugs are impacting beauty and skincare sales",
-        "summary": "The beauty giant's CEO says the use of GLP-1s is \"a very important phenomenon for us\".",
-        "link": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
+        "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
+        "summary": "Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way.",
+        "link": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "2026-10-22T22:27:53+00:00"
+        "published": "2026-10-23T19:46:30+00:00"
       }
     ],
     "India": [
       {
-        "title": "Two girls from Pudukottai sexually assaulted at Velankanni lodge; two men arrested",
-        "summary": "The girls told personnel from the Singappen Task Force that two men had approached them while they were on the beach, promising to buy them food, and subsequently sexually assaulted them in a lodge",
-        "link": "https://www.thehindu.com/news/national/tamil-nadu/two-girls-from-pudukottai-sexually-assaulted-at-velankanni-lodge-two-men-arrested/article71614642.ece",
+        "title": "Andhra CM alerts officials about the cyclone in Bay of Bengal",
+        "summary": "He called for completion of 36 priority irrigation as per schedule",
+        "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-cm-naidu-orders-alertness-disaster-planning-ahead-of-cyclone-rainfall/article71619149.ece",
         "source": "The Hindu",
-        "published": "2026-10-23T06:17:25+00:00"
+        "published": "2026-10-24T06:06:49+00:00"
       },
       {
-        "title": "Traffic restrictions around Hyderabad’s Hussain Sagar to remain in place till Saturday as Durga idol immersions continue",
+        "title": "‘Repair maadi’ workshops on at Indian Institute of World Culture in Bengaluru",
+        "summary": "People can walk in any time between 10 a.m. to 5 p.m. into the Indian Institute of World Culture on B.P. Wadia Road in Basavanagudi",
+        "link": "https://www.thehindu.com/news/cities/bangalore/repair-maadi-workshops-on-at-indian-institute-of-world-culture-in-bengaluru/article71619092.ece",
+        "source": "The Hindu",
+        "published": "2026-10-24T06:05:44+00:00"
+      },
+      {
+        "title": "Posters Questioning Government Found Inside Delhi Metro Train, Case Filed",
+        "summary": "The posters invited people to join an online group through a QR code.",
+        "link": "https://www.ndtv.com/india-news/posters-questioning-government-found-inside-delhi-metro-train-express-line-case-filed-12228760#publisher=newsstand",
+        "source": "NDTV",
+        "published": "2026-10-24T06:04:10+00:00"
+      },
+      {
+        "title": "Parents were counselled about generic drug, says doctor in charge of SMA clinic at SAT Hospital",
         "summary": "",
-        "link": "https://www.thehindu.com/news/cities/Hyderabad/traffic-restrictions-to-remain-in-place-till-saturday-as-durga-idol-immersions-continue/article71613042.ece",
+        "link": "https://www.thehindu.com/news/national/kerala/parents-were-counselled-about-generic-drug-says-doctor-in-charge-of-sma-clinic-at-sat-hospital/article71616328.ece",
         "source": "The Hindu",
-        "published": "2026-10-23T06:17:09+00:00"
+        "published": "2026-10-24T06:00:30+00:00"
       },
       {
-        "title": "Cyclonic storm likely by October 26; heavy rain in Coastal Andhra from October 27: IMD",
-        "summary": "The system is forecast to move towards the north Andhra Pradesh and south Odisha coasts after October 26",
-        "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclonic-storm-likely-by-october-26-heavy-rain-in-coastal-andhra-from-october-27-imd/article71612805.ece",
+        "title": "Wanted For Murders, Gangsters Himanshu Bhau, Neeraj Faridpuria Arrested In US",
+        "summary": "Himanshu Bhau (L) and Neeraj Faridpuria after they were arrested in the US",
+        "link": "https://www.ndtv.com/india-news/gangster-himanshu-bhau-wanted-in-india-for-multiple-murders-arrested-in-us-12227703#publisher=newsstand",
+        "source": "NDTV",
+        "published": "2026-10-24T05:59:07+00:00"
+      },
+      {
+        "title": "ICMR-funded GITAM project aims at blood test for early detection of triple-negative breast cancer",
+        "summary": "The ICMR-funded project will compare blood samples from early-stage patients with those from healthy women",
+        "link": "https://www.thehindu.com/news/national/andhra-pradesh/icmr-funded-gitam-project-aims-at-blood-test-for-early-detection-of-triple-negative-breast-cancer/article71615054.ece",
         "source": "The Hindu",
-        "published": "2026-10-23T06:14:55+00:00"
+        "published": "2026-10-24T05:58:56+00:00"
       },
       {
-        "title": "Rains lash Tamil Nadu; schools closed in many districts on October 23",
-        "summary": "Villupuram, Kallakurichi, Vellore, Puducherry, and Karaikal districts have declared holidays for school due to rain",
-        "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-rain-heavy-rains-school-declared-holidays-updates-on-october-23-2026/article71614697.ece",
+        "title": "\"People Like Abhijeet Dipke...\": Piyush Goyal's Jab During Berlin Event",
+        "summary": "Piyush Goyal is on an official visit to Germany and the Netherlands from October 22 to 27",
+        "link": "https://www.ndtv.com/world-news/piyush-goyal-jabs-cjps-abhijeet-dipke-while-speaking-to-indian-students-in-berlin-12228572#publisher=newsstand",
+        "source": "NDTV",
+        "published": "2026-10-24T05:56:58+00:00"
+      },
+      {
+        "title": "At least four killed, as two vehicles catch fire in ASR district",
+        "summary": "The incident reportedly occurred while diesel was being poured into the truck from the tipper",
+        "link": "https://www.thehindu.com/news/cities/Visakhapatnam/several-killed-as-two-vehicles-catch-fire-in-asr-district-andhra-pradesh/article71619070.ece",
         "source": "The Hindu",
-        "published": "2026-10-23T06:14:54+00:00"
+        "published": "2026-10-24T05:55:50+00:00"
       },
       {
-        "title": "Pakistan refused to accept bodies of its own soldiers killed in Kargil war: India at UN",
-        "summary": "Ms. Mangalanandan added that burial rights for terrorists are being justified by indicating that States may restrict funeral rights of terrorists, but only within legal limits",
-        "link": "https://www.thehindu.com/news/national/pakistan-refused-to-accept-bodies-of-its-own-soldiers-killed-in-kargil-war-india-at-un/article71614773.ece",
+        "title": "'Rs 10k cr at risk': Traders' body urges Rahul to defer Delhi rally amid Diwali season",
+        "summary": "",
+        "link": "https://timesofindia.indiatimes.com/india/already-suffered-losses-traders-body-urges-rahul-gandhi-to-defer-delhi-rally/articleshow/135163423.cms",
+        "source": "Times of India",
+        "published": "2026-10-24T05:55:30+00:00"
+      },
+      {
+        "title": "Asaduddin Owaisi seeks special Parliament session on Chinese intrusions in Arunachal",
+        "summary": "",
+        "link": "https://www.thehindu.com/news/national/telangana/asaduddin-owaisi-seeks-special-parliament-session-on-chinese-intrusions-in-arunachal/article71616761.ece",
         "source": "The Hindu",
-        "published": "2026-10-23T06:14:35+00:00"
+        "published": "2026-10-24T05:52:34+00:00"
       },
       {
-        "title": "Record growth, rising risks: What’s really driving India’s core industries? | The Hindu Editorial",
-        "summary": "India’s core industrial sectors recorded a series-high growth rate of 7.9% in September, driven by strong performances in coal, electricity, steel and refinery products. While the data points to a welcome industrial…",
-        "link": "https://www.thehindu.com/videos/record-growth-rising-risks-whats-really-driving-indias-core-industries-the-hindu-editorial/article71614823.ece",
-        "source": "The Hindu",
-        "published": "2026-10-23T06:14:08+00:00"
-      },
-      {
-        "title": "'Human Pulled The Trigger, Machine Helped': Ex-CIA Chief On Iran School Bombing",
-        "summary": "The statement contradicts an earlier report that said an AI 'Kill Chain' was behind US strikes on an Iranian school.",
-        "link": "https://www.ndtv.com/india-news/general-david-petraeus-at-ndtv-world-summit-human-pulled-the-trigger-machine-helped-ex-cia-chief-on-iran-school-bombing-12223816#publisher=newsstand",
+        "title": "Fire Engulfs Hitler's Mountain Retreat In Germany's Bavaria, Suspect Detained",
+        "summary": "Emergency services arrived on site at 9:52 pm (1952 GMT) on Friday",
+        "link": "https://www.ndtv.com/world-news/fire-engulfs-hitlers-mountain-retreat-eagles-nest-in-germanys-bavaria-suspect-detained-12228373#publisher=newsstand",
         "source": "NDTV",
-        "published": "2026-10-23T06:06:30+00:00"
+        "published": "2026-10-24T05:46:18+00:00"
       },
       {
-        "title": "General David Petraeus At NDTV World Summit - \"Nobel Laureate In Terms Of Brain Power\": CIA Ex-Director On AI Role In Warfare",
-        "summary": "CIA ex-director General David Howell Petraeus (retired) at the NDTV World Summit",
-        "link": "https://www.ndtv.com/world-news/general-david-petraeus-at-ndtv-world-summit-nobel-laureate-in-terms-of-brain-power-cia-ex-director-on-ai-role-in-warfare-12223771#publisher=newsstand",
+        "title": "'Salman Only Tiger In Industry': A Praise That Led To Attack On Tiger Shroff",
+        "summary": "Tiger Shroff's driver and one bystander were injured in the incident",
+        "link": "https://www.ndtv.com/india-news/salman-khan-only-tiger-in-industry-praise-that-led-to-attack-on-tiger-shroff-lawrence-bishnoi-12228647#publisher=newsstand",
         "source": "NDTV",
-        "published": "2026-10-23T06:06:19+00:00"
-      },
-      {
-        "title": "NDTV World Summit 2026 LIVE Updates: Nepal Finance Minister On Devastating Floods",
-        "summary": "NDTV World Summit 2026 LIVE Updates:",
-        "link": "https://www.ndtv.com/world-news/ndtv-world-summit-2026-live-updates-narendra-modi-s-jaishankar-nikhil-kamath-a-world-between-orders-12218006#publisher=newsstand",
-        "source": "NDTV",
-        "published": "2026-10-23T06:06:15+00:00"
-      },
-      {
-        "title": "Cab, Smaller Hotels: How UP Influencer Shraddha Dubey Managed To Evade Cops",
-        "summary": "Shiva Sharma Murder Case: Shraddha Dubey disclosed several details.",
-        "link": "https://www.ndtv.com/india-news/cab-smaller-hotels-how-up-influencer-shraddha-dubey-managed-to-evade-cops-12223893#publisher=newsstand",
-        "source": "NDTV",
-        "published": "2026-10-23T06:06:07+00:00"
-      },
-      {
-        "title": "Terror Cave Hideout Found In J&K, Security Forces Recover 6 Explosives",
-        "summary": "Security forces busted a terrorist cave hideout and recovered six IEDs in Poonch district.",
-        "link": "https://www.ndtv.com/india-news/terror-cave-hideout-found-in-j-k-security-forces-recover-6-explosives-12223859#publisher=newsstand",
-        "source": "NDTV",
-        "published": "2026-10-23T06:00:34+00:00"
-      },
-      {
-        "title": "Top US Banks Block AI Agents As Bots Access Customer Accounts Without Consent",
-        "summary": "Top banking executives earlier this month discussed the risks of AI agents acting on customers' behalf.",
-        "link": "https://www.ndtv.com/world-news/top-us-banks-block-ai-agents-as-bots-access-customer-accounts-without-consent-12223847#publisher=newsstand",
-        "source": "NDTV",
-        "published": "2026-10-23T05:51:54+00:00"
+        "published": "2026-10-24T05:29:13+00:00"
       }
     ],
     "Business": [
       {
-        "title": "WhatsApp to stop working for these users from Jan",
+        "title": "Traders fear Diwali hit as Nov 1 rally looms",
         "summary": "",
-        "link": "https://economictimes.indiatimes.com/news/new-updates/whatsapp-and-telegram-to-stop-working-for-these-user-from-jan-1-govt-announces-new-rule-what-you-should-know/articleshow/135135195.cms",
+        "link": "https://economictimes.indiatimes.com/news/india/traders-urge-rahul-gandhi-to-defer-india-blocs-nov-1-rally-say-rs-10000-crore-diwali-business-at-risk/articleshow/135163337.cms",
         "source": "Economic Times",
-        "published": "2026-10-23T05:22:00+00:00"
+        "published": "2026-10-24T05:53:22+00:00"
       },
       {
-        "title": "Gold rate today: 24k vs 22k vs 20k vs 18k prices",
+        "title": "Odisha Police Ganjam Gambling Crackdown, Raids: 470 arrested, over ₹12.65 lakh seized ahead of Kumar Purnima",
+        "summary": "Odisha Police arrested 470 people in two days during a crackdown on gambling ahead of Kumar Purnima in Ganjam and Berhampur. Officers also seized cash and busted gambling dens as authorities warned that enforcement…",
+        "link": "https://www.livemint.com/news/odisha-police-ganjam-gambling-crackdown-raids-470-arrested-over-rs-12-65-lakh-seized-ahead-of-kumar-purnima-11792818771206.html",
+        "source": "Livemint",
+        "published": "2026-10-24T05:23:20+00:00"
+      },
+      {
+        "title": "Russia-Ukraine war: Melania Trump brokers localised ceasefire in Oleshky; all you need to know about the starving city",
+        "summary": "Melania Trump announced a localised Russia-Ukraine ceasefire to allow aid deliveries and civilian evacuations in Russian-occupied Oleshky, where mines, drone attacks and damaged infrastructure have left residents…",
+        "link": "https://www.livemint.com/news/us-news/russiaukraine-war-melania-trump-brokers-localised-ceasefire-in-oleshky-all-you-need-to-know-about-the-starving-city-11792813675780.html",
+        "source": "Livemint",
+        "published": "2026-10-24T04:11:35+00:00"
+      },
+      {
+        "title": "IndiGo and Akasa Air extend Saudi flight suspensions: Check new dates; has Air India followed suit?",
+        "summary": "IndiGo flights to Riyadh remain cancelled until October 31 and services to three other Saudi cities until October 27. Akasa Air has extended its suspensions to Jeddah and Riyadh until November 10 and 30, respectively.",
+        "link": "https://www.livemint.com/news/world/indigo-and-akasa-air-extend-saudi-flight-suspensions-check-new-dates-has-air-india-followed-suit-11792811699026.html",
+        "source": "Livemint",
+        "published": "2026-10-24T03:47:24+00:00"
+      },
+      {
+        "title": "Petrol and diesel prices today, October 24: Check fuel cost in Delhi, Mumbai, Bengaluru",
+        "summary": "Brent oil finished out the week at the highest level since April as intensifying attacks on Saudi Arabia added to supply concerns already stoked by the US-Iran war.",
+        "link": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-october-24-check-fuel-cost-in-delhi-mumbai-bengaluru-11792812146331.html",
+        "source": "Livemint",
+        "published": "2026-10-24T03:44:14+00:00"
+      },
+      {
+        "title": "Amid El Niño and fears of prolonged drought, Telangana announces 4-month employment scheme",
+        "summary": "Telangana Chief Minister Revanth Reddy announced a four-month employment scheme starting after Sankranti to support workers. With reservoirs critically low and many pump sets dry, the government will monitor water…",
+        "link": "https://www.livemint.com/news/india/amid-el-ni-o-and-fears-of-prolonged-drought-telangana-announces-4-month-employment-scheme-11792811509109.html",
+        "source": "Livemint",
+        "published": "2026-10-24T03:33:49+00:00"
+      },
+      {
+        "title": "Data recap: FPI selloff, Reliance bets, Blinkit’s expansion plans",
+        "summary": "In this weekly Plain Facts compilation, we present to you data-based insights, with easy-to-read charts, to help you delve deeper into the stories reported by Mint in the week gone by.",
+        "link": "https://www.livemint.com/news/the-week-in-charts-fpi-selloff-reliance-bets-blinkit-expansion-plans-mitchell-starc-11792654488104.html",
+        "source": "Livemint",
+        "published": "2026-10-24T03:30:15+00:00"
+      },
+      {
+        "title": "Epic Fury again: Trump warns Iran of potential strike",
         "summary": "",
-        "link": "https://economictimes.indiatimes.com/wealth/invest/gold-silver-rate-today-october-23-2026-check-24k-22k-20k-and-18k-gold-jewellery-prices-from-ibja-malabar-gold-diamonds-joyalukkas-kalyan-jewellers-and-tanishq/articleshow/135135254.cms",
+        "link": "https://economictimes.indiatimes.com/news/international/world-news/we-may-do-another-epic-fury-trump-warns-iran-of-potential-strike-if-deal-not-reached/articleshow/135159567.cms",
         "source": "Economic Times",
-        "published": "2026-10-23T05:18:48+00:00"
+        "published": "2026-10-24T01:36:14+00:00"
       },
       {
-        "title": "Who is Isabel Rossi? 14-year-old Virginia student creates earthquake sensors; bags spot in top US science challenge",
-        "summary": "At the age of nine, Isabel Rossi began working with a retired NASA engineer, building homemade rockets and making mathematical adjustments to improve their flight performance.&nbsp;",
-        "link": "https://www.livemint.com/news/trends/who-is-isabel-rossi-14-year-old-virginia-student-creates-earthquake-sensors-bags-spot-in-top-us-science-challenge-11792728979409.html",
-        "source": "Livemint",
-        "published": "2026-10-23T05:14:11+00:00"
-      },
-      {
-        "title": "Who is Prem Agarwal? How 10 hours of daily study, no Instagram, scripted Surat boy bag CA Inter AIR 3",
-        "summary": "Over the last six to seven months, Prem dedicated eight to ten hours daily to his studies, according to NDTV.",
-        "link": "https://www.livemint.com/news/india/who-is-prem-agarwal-how-10-hours-of-daily-study-no-instagram-scripted-surat-boy-bag-ca-inter-air-3-11792723453738.html",
-        "source": "Livemint",
-        "published": "2026-10-23T04:12:45+00:00"
-      },
-      {
-        "title": "Who is IAS Shalini Pandit? Odisha officer empanelled for Additional Secretary-level posts at Centre",
-        "summary": "Shalini Pandit is an Indian Administrative Service (IAS) officer of the 2001 batch of the Odisha cadre presently serving as Joint Secretary in the Department of Financial Services, Ministry of Finance, Government of…",
-        "link": "https://www.livemint.com/news/india/who-is-ias-shalini-pandit-odisha-officer-empanelled-for-additional-secretary-level-posts-at-centre-11792727803878.html",
-        "source": "Livemint",
-        "published": "2026-10-23T04:06:22+00:00"
-      },
-      {
-        "title": "Retiree pays no tax on Rs 9.53L leave encashment",
+        "title": "US uses Musk’s Starlink as powerful tool in warfare",
         "summary": "",
-        "link": "https://economictimes.indiatimes.com/wealth/tax/retired-bank-employee-claims-tax-exemption-on-rs-9-53-lakh-leave-encashment-faces-income-tax-notice-and-wins-full-relief-at-itat-jaipur/articleshow/135132133.cms",
+        "link": "https://economictimes.indiatimes.com/news/international/world-news/us-has-for-years-asked-musk-to-alter-starlink-service-in-ukraine-middle-east-sources-say/articleshow/135159117.cms",
         "source": "Economic Times",
-        "published": "2026-10-23T03:09:53+00:00"
+        "published": "2026-10-24T00:48:39+00:00"
       },
       {
-        "title": "UP schools up to Class 12 closed today, 23 October, on Election Commission's order: Here's why",
-        "summary": "Several schools in Uttar Pradesh were ordered to remain shut in the wake of the UP Legislative Council Block Teacher and Block Graduate (MLC) elections.",
-        "link": "https://www.livemint.com/news/india/up-schools-up-to-class-12-closed-today-23-october-on-election-commissions-order-heres-why-11792723846591.html",
-        "source": "Livemint",
-        "published": "2026-10-23T03:03:00+00:00"
+        "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
+        "summary": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets.",
+        "link": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "published": "2026-10-24T00:36:47+00:00"
       },
       {
-        "title": "Oil on the boil: Japan mulls phasing out gasoline subsidies from December - What to know",
-        "summary": "Implemented in March as an emergency step, the policy was designed to protect businesses and households from skyrocketing oil prices triggered by the US-Israeli war with Iran.",
-        "link": "https://www.livemint.com/news/world/oil-on-the-boil-japan-mulls-phasing-out-gasoline-subsidies-from-december-what-to-know-11792721503504.html",
-        "source": "Livemint",
-        "published": "2026-10-23T02:52:08+00:00"
+        "title": "How does the UK state pension compare with other countries?",
+        "summary": "Do British pensioners have it better or worse than those in other countries?",
+        "link": "https://www.bbc.co.uk/news/articles/c3gr84w85glyo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "published": "2026-10-24T00:09:12+00:00"
       },
       {
-        "title": "Tata Sons chairman N Chandrasekaran meets Pralhad Joshi: What they discussed",
-        "summary": "Union Minister Pralhad Joshi and Tata Sons Chairman N Chandrasekaran discussed aligning higher education with industry needs, strengthening innovation and research, and equipping students to support India’s sustainable…",
-        "link": "https://www.livemint.com/news/india/tata-sons-chairman-n-chandrasekaran-meets-pralhad-joshi-what-they-discussed-11792720009203.html",
-        "source": "Livemint",
-        "published": "2026-10-23T02:44:24+00:00"
-      },
-      {
-        "title": "UPI payment failed? Get a refund & ₹100/day",
-        "summary": "",
-        "link": "https://economictimes.indiatimes.com/wealth/spend/upi-payment-failed-or-stuck-when-banks-must-refund-your-money-and-pay-100-per-day-in-compensation/articleshow/135116763.cms",
-        "source": "Economic Times",
-        "published": "2026-10-23T01:30:00+00:00"
-      },
-      {
-        "title": "Trump puts Cold War-era law to work as oil rates bite",
-        "summary": "",
-        "link": "https://economictimes.indiatimes.com/news/international/world-news/trump-invokes-cold-war-era-defense-production-act-for-oil-production-refining/articleshow/135131356.cms",
-        "source": "Economic Times",
-        "published": "2026-10-23T01:17:51+00:00"
-      },
-      {
-        "title": "Apple’s pricey iPhone Duo unfolds. Will buyers bite?",
-        "summary": "",
-        "link": "https://economictimes.indiatimes.com/industry/cons-products/electronics/apple-launches-into-foldable-market-as-iphone-duo-sales-begin/articleshow/135130936.cms",
-        "source": "Economic Times",
-        "published": "2026-10-23T00:50:12+00:00"
+        "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+        "summary": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
+        "link": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "published": "2026-10-24T00:05:45+00:00"
       }
     ],
     "Technology": [
       {
-        "title": "Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback",
-        "summary": "Oura alleges in its newest lawsuit that Ultrahuman's Ring Pro infringes two of its patents.",
-        "link": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
-        "source": "TechCrunch",
-        "published": "2026-10-23T04:22:57+00:00"
+        "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+        "summary": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
+        "link": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Technology",
+        "published": "2026-10-24T00:05:45+00:00"
       },
       {
-        "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
-        "summary": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
-        "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+        "title": "Startups don’t need to go viral to win customers",
+        "summary": "At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one.",
+        "link": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
         "source": "TechCrunch",
-        "published": "2026-10-23T04:00:00+00:00"
+        "published": "2026-10-23T23:07:45+00:00"
       },
       {
-        "title": "Left alone with nothing to do, AI agents started playing",
-        "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
-        "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+        "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+        "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+        "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
         "source": "TechCrunch",
-        "published": "2026-10-23T00:45:37+00:00"
+        "published": "2026-10-23T23:05:49+00:00"
       },
       {
-        "title": "Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta",
-        "summary": "A newly launched stock class being offered was partially engineered to help Meta founder and CEO Mark Zuckerberg pay the \"billionaire's tax,\" should the measure be voted into law.",
-        "link": "https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/",
+        "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+        "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
+        "link": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
         "source": "TechCrunch",
-        "published": "2026-10-22T23:50:41+00:00"
+        "published": "2026-10-23T21:59:19+00:00"
       },
       {
-        "title": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
-        "summary": "Warhound, the brainchild of Ben Lamm and Palmer Luckey, emerges from stealth to genetically engineer dogs for military and law enforcement.",
-        "link": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/",
+        "title": "VCs, Superhuman Mail founder share red flags about product-market fit",
+        "summary": "Top investors from Iconiq and Sapphire Ventures, along with Rahul Vohra, the founder of Superhuman Mail, share the do's and don'ts for building hit products.",
+        "link": "https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/",
         "source": "TechCrunch",
-        "published": "2026-10-22T23:15:00+00:00"
+        "published": "2026-10-23T20:57:13+00:00"
       },
       {
-        "title": "As blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier",
-        "summary": "The digital asset unit, helmed by Chris Dixon, broadens its scope.",
-        "link": "https://techcrunch.com/2026/10/22/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16z-frontier/",
+        "title": "TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now",
+        "summary": "TechCrunch Founder Summit 2026 is coming to SoWa Power Station in Boston on November 4, bringing founders, investors, and operators together for a full day of candid conversations, practical sessions, live pitching,…",
+        "link": "https://techcrunch.com/2026/10/23/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges-founders-are-solving-right-now/",
         "source": "TechCrunch",
-        "published": "2026-10-22T22:34:54+00:00"
+        "published": "2026-10-23T20:03:14+00:00"
+      },
+      {
+        "title": "Carta and NewView partner, hoping to entice more startups to let employees sell shares early",
+        "summary": "A new program wants to encourage more startups to allow workers to cash out early by making it easier to transact tender offers.",
+        "link": "https://techcrunch.com/2026/10/23/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early/",
+        "source": "TechCrunch",
+        "published": "2026-10-23T19:25:13+00:00"
+      },
+      {
+        "title": "What is PHP and why did it spark a global cyber-security scramble?",
+        "summary": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
+        "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Technology",
+        "published": "2026-10-23T12:24:17+00:00"
+      },
+      {
+        "title": "'It's been relentless' say IT workers on frontline of PHP cyber-security scramble",
+        "summary": "IT and cyber experts have told the BBC about their struggles in the last 48 hours to update their systems.",
+        "link": "https://www.bbc.co.uk/news/articles/cxnv025d8qpmo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Technology",
+        "published": "2026-10-23T12:00:25+00:00"
+      },
+      {
+        "title": "The Indian workers filming their work to train AI",
+        "summary": "Indian workers are being paid to film themselves at work and the footage is used to train AI.",
+        "link": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Technology",
+        "published": "2026-10-23T08:04:17+00:00"
       },
       {
         "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
@@ -315,120 +343,92 @@
         "link": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Technology",
         "published": "2026-10-22T17:12:51+00:00"
-      },
-      {
-        "title": "What is PHP and why did it spark a global cyber-security scramble?",
-        "summary": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
-        "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Technology",
-        "published": "2026-10-22T11:15:58+00:00"
-      },
-      {
-        "title": "Zoe Kleinman: PHP is the cyber equivalent of an unexploded bomb",
-        "summary": "It has been a dramatic, public and global response, but the cyber event hasn't happened yet.",
-        "link": "https://www.bbc.co.uk/news/articles/cw98z6qlyvg3o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Technology",
-        "published": "2026-10-22T10:17:26+00:00"
-      },
-      {
-        "title": "'500 new vulnerabilities' found in government, says AI minister",
-        "summary": "'500 new vulnerabilities' found in government, says AI minister",
-        "link": "https://www.bbc.co.uk/news/videos/c6y8lvg2p50po?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Technology",
-        "published": "2026-10-22T10:08:44+00:00"
-      },
-      {
-        "title": "UK working to identify exposure after global cyber-security warning",
-        "summary": "Governments and companies are scrambling to protect their websites, as Amazon says it experienced attacks before the warning was made public.",
-        "link": "https://www.bbc.co.uk/news/articles/cmx23d0k57d3o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Technology",
-        "published": "2026-10-22T08:23:42+00:00"
       }
     ],
     "Sports": [
       {
-        "title": "Shikhar Mohan in India A squad for last two four-dayers against New Zealand A",
-        "summary": "Shikhar Mohan will replace KL Rahul, who will only play the first four-day match before linking up with the India ODI team",
-        "link": "https://www.cricinfo.com/ci/content/story/1559675.html?ex_cid=OTC-RSS",
-        "source": "ESPN Cricinfo",
-        "published": "2026-10-23T06:05:29+00:00"
-      },
-      {
-        "title": "WWE Reportedly Prepares For Crown Jewel With Two TV Shows In One Night Before Saudi Arabia Event",
-        "summary": "WWE reportedly plans a double TV taping before Crown Jewel in Saudi Arabia",
-        "link": "https://sports.ndtv.com/us/wwe/wwe-reportedly-prepares-for-crown-jewel-with-two-tv-shows-in-one-night-before-saudi-arabia-event-12223858#publisher=newsstand",
-        "source": "NDTV Sports",
-        "published": "2026-10-23T06:00:46+00:00"
-      },
-      {
-        "title": "Is Kai Cenat Single? Streamer Denies Having A Girlfriend As Dating Rumors With Gigi Surface Online",
-        "summary": "Kai Cenat denies having a girlfriend while streaming in Tokyo.",
-        "link": "https://sports.ndtv.com/us/us-streamers/is-kai-cenat-single-streamer-denies-having-a-girlfriend-as-dating-rumors-with-gigi-surface-online-12223871#publisher=newsstand",
-        "source": "NDTV Sports",
-        "published": "2026-10-23T06:00:42+00:00"
-      },
-      {
-        "title": "Sanju Samson's Big Verdict On India Star, Praises His Rescue Act In 1st T20I vs New Zealand",
-        "summary": "Sanju Samson in press conference",
-        "link": "https://sports.ndtv.com/new-zealand-vs-india-2026-27/sanju-samsons-big-verdict-on-naman-dhir-praises-his-rescue-act-in-1st-t20i-vs-new-zealand-12221218#publisher=newsstand",
-        "source": "NDTV Sports",
-        "published": "2026-10-23T05:57:32+00:00"
-      },
-      {
-        "title": "Have Man Utd become the unmanageable club?",
-        "summary": "The cycle of doom that has engulfed every Manchester United manager since Sir Alex Ferguson now has Michael Carrick in its unforgiving grip, writes Phil McNulty.",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c6y0ek284pdgo?at_medium=RSS&at_campaign=rss",
+        "title": "Why Tottenham v Arsenal could define their seasons - live on BBC One",
+        "summary": "With Tottenham stuttering and Arsenal floundering, these fierce rivals both need a victory in Saturday's showdown, live on BBC One.",
+        "link": "https://www.bbc.co.uk/sport/football/articles/ck240l3n774zo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Sport",
-        "published": "2026-10-23T05:56:04+00:00"
+        "published": "2026-10-24T06:02:44+00:00"
       },
       {
-        "title": "Harvinder Singh, Vijay Sundi Win doubles Men's Recurve Gold; Pooja, Bhawana Clinch Women's Silver",
-        "summary": "File image of Harvinder Singh, Vijay Sundi",
-        "link": "https://sports.ndtv.com/archery/harvinder-vijay-win-doubles-mens-recurve-gold-pooja-bhawana-secure-womens-doubles-silver-12223808#publisher=newsstand",
+        "title": "Canada inflict back-to-back losses on England",
+        "summary": "England suffer back-to-back defeats for the first time in a decade as Canada win 31-22 in Ottawa, including a hat-trick for captain Sophie de Goede.",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cm79p7x79wl9o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "published": "2026-10-24T05:51:07+00:00"
+      },
+      {
+        "title": "Travis Head hopes under-fire Australia find 'that collective batting day'",
+        "summary": "Australia have lost two of their last four Tests, by crushing margins at that, and the lack of partnerships - or more than one batter standing tall at any given time - has hurt them the most",
+        "link": "https://www.cricinfo.com/ci/content/story/1559795.html?ex_cid=OTC-RSS",
+        "source": "ESPN Cricinfo",
+        "published": "2026-10-24T05:35:01+00:00"
+      },
+      {
+        "title": "Mumbai Indians elevate Pollard to head coach ahead of IPL 2027",
+        "summary": "Pollard was part of the squad in each of the five IPL-winning seasons: 2013, 2015, 2017, 2019 and 2020",
+        "link": "https://www.cricinfo.com/ci/content/story/1559798.html?ex_cid=OTC-RSS",
+        "source": "ESPN Cricinfo",
+        "published": "2026-10-24T05:22:33+00:00"
+      },
+      {
+        "title": "Mumbai Indians Appoint New Head Coach Days After Mahela Jayawardene Steps Down",
+        "summary": "File photo of Kieron Pollard.",
+        "link": "https://sports.ndtv.com/cricket/mumbai-indians-appoint-new-head-coach-days-after-mahela-jayawardene-steps-down-12228513#publisher=newsstand",
         "source": "NDTV Sports",
-        "published": "2026-10-23T05:55:44+00:00"
+        "published": "2026-10-24T05:00:29+00:00"
       },
       {
-        "title": "David named for Tasmania in push for 2027 ODI World Cup spot",
-        "summary": "Tim David has been named by Tasmania to face Victoria in a domestic One-Day Cup game on Saturday, with coach Jeff Vaughan confirming he is pushing for the ODI World Cup",
-        "link": "https://www.cricinfo.com/ci/content/story/1559679.html?ex_cid=OTC-RSS",
-        "source": "ESPN Cricinfo",
-        "published": "2026-10-23T05:51:18+00:00"
-      },
-      {
-        "title": "Mona Agarwal Wins Second Gold Of Asian Para Games With World Record",
-        "summary": "Mona Agarwal broke the world record",
-        "link": "https://sports.ndtv.com/shooting/mona-agarwal-wins-second-gold-of-asian-para-games-with-world-record-12223654#publisher=newsstand",
+        "title": "India vs New Zealand Live Streaming, 2nd T20I Live Telecast: When And Where To Watch",
+        "summary": "India vs New Zealand 2nd T20I Live Streaming",
+        "link": "https://sports.ndtv.com/new-zealand-vs-india-2026-27/india-vs-new-zealand-live-streaming-2nd-t20i-live-telecast-when-and-where-to-watch-12228473#publisher=newsstand",
         "source": "NDTV Sports",
-        "published": "2026-10-23T05:48:29+00:00"
+        "published": "2026-10-24T04:26:34+00:00"
       },
       {
-        "title": "Las Vegas Raiders Must Fix Second-Half Issues To Turn Close Games Into Wins",
-        "summary": "Las Vegas Raiders players during their game",
-        "link": "https://sports.ndtv.com/us/nfl/las-vegas-raiders-must-fix-second-half-issues-to-turn-close-games-into-wins-12223742#publisher=newsstand",
+        "title": "Jerry Jones Dallas Cowboys Urged To Trade For Miami Dolphins’ $51.3 Million All-Pro Linebacker Jordyn Brooks",
+        "summary": "Jordyn Brooks emerges as the Dallas Cowboys trade target.",
+        "link": "https://sports.ndtv.com/us/nfl/jerry-jones-dallas-cowboys-urged-to-trade-for-miami-dolphins-51-3-million-all-pro-linebacker-jordyn-brooks-12228410#publisher=newsstand",
         "source": "NDTV Sports",
-        "published": "2026-10-23T05:46:18+00:00"
+        "published": "2026-10-24T04:20:42+00:00"
       },
       {
-        "title": "Injured Ishan Kishan ruled out of second T20I against New Zealand",
-        "summary": "\"Obviously Vaibhav Sooryavanshi comes into the calculations [as Ishan Kishan's replacement],\" India batting coach Sitanshu Kotak says",
-        "link": "https://www.cricinfo.com/ci/content/story/1559676.html?ex_cid=OTC-RSS",
-        "source": "ESPN Cricinfo",
-        "published": "2026-10-23T05:30:28+00:00"
+        "title": "\"It’s Pretty Cool\": Travis Kelce Reveals What Strangers Keep Thanking Him For Since Taylor Swift",
+        "summary": "Travis Kelce says fans thank him on the street for getting dads and daughters watching football together.",
+        "link": "https://sports.ndtv.com/us/nfl/it-s-pretty-cool-travis-kelce-reveals-what-strangers-keep-thanking-him-for-since-taylor-swift-12228278#publisher=newsstand",
+        "source": "NDTV Sports",
+        "published": "2026-10-24T04:19:44+00:00"
       },
       {
-        "title": "Taskin returns for first Bangladesh vs West Indies Test",
-        "summary": "Litton Das, who missed the ODI tri-series in the UAE because of an injury, has been brought in, while Towhid Hridoy has retained his place",
-        "link": "https://www.cricinfo.com/ci/content/story/1559671.html?ex_cid=OTC-RSS",
-        "source": "ESPN Cricinfo",
-        "published": "2026-10-23T05:05:54+00:00"
+        "title": "New York Giants Head Coach John Harbaugh Takes A Bold Stance On Tom Brady",
+        "summary": "New York Giants head coach John Harbaugh speaks to the media after Friday's practice in East Rutherford.",
+        "link": "https://sports.ndtv.com/us/nfl/new-york-giants-head-coach-john-harbaugh-takes-a-bold-stance-on-tom-brady-12228242#publisher=newsstand",
+        "source": "NDTV Sports",
+        "published": "2026-10-24T04:16:48+00:00"
       },
       {
-        "title": "Mariu, Nicholls, Lister, Hay in star-studded New Zealand A squad for India A four-dayers",
-        "summary": "The New Zealand A squad is of 19 members, but the players will be rotated - 13 will be available for each of the three four-dayers, with the others released to play the Ford Trophy",
-        "link": "https://www.cricinfo.com/ci/content/story/1559647.html?ex_cid=OTC-RSS",
+        "title": "Matthew Stafford’s Wife Kelly’s Race To Las Vegas Takes A Wild Turn After A Missed Flight With Four Daughters",
+        "summary": "Kelly missed her flight, so she drove 300 miles with her four daughters to watch Matthew Stafford",
+        "link": "https://sports.ndtv.com/us/nfl/matthew-stafford-s-wife-kelly-s-race-to-las-vegas-takes-a-wild-turn-after-a-missed-flight-with-four-daughters-12228211#publisher=newsstand",
+        "source": "NDTV Sports",
+        "published": "2026-10-24T04:09:47+00:00"
+      },
+      {
+        "title": "Faf du Plessis to Steven Smith: 'You did nothing wrong, just be strong'",
+        "summary": "The Sandpapergate series was acrimonious, but the two captains had empathy for each other",
+        "link": "https://www.cricinfo.com/ci/content/story/1556919.html?ex_cid=OTC-RSS",
         "source": "ESPN Cricinfo",
-        "published": "2026-10-23T03:20:43+00:00"
+        "published": "2026-10-24T02:19:25+00:00"
+      },
+      {
+        "title": "Leclerc fastest from Antonelli in US GP practice",
+        "summary": "Ferrari's Charles Leclerc leads Mercedes' Kimi Antonelli in Friday practice at the United States Grand Prix.",
+        "link": "https://www.bbc.co.uk/sport/formula1/articles/cm5ynle2n082o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "published": "2026-10-23T23:40:33+00:00"
       }
     ]
   }
