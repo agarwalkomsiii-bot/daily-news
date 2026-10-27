@@ -1,313 +1,334 @@
 {
-  "generated_at": "2026-10-26 06:47",
+  "generated_at": "2026-10-27 06:40",
   "data": {
     "World": [
       {
-        "title": "Brazil runoff live updates: Lula supporters celebrate historic election win as Bolsonaro refuses to concede",
-        "summary": "Leftist president Luiz Inácio Lula da Silva defeated the far-right senator and was elected president of Brazil for a fourth non-consecutive term Full report: Lula wins fourth term as Brazil’s president over Flávio…",
-        "link": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula",
+        "title": "Palestinian citizens of Israel can vote, but cannot expect change",
+        "summary": "Elections cannot stop the accelerated process of ‘recolonisation’ of 1948 Palestinian communities.",
+        "link": "https://www.aljazeera.com/opinions/2026/10/27/palestinian-citizens-of-israel-can-vote-but-cannot-expect-change?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-10-27T06:15:48+00:00"
+      },
+      {
+        "title": "Palestinian citizens of Israel fear they’re next target if far-right wins",
+        "summary": "Majd al-Krum's protests have forced settlers to withdraw, but fears of further provocations loom after elections.",
+        "link": "https://www.aljazeera.com/features/2026/10/27/palestinian-citizens-of-israel-fear-theyre-next-target-if-far-right-wins?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-10-27T06:12:04+00:00"
+      },
+      {
+        "title": "Could US midterms reshape Pakistan’s relationship with Washington?",
+        "summary": "Pakistan has gained diplomatic visibility under Trump, but analysts question how much the relationship has delivered.",
+        "link": "https://www.aljazeera.com/news/2026/10/27/could-us-midterms-reshape-pakistans-relationship-with-washington?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-10-27T05:47:36+00:00"
+      },
+      {
+        "title": "Tracking the money: The biggest donors in the 2026 US midterm elections",
+        "summary": "The 50 biggest contributors have poured $2.77bn into the race, led by Elon Musk's $446m for Republican-aligned groups.",
+        "link": "https://www.aljazeera.com/news/2026/10/27/tracking-the-money-the-biggest-donors-in-the-2026-us-midterm-elections?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-10-27T05:29:24+00:00"
+      },
+      {
+        "title": "Why has France struggled to address students’ demands?",
+        "summary": "Protesters demand more spending on education and social services, but the government has struggled amid a fiscal crisis.",
+        "link": "https://www.aljazeera.com/news/2026/10/27/why-has-france-struggled-to-address-students-demands?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-10-27T05:22:22+00:00"
+      },
+      {
+        "title": "Macklemore opens ‘Free Palestine’ tour in Dublin",
+        "summary": "American rapper Macklemore opened his ‘Free Palestine’ tour before a sold-out crowd in Dublin",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/macklemore-opens-free-palestine-tour-in-dublin?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-10-27T05:14:13+00:00"
+      },
+      {
+        "title": "Jay-Z to perform at Super Bowl half-time show",
+        "summary": "The rapper has been involved with the show for years but has never before performed at the NFL championship game.",
+        "link": "https://www.bbc.co.uk/news/articles/cq8ezg4364epo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "2026-10-27T05:05:15+00:00"
+      },
+      {
+        "title": "Meghan to co-host Junior MasterChef Australia",
+        "summary": "The Duchess of Sussex says she \"can't wait\" to take part in the programme, which will air next year.",
+        "link": "https://www.bbc.co.uk/news/articles/crgqwg3ll1v1o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "2026-10-27T04:43:56+00:00"
+      },
+      {
+        "title": "Jordan carries out deadly strike in Syria in retaliation for church attack",
+        "summary": "The attack on a village in Syria killed five people, including women and children, Syrian health officials said.",
+        "link": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "2026-10-27T02:40:17+00:00"
+      },
+      {
+        "title": "Ex-FBI chief James Comey faces federal charges for third time",
+        "summary": "Comey's lawyers say the case stems from alleged disclosure of classified information to the New York Times in 2016.",
+        "link": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "2026-10-27T02:01:27+00:00"
+      },
+      {
+        "title": "Opposition leader María Machado returns from exile to a Venezuela reshaped by Trump",
+        "summary": "Machado returns with Trump's blessing, even if Washington is happy with Venezuela's existing leader - at least for the time being.",
+        "link": "https://www.bbc.co.uk/news/articles/c8vgx3pvdeq1o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "2026-10-27T00:31:11+00:00"
+      },
+      {
+        "title": "Reader Q&A: After Lula’s sensational victory in Brazil’s presidential election, post your questions for the Guardian’s Latin America correspondent",
+        "summary": "Having lost the first round of Brazil’s presidential election to far right rival Flávio Bolsonaro, incumbent Luiz Inácio Lula da Silva spectacularly triumphed in the second. What comes next for Brazil? The Guardian’s…",
+        "link": "https://www.theguardian.com/world/live/2026/oct/27/brazil-election-reader-questions-lula-bolsonaro",
         "source": "The Guardian World",
-        "published": "2026-10-26T06:44:55+00:00"
-      },
-      {
-        "title": "Dakar Rally 2027 moved out of Saudi Arabia amid conflict in Middle East",
-        "summary": "Organisers of January's off-road race say it will be relocated due to recent developments in the region.",
-        "link": "https://www.aljazeera.com/sports/2026/10/26/dakar-rally-2027-moved-out-of-saudi-arabia-amid-conflict-in-middle-east?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-10-26T06:29:10+00:00"
-      },
-      {
-        "title": "The French government is hiding behind a ‘riots’ narrative",
-        "summary": "It is much easier to fearmonger and try to delegitimise the protests than to address students' demands.",
-        "link": "https://www.aljazeera.com/opinions/2026/10/26/the-french-government-is-hiding-behind-a-riots-narrative?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-10-26T05:56:04+00:00"
-      },
-      {
-        "title": "China’s political elite gather for talks on Communist Party discipline",
-        "summary": "The four-day meeting is being watched closely for clues as to the country's direction and future leadership.",
-        "link": "https://www.aljazeera.com/news/2026/10/26/chinas-political-elite-gather-for-talks-on-communist-party-discipline?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-10-26T05:38:41+00:00"
-      },
-      {
-        "title": "Aleksandar Vucic, the Serbian leader brought down by students",
-        "summary": "Serbia's longtime leader concedes defeat to a student-led protest movement in parliamentary elections.",
-        "link": "https://www.aljazeera.com/news/2026/10/26/aleksandar-vucic-the-serbian-leader-brought-down-by-students?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-10-26T05:24:59+00:00"
-      },
-      {
-        "title": "Venezuelan opposition leader María Machado returns after months in exile",
-        "summary": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
-        "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "2026-10-26T05:20:19+00:00"
-      },
-      {
-        "title": "The Gambia’s first blind magistrate tests a system built for the sighted",
-        "summary": "For a decade, Muhammed Krubally has shown what is possible and what still needs to change.",
-        "link": "https://www.aljazeera.com/news/2026/10/26/the-gambias-first-blind-magistrate-tests-a-system-built-for-the-sighted?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-10-26T05:18:00+00:00"
-      },
-      {
-        "title": "Israel’s election: Five key things to know",
-        "summary": "Vote comes as Israel is embroiled in multiple wars, faces international criticism and grapples with domestic divisions.",
-        "link": "https://www.aljazeera.com/news/2026/10/26/israels-election-five-key-things-to-know?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-10-26T05:16:38+00:00"
-      },
-      {
-        "title": "Labour urged to plug predicted £400m shortfall in overseas aid funding in 2027",
-        "summary": "Official forecast indicates shortfall below 0.3% of national income in promised official development assistance The UK is on course to miss its target of spending 0.3% of national income on international aid by an…",
-        "link": "https://www.theguardian.com/politics/2026/oct/26/uk-international-aid-target-spending-shortfall-budget-research",
-        "source": "The Guardian World",
-        "published": "2026-10-26T05:00:22+00:00"
-      },
-      {
-        "title": "Australian murderer loses bid to eat Vegemite in prison",
-        "summary": "Andre McKechnie, who murdered a property developer, argued it was his right to enjoy Australian culture.",
-        "link": "https://www.bbc.co.uk/news/articles/cvwy7wz9x12go?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "2026-10-26T04:05:28+00:00"
-      },
-      {
-        "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
-        "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
-        "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "2026-10-26T01:07:05+00:00"
-      },
-      {
-        "title": "Deeply divided Israel braces for pivotal election",
-        "summary": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson.",
-        "link": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "2026-10-25T22:11:13+00:00"
+        "published": "2026-10-27T00:00:03+00:00"
       }
     ],
     "India": [
       {
-        "title": "Juvenile Justice Board grants bail to teen driver in fatal Cheranalloor car crash in Keralam",
-        "summary": "Absence of any previous criminal antecedents was among grounds cited for granting bail. The decision has not gone down well with protesters demanding his arrest who have been seeking action against the 17-year-old’s…",
-        "link": "https://www.thehindu.com/news/national/kerala/juvenile-justice-board-grants-bail-to-teen-driver-in-fatal-cheranalloor-car-crash-in-keralam/article71625550.ece",
+        "title": "Cyclone Arnab: Odisha announces evacuation 48,000 in eight districts",
+        "summary": "Addressing a press conference, Rajesh Pravakar Patil, Special Relief Commissioner, said the very severe cyclonic storm “Arnab”, which was moving with a speed of 22 kmph during past 6 hours, would impact Odisha’s…",
+        "link": "https://www.thehindu.com/news/national/odisha/cyclone-arnab-odisha-announces-evacuation-48000-in-eight-districts/article71630044.ece",
         "source": "The Hindu",
-        "published": "2026-10-26T06:41:53+00:00"
+        "published": "2026-10-27T06:37:14+00:00"
       },
       {
-        "title": "Massive fire near Jammu Railway Station guts around 40 shops in market",
-        "summary": "The blaze continued to rage for nearly five hours, leaving behind a trail of destruction and dealing a major blow to shopkeepers whose livelihoods depended on the market",
-        "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/massive-fire-near-jammu-railway-station-guts-around-40-shops-in-market/article71625709.ece",
+        "title": "The Hindu Semiconductor Summit 2026 | Watch LIVE",
+        "summary": "Whether you are a researcher, developer, or executive, join us to redefine what is possible in the world of semiconductors",
+        "link": "https://www.thehindu.com/news/cities/chennai/srm-presents-the-hindu-semiconductor-summit-2026/article71629957.ece",
         "source": "The Hindu",
-        "published": "2026-10-26T06:41:28+00:00"
+        "published": "2026-10-27T06:35:34+00:00"
       },
       {
-        "title": "Odisha bans fishing, tourist entry in 6 districts amid cyclone alert",
-        "summary": "The government has mobilised its resources in Ganjam, Gajapati, Rayagada, Malkangiri, Koraput and Nabarangpur, the identified vulnerable districts of the southern region",
-        "link": "https://www.thehindu.com/news/national/odisha/odisha-tightens-cyclone-precautions-bans-sea-fishing-and-tourist-entry/article71625863.ece",
+        "title": "ECI’s stand that additional declaration is not part of Form 6 comes days after SC said it will examine ‘new’ Form 6",
+        "summary": "The ECI has introduced an additional declaration form along with Form 6 which require these voters to provide details of their earlier electoral roll entries or that of their parents or grandparents",
+        "link": "https://www.thehindu.com/news/national/ecis-stand-that-additional-declaration-is-not-part-of-form-6-comes-days-after-sc-said-it-will-examine-new-form-6/article71629933.ece",
         "source": "The Hindu",
-        "published": "2026-10-26T06:39:45+00:00"
+        "published": "2026-10-27T06:34:39+00:00"
       },
       {
-        "title": "Rahul Gandhi acquitted in 2018 defamation case over remarks against Amit Shah",
-        "summary": "Rahul Gandhi’s convoy collided on the Purvanchal Expressway while he was on his way to Sultanpur for a court hearing in a defamation case against him, a police officer said",
-        "link": "https://www.thehindu.com/news/national/rahul-gandhi-amit-shah-defamation-case-sultanpur-accident-up-verdict-october-26-2026/article71625707.ece",
-        "source": "The Hindu",
-        "published": "2026-10-26T06:39:15+00:00"
-      },
-      {
-        "title": "E100 cars get regulatory green light ahead of planned launches",
-        "summary": "The government has amended the Central Motor Vehicles Rules to facilitate the registration of flex-fuel vehicles capable of running on 85% to 100% ethanol blended petrol. As car manufacturers gear up to introduce their…",
-        "link": "https://timesofindia.indiatimes.com/business/india-business/e100-cars-get-regulatory-green-light-ahead-of-planned-launches/articleshow/135204532.cms",
-        "source": "Times of India",
-        "published": "2026-10-26T06:37:35+00:00"
-      },
-      {
-        "title": "RTI Area 9 to build government school in Dundigal Municipality",
+        "title": "Telangana’s all-party delegation to visit Delhi after October 28 meet; to seek Centre’s help for El Nino related drought",
         "summary": "",
-        "link": "https://www.thehindu.com/news/national/telangana/rti-area-9-to-build-government-school-in-dundigal-municipality/article71624041.ece",
+        "link": "https://www.thehindu.com/news/national/telangana/telanganas-all-party-delegation-to-visit-delhi-after-october-28-meet-to-seek-centres-help-for-el-nino-related-drought/article71628107.ece",
         "source": "The Hindu",
-        "published": "2026-10-26T06:33:30+00:00"
+        "published": "2026-10-27T06:34:34+00:00"
       },
       {
-        "title": "Telangana all-party meet on drought, El Nino conditions on October 28",
-        "summary": "",
-        "link": "https://www.thehindu.com/news/national/telangana/telangana-all-party-meet-on-drought-el-nino-conditions-on-october-28/article71623734.ece",
+        "title": "Four new faces join Omar Abdullah’s Cabinet in J&K",
+        "summary": "J&K Lieutenant-Governor administered oath of office and secrecy to Ali Muhammad Sagar, Shameema Firdous, Mir Saifullah, and Altaf Kaloo; no one from current Cabinet dropped",
+        "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/jammu-and-kashmir-cabinet-expansion-new-ministers-october-27-2026/article71629956.ece",
         "source": "The Hindu",
-        "published": "2026-10-26T06:31:25+00:00"
+        "published": "2026-10-27T06:33:35+00:00"
       },
       {
-        "title": "Gukesh vs Sindarov: What do world's top GMs think about the match?",
-        "summary": "With less than a month remaining for the World Championship match in Geneva, D Gukesh faces a confident Javokhir Sindarov, who tore through the Candidates Tournament in Cyprus. While Gukesh has struggled to rediscover…",
-        "link": "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-vs-javokhir-sindarov-what-do-the-worlds-top-gms-think-about-the-upcoming-world-chess-championship-match/articleshow/135204329.cms",
+        "title": "Cyclone ‘Arnab’ LIVE updates | Landfall expected on Andhra coast near Yanam; Odisha, Bengal, Jharkhand brace for rain",
+        "summary": "Several southern Odisha districts started receiving rain as ‘Arnab’ hurtled towards the Andhra Pradesh coast on October 27 2026",
+        "link": "https://www.thehindu.com/news/national/cyclone-arnab-andhra-pradesh-odisha-rainfall-weather-imd-alert-live-updates-october-27-2026/article71629599.ece",
+        "source": "The Hindu",
+        "published": "2026-10-27T06:30:40+00:00"
+      },
+      {
+        "title": "'Large Crack On Screen, Crunching Sound': Customers' iPhone Duo Feedback",
+        "summary": "Apple acknowledged the issue in a statement.",
+        "link": "https://www.ndtv.com/world-news/customers-iphone-duo-feedback-complaint-large-crack-on-screen-crunching-sound-12241100#publisher=newsstand",
+        "source": "NDTV",
+        "published": "2026-10-27T05:26:57+00:00"
+      },
+      {
+        "title": "Vijay Inspects Chennai Reservoir, Warns Against Repeat Of 2015 Floods",
+        "summary": "The inspection comes against the backdrop of the devastating floods of December 2015",
+        "link": "https://www.ndtv.com/tamil-nadu-news/tamil-nadu-chief-minister-vijay-inspects-chembarambakkam-reservoir-in-chennai-warns-against-repeat-of-2015-floods-12240709#publisher=newsstand",
+        "source": "NDTV",
+        "published": "2026-10-27T05:13:41+00:00"
+      },
+      {
+        "title": "Watch: Cars set ablaze, police motorcycle torched as violence rocks Spain's Bilbao",
+        "summary": "Bilbao experienced intense clashes as nine arrests were made during protests against Vito Quiles, a far-right activist. The uproar began after authorities canceled his event due to security concerns, provoking…",
+        "link": "https://timesofindia.indiatimes.com/world/europe/watch-cars-set-ablaze-police-motorcycle-torched-as-violence-rocks-spains-bilbao/articleshow/135224747.cms",
         "source": "Times of India",
-        "published": "2026-10-26T06:19:24+00:00"
+        "published": "2026-10-27T05:11:29+00:00"
       },
       {
-        "title": "Rahul Gandhi acquitted in 2018 defamation case over remarks on Amit Shah",
-        "summary": "A special MP/MLA court in Sultanpur dismissed a defamation case against Congress MP Rahul Gandhi on Monday. This case originated in 2018 due to remarks Gandhi made about Amit Shah during a rally. Vijay Mishra, a local…",
-        "link": "https://timesofindia.indiatimes.com/india/rahul-gandhi-acquitted-in-2018-defamation-case-involving-amit-shah/articleshow/135204099.cms",
-        "source": "Times of India",
-        "published": "2026-10-26T06:13:18+00:00"
-      },
-      {
-        "title": "5 Cars In Rahul Gandhi's Convoy Collide With Ambulance On UP Expressway",
-        "summary": "Five vehicles of Rahul Gandhi's convoy collided with an ambulance",
-        "link": "https://www.ndtv.com/india-news/many-injured-after-cars-in-rahul-gandhis-convoy-collide-with-ambulance-in-up-12235956#publisher=newsstand",
+        "title": "US Midterms In Numbers: 470 Seats, $12 Billion Ads, Trump's Approval Ratings",
+        "summary": "The net number of seats Democrats need to gain to take control is 3.",
+        "link": "https://www.ndtv.com/world-news/us-midterms-in-numbers-470-seats-12-billion-on-ads-31-trump-approval-ratings-12240990#publisher=newsstand",
         "source": "NDTV",
-        "published": "2026-10-26T05:44:57+00:00"
+        "published": "2026-10-27T05:01:30+00:00"
       },
       {
-        "title": "\"I'm Here, With You\": Venezuela Opposition Leader Machado Returns To Caracas",
-        "summary": "Maria Corina Machado gave no details on how she entered Venezuela",
-        "link": "https://www.ndtv.com/world-news/im-here-with-you-venezuela-opposition-leader-maria-corina-machado-returns-to-caracas-12236001#publisher=newsstand",
+        "title": "At 15 Degrees, Delhi Records October's Lowest Minimum Temperature In 3 Years",
+        "summary": "Delhi's Air Quality Index (AQI) stood at 168 in the moderate category.",
+        "link": "https://www.ndtv.com/delhi-news/at-15-degrees-delhi-records-octobers-lowest-minimum-temperature-in-3-years-12240857#publisher=newsstand",
         "source": "NDTV",
-        "published": "2026-10-26T05:41:54+00:00"
+        "published": "2026-10-27T04:53:18+00:00"
       },
       {
-        "title": "Trump Calls Michigan Senate Candidate \"Jihadist,\" Questions Loyalty To US",
-        "summary": "Donald Trump made his remarks in Port Huron, a Canadian border city",
-        "link": "https://www.ndtv.com/world-news/us-president-donald-trump-calls-michigan-senate-candidate-abdul-el-sayed-jihadist-questions-loyalty-to-us-12235918#publisher=newsstand",
+        "title": "How A BMW, Audi Race On UK Street Led To 28-Year Jail Term For 2 Indian-Origin Men",
+        "summary": "Both Bhachu and Riyat were also given six-year driving bans",
+        "link": "https://www.ndtv.com/world-news/2-indian-origin-men-get-28-years-in-jail-after-deadly-car-race-on-uk-street-jasskamal-riyat-hardeep-bhachu-12240846#publisher=newsstand",
         "source": "NDTV",
-        "published": "2026-10-26T05:18:07+00:00"
+        "published": "2026-10-27T04:43:34+00:00"
       }
     ],
     "Business": [
       {
-        "title": "Meet Abijit Ganguly: Stand-up comedian leaves Mumbai after 9 years; more celebs settle from Maximum City; here’s why",
-        "summary": "Comedian Abijit Ganguly has moved from Mumbai to Bengaluru after nine years, citing constant construction and a desire for more greenery, space and better surroundings for his young child.&nbsp;",
-        "link": "https://www.livemint.com/news/trends/meet-abijit-ganguly-stand-up-comedian-leaves-mumbai-after-9-years-more-celebs-settle-from-maximum-city-here-s-why-11792995424306.html",
+        "title": "India to get comparative advantage in US trade deal: Piyush Goyal",
+        "summary": "India to get preferential access under its proposed US trade deal, Piyush Goyal said, as New Delhi advances negotiations with other partners amid global trade uncertainty.",
+        "link": "https://www.livemint.com/news/india-us-trade-deal-piyush-goyal-preferential-access-free-trade-agreements-global-trade-11793071116796.html",
         "source": "Livemint",
-        "published": "2026-10-26T06:26:34+00:00"
+        "published": "2026-10-27T06:25:04+00:00"
       },
       {
-        "title": "Rahul Gandhi’s convoy involved in accident: Four cars collide with ambulance on UP’s Purvanchal Expressway — Video",
-        "summary": "Rahul Gandhi's convoy involved in collision: Four cars collide with ambulance on UP's Purvanchal Expressway | Video",
-        "link": "https://www.livemint.com/news/india/rahul-gandhis-convoy-involved-in-collision-four-cars-collide-with-ambulance-on-ups-purvanchal-expressway-video-11792994513630.html",
+        "title": "Who is Ritwik Banerjee? IIM Bangalore professor appointed as the associate editor of JEBO; all you need to know",
+        "summary": "IIM Bangalore professor Ritwik Banerjee has been appointed associate editor of the Journal of Economic Behavior &amp; Organization. Here is a look at his academic journey, career at leading global institutions and…",
+        "link": "https://www.livemint.com/news/who-is-ritwik-banerjee-iim-bangalore-professor-appointed-as-the-associate-editor-of-jebo-all-you-need-to-know-11793081608182.html",
         "source": "Livemint",
-        "published": "2026-10-26T06:06:51+00:00"
+        "published": "2026-10-27T06:23:14+00:00"
       },
       {
-        "title": "Om Birla makes his case for parliamentary diplomacy",
+        "title": "PM to inaugurate Pune Metro Line on Nov 3",
         "summary": "",
-        "link": "https://economictimes.indiatimes.com/news/india/brics-parliametary-forum-om-birla-says-parliaments-can-ease-global-tensions-build-trust-among-nations/articleshow/135204134.cms",
+        "link": "https://economictimes.indiatimes.com/industry/transportation/railways/big-relief-for-it-employees-17-stations-of-pune-metro-line-3-to-open-on-november-3-pm-modi-to-inaugurate-hinjewadi-shivajinagar-corridor/articleshow/135225758.cms",
         "source": "Economic Times",
-        "published": "2026-10-26T06:02:11+00:00"
+        "published": "2026-10-27T06:01:51+00:00"
       },
       {
-        "title": "Arshdeep in contention for red-ball debut",
+        "title": "Israel election: Polling begins nationwide",
         "summary": "",
-        "link": "https://economictimes.indiatimes.com/news/sports/cricket/india-plan-bowling-backups-for-new-zealand-tests-arshdeep-in-contention-for-red-ball-debut/articleshow/135203805.cms",
+        "link": "https://economictimes.indiatimes.com/news/international/world-news/israel-elections-2026-remember-october-7-eisenkot-appeals-to-voters-as-netanyahu-projects-strong-man-image/articleshow/135225431.cms",
         "source": "Economic Times",
-        "published": "2026-10-26T05:36:18+00:00"
+        "published": "2026-10-27T05:36:04+00:00"
       },
       {
-        "title": "Can an English release help Indian films break out beyond the diaspora?",
-        "summary": "Indian films so far have made money overseas with a diaspora audience that prefers to watch in the original langugage. Can English dubs expand that business?",
-        "link": "https://www.livemint.com/news/indian-cinema-ramayana-toxic-english-dubbing-overseas-box-office-diaspora-audiences-global-audiences-11792987350289.html",
+        "title": "Aavin price hike: Milk, ghee to cost more from Oct 28 ahead of Diwali— 1st revision under CM Vijay | Check new rates",
+        "summary": "The prices have been hiked “in view of the increase in raw material costs, procurement costs, and other associated expenses,” Aavin explained in the official release.",
+        "link": "https://www.livemint.com/news/india/aavin-price-hike-milk-ghee-to-cost-more-from-oct-28-ahead-of-diwali-1st-revision-under-cm-vijay-check-new-rates-11793076879217.html",
         "source": "Livemint",
-        "published": "2026-10-26T05:34:08+00:00"
+        "published": "2026-10-27T05:35:56+00:00"
       },
       {
-        "title": "Rahul Gandhi's convoy collides on expressway",
+        "title": "India’s FTA talks with Chile nearing conclusion",
         "summary": "",
-        "link": "https://economictimes.indiatimes.com/news/politics-and-nation/rahul-gandhis-convoy-collide-in-an-accident-on-purvanchal-expressway/articleshow/135203396.cms",
+        "link": "https://economictimes.indiatimes.com/news/india/piyush-goyal-says-india-chile-fta-talks-quite-ripe-for-conclusion-canada-negotiations-making-progress/articleshow/135224807.cms",
         "source": "Economic Times",
-        "published": "2026-10-26T05:25:03+00:00"
+        "published": "2026-10-27T04:57:25+00:00"
       },
       {
-        "title": "Known for gold and luxury, Dubai creates not one but two Guinness World Records - Ever heard of 16.5 kg gold earrings?",
-        "summary": "Joyalukkas Jewellery’s handcrafted Mayura Sahasra earrings have earned Guinness World Records titles as the heaviest and largest gold earrings.&nbsp;",
-        "link": "https://www.livemint.com/news/world/known-for-gold-and-luxury-dubai-creates-not-one-but-two-guinness-world-records-ever-heard-of-16-5-kg-gold-earrings-11792991193515.html",
+        "title": "Jamia students refuse to call off stir on 16th day",
+        "summary": "",
+        "link": "https://economictimes.indiatimes.com/news/india/jamia-students-refuse-to-call-off-stir-on-16th-day-demand-definite-date-for-polls/articleshow/135224748.cms",
+        "source": "Economic Times",
+        "published": "2026-10-27T04:50:41+00:00"
+      },
+      {
+        "title": "Very severe cyclonic storm Arnab: Explained - Why was it named Arnab? How are cyclones named? How naming system works",
+        "summary": "Cyclone Arnab: The naming of a cyclone has nothing to do with its intensity, direction, or the specific country it is expected to hit. Check how cyclones are named",
+        "link": "https://www.livemint.com/news/india/very-severe-cyclonic-storm-arnab-explained-why-was-it-named-arnab-how-are-cyclones-named-how-naming-system-works-11793074710938.html",
         "source": "Livemint",
-        "published": "2026-10-26T05:17:21+00:00"
+        "published": "2026-10-27T04:48:03+00:00"
       },
       {
-        "title": "West Bengal weather IMD alert! Heavy rains on Oct 28, 29, 30 — List of regions, areas, districts to be hit due to storm",
-        "summary": "The cyclone is likely to make landfall near Andhra Pradesh on October 28, triggering extremely heavy rainfall in parts of Odisha, West Bengal and other states.",
-        "link": "https://www.livemint.com/news/india/west-bengal-weather-imd-alert-heavy-rains-on-oct-28-29-30-list-of-regions-areas-districts-to-be-hit-due-to-storm-11792989182980.html",
+        "title": "IMD Weather Alert! What Andhra, Telangana, Gujarat, West Bengal, UP, Bihar, Keralam residents must know before going out",
+        "summary": "Severe Cyclonic Storm ‘Arnab’ is projected to make landfall near Yanam, Andhra Pradesh — between Bapatla and Visakhapatnam — by Wednesday morning (October 28), bringing dangerous winds and extremely heavy rainfall.…",
+        "link": "https://www.livemint.com/news/india/imd-weather-alert-what-andhra-telangana-gujarat-west-bengal-up-bihar-keralam-residents-must-know-before-going-out-11793073984307.html",
         "source": "Livemint",
-        "published": "2026-10-26T04:39:38+00:00"
+        "published": "2026-10-27T04:13:48+00:00"
       },
       {
-        "title": "France protest loss estimates: As demonstrations enter third week, how much could retailers lose as shops remain shut",
-        "summary": "French retailers face mounting losses as protests bring looting, damage and store closures. Carrefour has warned of a hit of up to €200 million to annual operating profit, while luxury brands have boarded up shops and…",
-        "link": "https://www.livemint.com/news/world/france-protest-loss-estimates-as-demonstrations-enter-third-week-how-much-could-retailers-lose-as-shops-remain-shut-11792986465919.html",
+        "title": "Defence cos surge on ₹2.12 tn plan with desi focus",
+        "summary": "",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/hal-bel-paras-defence-other-stocks-in-focus-after-dac-clears-proposals-worth-rs-2-12-lakh-crore/articleshow/135223830.cms",
+        "source": "Economic Times",
+        "published": "2026-10-27T03:47:22+00:00"
+      },
+      {
+        "title": "Assam news: 5 people shot dead at Guwahati hotel in dispute between property owner, leaseholder; Gaurav Gogoi reacts",
+        "summary": "All the deceased are associated with the owner of the hotel. Four of them belonged to the same family, and the other person is from their village, police said",
+        "link": "https://www.livemint.com/news/india/assam-news-5-people-shot-dead-at-guwahati-hotel-in-dispute-between-property-owner-leaseholder-gaurav-gogoi-reacts-11793070646008.html",
         "source": "Livemint",
-        "published": "2026-10-26T04:01:38+00:00"
+        "published": "2026-10-27T03:47:12+00:00"
       },
       {
-        "title": "L&T Technology connects with Nokia with a 5-yr deal",
-        "summary": "",
-        "link": "https://economictimes.indiatimes.com/industry/telecom/telecom-news/lt-technology-services-signs-five-year-deal-with-nokia-for-rd-support-in-india/articleshow/135202158.cms",
-        "source": "Economic Times",
-        "published": "2026-10-26T03:47:46+00:00"
-      },
-      {
-        "title": "ET Wealth | RBI rate hikes: Protect debt portfolio",
-        "summary": "",
-        "link": "https://economictimes.indiatimes.com/wealth/invest/rbi-rate-hikes-how-short-duration-funds-and-high-quality-corporate-bonds-can-protect-your-debt-portfolio/articleshow/135161665.cms?from=mdr",
-        "source": "Economic Times",
-        "published": "2026-10-26T01:00:00+00:00"
-      },
-      {
-        "title": "Did your balanced advantage fund buy the dip?",
-        "summary": "",
-        "link": "https://economictimes.indiatimes.com/wealth/invest/did-your-balanced-advantage-fund-buy-the-dip-heres-what-your-investment-strategy-should-be-now/articleshow/135162265.cms",
-        "source": "Economic Times",
-        "published": "2026-10-26T01:00:00+00:00"
+        "title": "Healey pledges cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'",
+        "summary": "The chancellor will axe tariffs on some staples as part of plans to give households \"breathing space\".",
+        "link": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "published": "2026-10-27T01:57:48+00:00"
       }
     ],
     "Technology": [
       {
-        "title": "The best apps for tracking your reading and discovering new books",
-        "summary": "There are numerous apps on the market that promise to do just that, so we’ve compiled a list of some of the best ones to help you pick the right one for you.",
-        "link": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
+        "title": "X is nudging users to promote their posts with a pointing hand, and people are confused",
+        "summary": "Whose hand is behind this travesty?",
+        "link": "https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/",
         "source": "TechCrunch",
-        "published": "2026-10-26T01:10:00+00:00"
+        "published": "2026-10-27T06:34:44+00:00"
       },
       {
-        "title": "Data centre debate heats up ahead of US midterms - here's what you need to know",
+        "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+        "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
+        "link": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+        "source": "TechCrunch",
+        "published": "2026-10-27T02:00:00+00:00"
+      },
+      {
+        "title": "Apple says it will replace iPhone Duo handsets with screen problems",
+        "summary": "Photos shared online showed faults appearing on the screens of Apple's first foldable device.",
+        "link": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Technology",
+        "published": "2026-10-27T01:48:04+00:00"
+      },
+      {
+        "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+        "summary": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how…",
+        "link": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+        "source": "TechCrunch",
+        "published": "2026-10-27T01:12:21+00:00"
+      },
+      {
+        "title": "Databricks co-founder shares his secrets for winning big enterprise customers",
+        "summary": "Turns out selling to big companies isn’t about having the shiniest tech: It’s about hitching a ride on a giant’s sales team.",
+        "link": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/",
+        "source": "TechCrunch",
+        "published": "2026-10-26T22:00:00+00:00"
+      },
+      {
+        "title": "Watch out, YouTube — Instagram goes from short-form to 90-minute videos",
+        "summary": "After years in which every social platform (even LinkedIn!) aggressively pursued short-form video, this is a notable shift in strategy for Instagram.",
+        "link": "https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/",
+        "source": "TechCrunch",
+        "published": "2026-10-26T21:05:11+00:00"
+      },
+      {
+        "title": "Anthropic's blockbuster share listing - 5 surprising things we now know",
+        "summary": "Anthropic’s IPO prospectus is 355 pages and full of never before disclosed company information.",
+        "link": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Technology",
+        "published": "2026-10-26T19:57:23+00:00"
+      },
+      {
+        "title": "Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it",
+        "summary": "A small number of early adopters of the much-hyped new foldable phone from Apple have complained of screens cracking.",
+        "link": "https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/",
+        "source": "TechCrunch",
+        "published": "2026-10-26T19:22:40+00:00"
+      },
+      {
+        "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
+        "summary": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
+        "link": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Technology",
+        "published": "2026-10-26T16:27:17+00:00"
+      },
+      {
+        "title": "Big, noisy and coming to a town near you - why the data centre backlash is growing",
         "summary": "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact. The BBC explores their rise in charts.",
         "link": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Technology",
         "published": "2026-10-25T23:44:34+00:00"
-      },
-      {
-        "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
-        "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
-        "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
-        "source": "TechCrunch",
-        "published": "2026-10-25T21:31:16+00:00"
-      },
-      {
-        "title": "‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead",
-        "summary": "\"That's a 12-year-old view of the world.\"",
-        "link": "https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/",
-        "source": "TechCrunch",
-        "published": "2026-10-25T20:20:08+00:00"
-      },
-      {
-        "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
-        "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
-        "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-        "source": "TechCrunch",
-        "published": "2026-10-25T16:57:32+00:00"
-      },
-      {
-        "title": "TechCrunch Mobility: Blue-green is the color of autonomy",
-        "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-        "link": "https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/",
-        "source": "TechCrunch",
-        "published": "2026-10-25T16:05:00+00:00"
-      },
-      {
-        "title": "The hottest AI wearables and gadgets you should know about",
-        "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
-        "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
-        "source": "TechCrunch",
-        "published": "2026-10-25T14:10:00+00:00"
       },
       {
         "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
@@ -322,113 +343,92 @@
         "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Technology",
         "published": "2026-10-23T12:24:17+00:00"
-      },
-      {
-        "title": "'It's been relentless' say IT workers on frontline of PHP cyber-security scramble",
-        "summary": "IT and cyber experts have told the BBC about their struggles in the last 48 hours to update their systems.",
-        "link": "https://www.bbc.co.uk/news/articles/cxnv025d8qpmo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Technology",
-        "published": "2026-10-23T12:00:25+00:00"
-      },
-      {
-        "title": "The Indian workers filming their work to train AI",
-        "summary": "Indian workers are being paid to film themselves at work and the footage is used to train AI.",
-        "link": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Technology",
-        "published": "2026-10-23T08:04:17+00:00"
-      },
-      {
-        "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
-        "summary": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
-        "link": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Technology",
-        "published": "2026-10-22T18:26:56+00:00"
       }
     ],
     "Sports": [
       {
-        "title": "Harmanpreet, Deepti centuries take India to series win",
-        "summary": "Vaishnavi Sharma, playing her second ODI, took four wickets as Zimbabwe went down by 121 runs",
-        "link": "https://www.cricinfo.com/ci/content/story/1560024.html?ex_cid=OTC-RSS",
-        "source": "ESPN Cricinfo",
-        "published": "2026-10-26T06:32:35+00:00"
-      },
-      {
-        "title": "Padikkal 199, half-centuries from Sai Sudharsan, Rathod and Washington give India A big lead",
-        "summary": "India A, who had scored 113 in the first innings and ended up conceding a 204-run lead, bounced back on the third day to go 284 runs in front",
-        "link": "https://www.cricinfo.com/ci/content/story/1560067.html?ex_cid=OTC-RSS",
-        "source": "ESPN Cricinfo",
-        "published": "2026-10-26T06:24:18+00:00"
-      },
-      {
-        "title": "Who should win the men's Ballon d'Or? BBC Sport pundits have their say",
-        "summary": "The Ballon d'Or winner will be announced in London on Monday - but who is going to claim the showpiece award?",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cqjdmn0ndxjxo?at_medium=RSS&at_campaign=rss",
+        "title": "Ranking England's Ballon d'Or winners - how does Kane compare?",
+        "summary": "From Stanley Matthews to Harry Kane, how do England's Ballon d'Or winners rank?",
+        "link": "https://www.bbc.co.uk/sport/football/articles/ckx2qdxgzzz7o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Sport",
-        "published": "2026-10-26T06:19:12+00:00"
+        "published": "2026-10-27T06:20:58+00:00"
       },
       {
-        "title": "Watch: Haris Rauf Clashes With Will Jacks, Tension Escalates In Pakistan vs England Match",
-        "summary": "Glimpse of the heated argument",
-        "link": "https://sports.ndtv.com/cricket/haris-rauf-clashes-with-will-jacks-tension-escalates-in-pakistan-vs-england-match-watch-12235541#publisher=newsstand",
+        "title": "'I would do it again' - Kaepernick reflects on price of protest, 10 years on",
+        "summary": "In his first interview with BBC Sport since taking the knee for the first time, Colin Kaepernick reflects on his journey.",
+        "link": "https://www.bbc.co.uk/sport/american-football/articles/cm3el5dnpxp2o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "published": "2026-10-27T06:15:24+00:00"
+      },
+      {
+        "title": "Were Kylian Mbappe, Lamine Yamal 'Robbed' By Harry Kane? What Ballon d'Or Numbers Suggest",
+        "summary": "Harry Kane beat Kylian Mbappe and Lamine Yamal for Ballon d'Or 2026",
+        "link": "https://sports.ndtv.com/football/were-kylian-mbappe-lamine-yamal-robbed-of-ballon-dor-2026-by-harry-kane-12240874#publisher=newsstand",
         "source": "NDTV Sports",
-        "published": "2026-10-26T06:02:37+00:00"
+        "published": "2026-10-27T05:37:40+00:00"
       },
       {
-        "title": "Devdutt Padikkal Robbed Of Double Century By 1 Run, Fumes Over Controversial Dismissal",
-        "summary": "Devdutt Padikkal in action",
-        "link": "https://sports.ndtv.com/new-zealand-vs-india-2026-27/devdutt-padikkal-robbed-of-double-century-by-1-run-fumes-over-controversial-dismissal-12235787#publisher=newsstand",
+        "title": "Solo Sikoa Finally Accepts Royce Keys’ Challenge On WWE RAW Weeks After Being Kidnapped",
+        "summary": "Solo Sikoa prepares to face Royce Keys as the Bloodline feud continues",
+        "link": "https://sports.ndtv.com/us/wwe/solo-sikoa-finally-accepts-royce-keys-challenge-on-wwe-raw-weeks-after-being-kidnapped-12241087#publisher=newsstand",
         "source": "NDTV Sports",
-        "published": "2026-10-26T05:59:54+00:00"
+        "published": "2026-10-27T05:31:52+00:00"
       },
       {
-        "title": "NFL Week 7 Results: Kansas City Chiefs And San Francisco 49ers Lose While Minnesota Vikings Remain Only Unbeaten Team",
-        "summary": "NFL Week 7: Chiefs and 49ers Lose While Vikings Remain Unbeaten",
-        "link": "https://sports.ndtv.com/us/nfl/nfl-week-7-results-kansas-city-chiefs-and-san-francisco-49ers-lose-while-minnesota-vikings-remain-only-unbeaten-team-12236046#publisher=newsstand",
+        "title": "Dallas Cowboys Legend Jimmy Johnson Makes Surprising Admission About The Philadelphia Eagles",
+        "summary": "Jimmy Johnson, the former Dallas Cowboys head coach, revealed his connection to the Eagles",
+        "link": "https://sports.ndtv.com/us/nfl/dallas-cowboys-legend-jimmy-johnson-makes-surprising-admission-about-the-philadelphia-eagles-12241104#publisher=newsstand",
         "source": "NDTV Sports",
-        "published": "2026-10-26T05:52:13+00:00"
+        "published": "2026-10-27T05:31:48+00:00"
       },
       {
-        "title": "Marlon And Lacy's IRL Livestream Takes A Tense Turn After A Group Challenges Their \"Free Palestine\" Comments",
-        "summary": "Marlon and Lacy get into a heated exchange with a group carrying an Israeli flag.",
-        "link": "https://sports.ndtv.com/us/us-streamers/f-k-palestine-marlon-and-lacy-s-irl-livestream-takes-a-tense-turn-after-a-group-challenges-their-free-palestine-comments-12236037#publisher=newsstand",
+        "title": "India vs New Zealand LIVE Score, 3rd T20I: Focus On Vaibhav Sooryavanshi As India Aim To Seal Series vs NZ",
+        "summary": "India vs New Zealand 3rd T20I Match Score Updates",
+        "link": "https://sports.ndtv.com/new-zealand-vs-india-2026-27/india-vs-new-zealand-live-score-ind-vs-nz-3rd-t20i-cricket-match-live-updates-wellington-vaibhav-sooryavanshi-sanju-samson-12240837#publisher=newsstand",
         "source": "NDTV Sports",
-        "published": "2026-10-26T05:51:35+00:00"
+        "published": "2026-10-27T05:29:24+00:00"
       },
       {
-        "title": "Jaxon Smith-Njigba Catches Nine Passes For 150 Yards And A Touchdown In Seattle Seahawks Win",
-        "summary": "Jaxon Smith-Njigba Catches Nine Passes for 150 Yards",
-        "link": "https://sports.ndtv.com/us/nfl/jaxon-smith-njigba-catches-nine-passes-for-150-yards-and-a-touchdown-in-seattle-seahawks-win-12235959#publisher=newsstand",
-        "source": "NDTV Sports",
-        "published": "2026-10-26T05:46:37+00:00"
-      },
-      {
-        "title": "Dana White Praises Both Petr Yan And Merab Dvalishvili In Trilogy Fight Worthy Of Year-End Honors",
-        "summary": "Dana White Praises Both Petr Yan and Merab Dvalishvili",
-        "link": "https://sports.ndtv.com/us/mma/dana-white-praises-both-petr-yan-and-merab-dvalishvili-in-trilogy-fight-worthy-of-year-end-honors-12235979#publisher=newsstand",
-        "source": "NDTV Sports",
-        "published": "2026-10-26T05:46:33+00:00"
-      },
-      {
-        "title": "New Zealand hope to salvage series as India brace for Wellington wind",
-        "summary": "New Zealand won't have Matt Henry and Lockie Ferguson to call upon, while Vaibhav Sooryavanshi should get another go at No. 3 in Ishan Kishan's absence",
-        "link": "https://www.cricinfo.com/ci/content/story/1560060.html?ex_cid=OTC-RSS",
+        "title": "Smith undergoes fitness test ahead of decider in Cape Town",
+        "summary": "Nic Maddinson and Sam Harper have been released from the Test squad to play in the Sheffield Shield for their respective sides",
+        "link": "https://www.cricinfo.com/ci/content/story/1560077.html?ex_cid=OTC-RSS",
         "source": "ESPN Cricinfo",
-        "published": "2026-10-26T05:41:52+00:00"
+        "published": "2026-10-27T05:21:13+00:00"
       },
       {
-        "title": "Morkel wants Bhuvneshwar to 'block the expectation factor out'",
-        "summary": "\"Make sure you get a very strong fan at home and you walk into the fan,\" Morne Morkel jokes when asked about the India players having to counter the fierce Wellington wind",
-        "link": "https://www.cricinfo.com/ci/content/story/1560056.html?ex_cid=OTC-RSS",
-        "source": "ESPN Cricinfo",
-        "published": "2026-10-26T05:15:42+00:00"
+        "title": "Akademiks Says Kai Cenat Set Himself Up By Suing Reggie, Warns He Will Face Tough Questions",
+        "summary": "DJ Akademiks weighs in on Kai Cenat's legal fight with Reggie.",
+        "link": "https://sports.ndtv.com/us/us-streamers/akademiks-says-kai-cenat-set-himself-up-by-suing-reggie-warns-he-will-face-tough-questions-12241061#publisher=newsstand",
+        "source": "NDTV Sports",
+        "published": "2026-10-27T05:17:34+00:00"
       },
       {
-        "title": "Athanaze and Carty to lead West Indies A in white-ball games against England Lions",
-        "summary": "England Lions will play three T20s and five one-dayers on the tour, which runs from November 1 to November 16, with all games taking place in St Kitts and Nevis",
-        "link": "https://www.cricinfo.com/ci/content/story/1560051.html?ex_cid=OTC-RSS",
+        "title": "South Africa vs Australia 3rd Test Live Streaming: When And Where To Watch Live Telecast",
+        "summary": "South Africa vs Australia 3rd Test Live Streaming: How to watch",
+        "link": "https://sports.ndtv.com/cricket/south-africa-vs-australia-3rd-test-live-streaming-when-and-where-to-watch-live-telecast-12241055#publisher=newsstand",
+        "source": "NDTV Sports",
+        "published": "2026-10-27T05:15:12+00:00"
+      },
+      {
+        "title": "Jonassen ruled out of WBBL with hip complaint",
+        "summary": "Brisbane Heat are now in negotiations to replace her with an international player",
+        "link": "https://www.cricinfo.com/ci/content/story/1560125.html?ex_cid=OTC-RSS",
         "source": "ESPN Cricinfo",
-        "published": "2026-10-26T03:43:17+00:00"
+        "published": "2026-10-27T05:01:28+00:00"
+      },
+      {
+        "title": "Series set for dramatic finish as Australia return to Cape Town",
+        "summary": "With series up for grabs, Australia have questions marks around both disciplines while South Africa's batting has shown it can be shaky",
+        "link": "https://www.cricinfo.com/ci/content/story/1560090.html?ex_cid=OTC-RSS",
+        "source": "ESPN Cricinfo",
+        "published": "2026-10-27T04:59:57+00:00"
+      },
+      {
+        "title": "London City's Putellas wins record-equalling third Ballon d'Or",
+        "summary": "Barcelona and Spain midfielder Alexia Putellas wins the Ballon d'Or Feminin for a record-equalling third time.",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cqp9gky38lj3o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "published": "2026-10-26T23:14:39+00:00"
       }
     ]
   }
