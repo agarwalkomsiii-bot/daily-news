@@ -1,313 +1,334 @@
 {
-  "generated_at": "2026-11-02 08:03",
+  "generated_at": "2026-11-03 08:25",
   "data": {
     "World": [
       {
-        "title": "RFK Jr is wrong about the Arab world",
-        "summary": "Its challenges in knowledge production cannot be blamed on some kind of innate incompetence or a political group.",
-        "link": "https://www.aljazeera.com/opinions/2026/11/2/rfk-jr-is-wrong-about-the-arab-world?traffic_source=rss",
+        "title": "The US midterms will test the limits of Trump’s power",
+        "summary": "Control of Congress is at stake, but so is the ability of American institutions to withstand presidential pressure.",
+        "link": "https://www.aljazeera.com/opinions/2026/11/3/the-us-midterms-will-test-the-limits-of-trumps-power?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-11-02T07:45:35+00:00"
+        "published": "2026-11-03T07:46:30+00:00"
       },
       {
-        "title": "UN staffer’s death in custody exposes Houthi ‘political extortion’ in Yemen",
-        "summary": "Following a UN staffer's death, rights experts expose systematic abuses and demand international accountability in Yemen",
-        "link": "https://www.aljazeera.com/news/2026/11/2/un-staffers-death-in-custody-exposes-houthi-political-extortion-in-yemen?traffic_source=rss",
+        "title": "Two helicopters crash near Everest base camp, killing Indian tourist",
+        "summary": "Two helicopters have collided while preparing to land in Nepal’s Mount Everest region, killing an Indian tourist.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/two-helicopters-crash-near-everest-base-camp-killing-indian-tourist?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-11-02T07:43:05+00:00"
+        "published": "2026-11-03T07:34:36+00:00"
       },
       {
-        "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
-        "summary": "The exchange froze transactions following the incident which has been linked to a North Korean group.",
-        "link": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+        "title": "When will we know the US midterm election results?",
+        "summary": "The first results are expected on Tuesday as polls begin to close at 23:00 GMT. But final results might take days.",
+        "link": "https://www.aljazeera.com/news/2026/11/3/when-will-we-know-the-us-midterm-election-results?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-11-03T07:27:21+00:00"
+      },
+      {
+        "title": "Russian bombing kills 29 people at Ukraine aid centre, Kyiv says",
+        "summary": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack.",
+        "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "2026-11-02T07:42:33+00:00"
+        "published": "2026-11-03T07:24:12+00:00"
       },
       {
-        "title": "NBA: Yaxel Lendeborg scores 37 as Warriors defeat Clippers",
-        "summary": "Golden State Warriors' rookie leads scoring in 124-112 win over Los Angeles Clippers, while Celtics beat Magic 108-97.",
-        "link": "https://www.aljazeera.com/sports/2026/11/2/nba-yaxel-lendeborg-scores-37-as-warriors-defeat-clippers?traffic_source=rss",
+        "title": "A response to Andy Burnham: We need an apology and reparations",
+        "summary": "It is good news the British PM is open to calls for an apology. But debt restructuring instead of reparations won’t do.",
+        "link": "https://www.aljazeera.com/opinions/2026/11/3/a-response-to-andy-burnham-we-need-an-apology-and-reparations?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-11-02T07:37:30+00:00"
+        "published": "2026-11-03T07:07:54+00:00"
       },
       {
-        "title": "Nine killed as small jet crashes on Florida street",
-        "summary": "Transportation Secretary Sean Duffy described the crash, which happened near President Trump's Mar-a-Lago resort, as a \"horrific tragedy\".",
+        "title": "One dead after two helicopters collide near Mount Everest in Nepal",
+        "summary": "Authorities have confirmed that a 47-year-old Indian national was killed and two people injured.",
+        "link": "https://www.aljazeera.com/news/2026/11/3/one-dead-after-two-helicopters-collide-near-mount-everest-in-nepal?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-11-03T07:06:07+00:00"
+      },
+      {
+        "title": "Australia’s High Court hears bid to overturn under-16s social media ban",
+        "summary": "Online giant Reddit and advocacy group Digital Freedom Project argue ban is unconstitutional.",
+        "link": "https://www.aljazeera.com/news/2026/11/3/australias-high-court-hears-bid-to-overturn-under-16s-social-media-ban?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-11-03T06:59:20+00:00"
+      },
+      {
+        "title": "Americans head to the polls for elections that could define Trump's closing chapter",
+        "summary": "The midterms will shape Congress for the last years of his presidency, writes Sarah Smith, but they are also a test of what politics may look like without him.",
+        "link": "https://www.bbc.co.uk/news/articles/cq2d6k4r5n9ro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "2026-11-03T05:00:43+00:00"
+      },
+      {
+        "title": "US strikes Iran ahead of midterm elections",
+        "summary": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
+        "link": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "2026-11-03T03:39:08+00:00"
+      },
+      {
+        "title": "Supreme Court rejects Trump's request to stop California counting disputed votes",
+        "summary": "The ruling, which comes on the eve of the midterm elections, essentially ends the Trump administration's bid to disqualify the ballots in the state.",
+        "link": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "2026-11-03T03:32:36+00:00"
+      },
+      {
+        "title": "Plane may have broken apart ahead of deadly Florida jet crash, say investigators",
+        "summary": "The National Transportation Safety Board also believes weather could have been a factor in the crash, but warns it is too early to determine the cause.",
         "link": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "2026-11-02T07:33:17+00:00"
+        "published": "2026-11-03T00:08:14+00:00"
       },
       {
-        "title": "Hormuz shipping still faces major risks",
-        "summary": "The Strait of Hormuz remains dangerous and costly for shipping, despite US claims that it is open.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/hormuz-shipping-still-faces-major-risks?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-11-02T07:30:12+00:00"
-      },
-      {
-        "title": "The future of the Palestinian vote in Israel",
-        "summary": "The backlash against the high Palestinian turnout reveals much about the state of Israeli democracy and its future.",
-        "link": "https://www.aljazeera.com/opinions/2026/11/2/the-future-of-the-palestinian-vote-in-israel?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-11-02T07:14:44+00:00"
-      },
-      {
-        "title": "Bangladesh garment factories disrupted as protests continue for third day",
-        "summary": "Workers in Bangladesh's largest export sector are demanding a minimum wage increase amid rising inflation.",
-        "link": "https://www.aljazeera.com/news/2026/11/2/bangladesh-garment-factories-disrupted-as-protests-continue-for-third-day?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-11-02T07:08:28+00:00"
-      },
-      {
-        "title": "How a Democrat in Michigan rocked the party days before the US midterms",
-        "summary": "BBC's Nada Tawfik visited Detroit, Michigan where the party spat unfolded.",
-        "link": "https://www.bbc.co.uk/news/videos/cqvgjljj74n8o?at_medium=RSS&at_campaign=rss",
+        "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
+        "summary": "Western officials stress that any force sent to Ukraine would not take part in any offensive operations.",
+        "link": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "2026-11-02T04:40:00+00:00"
-      },
-      {
-        "title": "Trump makes fevered campaign push in final weekend before election",
-        "summary": "The US president rallied in states that Republicans previously won - showcasing how tight Tuesday's elections could be in determining control of Congress.",
-        "link": "https://www.bbc.co.uk/news/articles/c3j47gjx29vro?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "2026-11-02T04:04:28+00:00"
-      },
-      {
-        "title": "China state broadcaster pulls La Liga matches following Mbappé joke",
-        "summary": "China Media Group, which acknowledged Mbappé's apology, has not said how long the blackout will last.",
-        "link": "https://www.bbc.co.uk/news/articles/cq78pypg0800o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "2026-11-02T03:58:38+00:00"
-      },
-      {
-        "title": "France launches attempted murder investigation after petrol bomb thrown at police",
-        "summary": "There were hundreds of arrests as protesters took to the streets in cities across France for the third weekend in a row.",
-        "link": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "2026-11-02T00:15:30+00:00"
+        "published": "2026-11-03T00:07:05+00:00"
       }
     ],
     "India": [
       {
-        "title": "Congress demands scrapping of Siang hydropower project, release of arrested protesters",
-        "summary": "The Arunachal Pradesh Congress Committee urged indigenous organisations, student unions, youth groups, civil society organisations and traditional institutions to unite against the proposed project",
-        "link": "https://www.thehindu.com/news/national/arunachal-pradesh/congress-demands-scrapping-of-siang-hydropower-project-release-of-arrested-protesters/article71655679.ece",
+        "title": "LDF seeks to galvanise coastal community against UDF’s proposed high-value economic maritime corridor",
+        "summary": "The LDF has raised the spectre of large-scale displacement of fisherfolk, including the lack of free access to the coastline and the loss of homes and traditional livelihoods",
+        "link": "https://www.thehindu.com/news/national/kerala/ldf-seeks-to-galvanise-coastal-community-against-udfs-proposed-high-value-economic-maritime-corridor/article71660022.ece",
         "source": "The Hindu",
-        "published": "2026-11-02T07:51:28+00:00"
+        "published": "2026-11-03T08:09:52+00:00"
       },
       {
-        "title": "‘Enemy of the Smuggler’ movie review: A gritty premise weighed down by commercial compulsions",
-        "summary": "IRS officer-turned-filmmaker T Samaya Murali’s insider knowledge lends this gangster drama some authenticity, but its formulaic storytelling gets in the way",
-        "link": "https://www.thehindu.com/entertainment/movies/enemy-of-the-smuggler-movie-review-t-samaya-murali-jd-chakravarthy-lal-saran-shakthi-smeha/article71652479.ece",
+        "title": "AMU wants women on campus, not at the ballot box",
+        "summary": "Around 4,000 women students at AMU’s Women’s College have been denied voting rights in the Aligarh Muslim University Students’ Union (AMUSU) elections, raising concerns over gender discrimination and unequal…",
+        "link": "https://www.thehindu.com/news/national/uttar-pradesh/amus-wants-women-on-campus-not-at-the-ballot-box/article71653225.ece",
         "source": "The Hindu",
-        "published": "2026-11-02T07:51:18+00:00"
+        "published": "2026-11-03T08:07:54+00:00"
       },
       {
-        "title": "SC issues notice to T.N. on bail plea of accused in Palani math land fraud case",
-        "summary": "K. Vellathurai is challenging the Madras High Court’s dismissal of his bail plea, while the State has filed an intervention plea",
-        "link": "https://www.thehindu.com/news/national/tamil-nadu/sc-issues-notice-to-tn-on-bail-plea-of-accused-in-palani-math-land-fraud-case/article71655771.ece",
-        "source": "The Hindu",
-        "published": "2026-11-02T07:49:04+00:00"
-      },
-      {
-        "title": "Cyclone Murasu: Odisha Government evacuates people from vulnerable areas",
-        "summary": "After Murasu intensified into a severe cyclonic storm in the Bay of Bengal, the Odisha Government has prioritised evacuation from vulnerable areas and strengthened emergency response mechanisms",
-        "link": "https://www.thehindu.com/news/national/odisha/cyclone-murasu-odisha-government-evacuates-people-from-vulnerable-areas/article71655699.ece",
-        "source": "The Hindu",
-        "published": "2026-11-02T07:48:48+00:00"
-      },
-      {
-        "title": "Seven Indian fishermen from Rameswaram detained by Sri Lankan Navy near Katchatheevu",
-        "summary": "Fishermen leaders have condemned the arrest and urged the Central and State governments to secure their release at the earliest.",
-        "link": "https://www.thehindu.com/news/national/tamil-nadu/seven-rameswaram-fishermen-detained-by-sri-lankan-navy-near-katchatheevu-islet/article71652111.ece",
-        "source": "The Hindu",
-        "published": "2026-11-02T07:47:45+00:00"
-      },
-      {
-        "title": "Four flights bound for Kathmandu, Varanasi diverted to Lucknow due to adverse weather",
-        "summary": "A Himalayan airlines, a flydubai, and two IndiGo flights were diverted on November 2 due to adverse weather conditions",
-        "link": "https://www.thehindu.com/news/national/uttar-pradesh/four-flights-bound-for-kathmandu-varanasi-diverted-to-lucknow-due-to-adverse-weather/article71655794.ece",
-        "source": "The Hindu",
-        "published": "2026-11-02T07:44:46+00:00"
-      },
-      {
-        "title": "Cyclone Murasu: Chennai, Vijayawada flights hit; Andhra on alert ahead of landfall",
-        "summary": "Severe cyclonic storm Murasu has intensified over the Bay of Bengal and will impact Chennai soon. It is projected to make landfall on the south Andhra Pradesh coast around midnight or early Tuesday morning. Wind speeds…",
-        "link": "https://timesofindia.indiatimes.com/city/amaravati/chennai-vijayawada-hit-by-flight-cancellations-as-cyclone-murasu-approaches-andhra-pradesh-on-high-alert-ahead-of-midnight-landfall/articleshow/135449723.cms",
+        "title": "'Inspired by Rahul Gandhi': BJP targets AISA's Neha Bora over 'Brahmanvaad' remarks",
+        "summary": "",
+        "link": "https://timesofindia.indiatimes.com/india/inspired-by-rahul-gandhi-bjp-targets-aisas-neha-bora-over-brahmanvaad-remarks/articleshow/135488169.cms",
         "source": "Times of India",
-        "published": "2026-11-02T07:25:54+00:00"
+        "published": "2026-11-03T08:07:26+00:00"
       },
       {
-        "title": "Dia Mirza's appeal to avoid Diwali firecrackers draws BJP MLA's ire; BMC deletes video",
-        "summary": "The Brihanmumbai Municipal Corporation has faced pressure from the BJP to take down Dia Mirza's video from its Diwali campaign, which promotes a firecracker-free festive season. Though the campaign also features Madhuri…",
-        "link": "https://timesofindia.indiatimes.com/city/mumbai/actor-dia-mirzas-diwali-campaign-video-removed-from-bmcs-page-after-mumbai-bjp-chiefs-objection/articleshow/135447630.cms",
+        "title": "Stock market today: Why are BSE Sensex Nifty50 rallying? Top 5 reasons",
+        "summary": "Stock market rally today: At 1:30 PM, Nifty50 was trading at 23,724.00, up 283 points or 1.21%. BSE Sensex was at 76,722.16, up 1,029 points or 1.36%. The rally added nearly Rs 4 lakh crore to the combined market…",
+        "link": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-why-bse-sensex-nifty50-are-rallying-on-november-03-2026-top-reasons-for-bull-run-ltcg-tax-rupee-oil-prices/articleshow/135488376.cms",
         "source": "Times of India",
-        "published": "2026-11-02T06:05:59+00:00"
+        "published": "2026-11-03T08:07:23+00:00"
       },
       {
-        "title": "Government has an important reminder for everyone coming to India from abroad",
-        "summary": "The Bureau of Immigration emphasizes that the Air Suvidha Self-Declaration Form is essential for all air passengers. Indian passport holders, OCI cardholders, and foreign nationals must complete this form before…",
-        "link": "https://timesofindia.indiatimes.com/technology/tech-news/government-has-an-important-reminder-for-everyone-coming-to-india-from-abroad-including-indian-citizens-you-have-to-mandatorily-fill-/articleshow/135447294.cms",
+        "title": "Indian seafarer killed in attack on ship near Oman; 13 others rescued: MEA",
+        "summary": "The deceased seafarer was identified as Gandhar Nahim Ajij from Gujarat; India reiterates call for immediate de-escalation of tensions in the region",
+        "link": "https://www.thehindu.com/news/national/india-seafarer-killed-in-attack-on-ship-near-oman-mea-west-asia-conflict/article71659910.ece",
+        "source": "The Hindu",
+        "published": "2026-11-03T08:06:26+00:00"
+      },
+      {
+        "title": "Bombay HC asks BMC to re-upload Dia Mirza’s firecracker appeal, says ‘deeply pained’ by controversy",
+        "summary": "The BJP forced the Mumbai municipal corporation administration to pull down a video message recorded by actor Dia Mirza for eco-friendly Deepavali",
+        "link": "https://www.thehindu.com/news/national/maharashtra/bombay-hc-asks-bmc-to-re-upload-dia-mirzas-firecracker-appeal-says-deeply-pained-by-controversy/article71659945.ece",
+        "source": "The Hindu",
+        "published": "2026-11-03T08:06:19+00:00"
+      },
+      {
+        "title": "As banks block AI agents, Accenture warns of lost customers",
+        "summary": "Accenture highlights that banks like JPMorgan Chase and Charles Schwab are restricting AI agents from their systems. Michael Abbott, Accenture's global banking lead, suggests that this strategy may negatively impact…",
+        "link": "https://timesofindia.indiatimes.com/technology/tech-news/as-jp-morgan-and-charles-schwab-say-not-allowed-to-ai-agents-accenture-warns-you-are-risking/articleshow/135488449.cms",
         "source": "Times of India",
-        "published": "2026-11-02T05:53:36+00:00"
+        "published": "2026-11-03T08:04:18+00:00"
       },
       {
-        "title": "Zuckerberg Wants To Give AI A Body. Meet Meta's New Humanoid Robot",
-        "summary": "Meta's humanoid robot is named Max",
-        "link": "https://www.ndtv.com/artificial-intelligence/zuckerberg-wants-to-give-ai-a-body-meet-metas-new-humanoid-robot-12269703#publisher=newsstand",
-        "source": "NDTV",
-        "published": "2026-11-02T05:51:45+00:00"
+        "title": "Andhra Pradesh civic polls result LIVE | TDP takes early lead; HC clears Pulivendula count; rain, missing keys delay counting",
+        "summary": "Counting of votes under way in 92 urban local bodies across Andhra Pradesh; results expected through the day",
+        "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-election-results-2026-live-updates/article71659328.ece",
+        "source": "The Hindu",
+        "published": "2026-11-03T08:01:48+00:00"
       },
       {
-        "title": "Madhya Pradesh Cop Crushed To Death By Vehicle Carrying Liquor During Raid",
-        "summary": "The victim was identified as Dilip Puri, the Station House Officer of Khategaon police station.",
-        "link": "https://www.ndtv.com/india-news/madhya-pradesh-cop-crushed-to-death-by-liquor-laden-vehicle-during-raid-12269670#publisher=newsstand",
-        "source": "NDTV",
-        "published": "2026-11-02T05:49:02+00:00"
+        "title": "Cyclone Murasu Nov. 3 | Red alert lifted from two Telangana districts; issued for Suryapet, Khammam and Bhadradri",
+        "summary": "",
+        "link": "https://www.thehindu.com/news/national/telangana/cyclone-murasu-nov-3-red-alert-lifted-from-two-telangana-districts-now-sounded-for-suryapet-khammam-and-bhadradri/article71659922.ece",
+        "source": "The Hindu",
+        "published": "2026-11-03T07:58:00+00:00"
       },
       {
-        "title": "Suspended Punjab AAP MLA Kunwar Vijay Pratap Resigns, 3rd MLA To Do So In 2 Days",
-        "summary": "Kunwar Vijay Pratap Singh (in the middle) resigned as AAP MLA",
-        "link": "https://www.ndtv.com/india-news/suspended-punjab-aap-mla-kunwar-vijay-pratap-resigns-3rd-mla-to-do-so-in-2-days-12269645#publisher=newsstand",
+        "title": "\"Can't Occupy A Site Indefinitely In Name Of Protest\": Top Court's Big Remark",
+        "summary": "The Supreme Court said no one can occupy any protest site indefinitely",
+        "link": "https://www.ndtv.com/india-news/supreme-court-on-delhi-protest-cant-occupy-a-site-indefinitely-in-name-of-protest-12275350#publisher=newsstand",
         "source": "NDTV",
-        "published": "2026-11-02T05:36:52+00:00"
+        "published": "2026-11-03T07:42:01+00:00"
+      },
+      {
+        "title": "Adani Group A Major Driver Of India's Progress: Economist Jeffrey Sachs",
+        "summary": "He described the Adani Group as one of the major drivers of change and progress in India.",
+        "link": "https://www.ndtv.com/india-news/adani-group-a-major-driver-of-indias-progress-economist-jeffrey-d-sachs-12275520#publisher=newsstand",
+        "source": "NDTV",
+        "published": "2026-11-03T07:40:42+00:00"
+      },
+      {
+        "title": "Why Sikkim's First Yak Festival Was Held In A Village Near China Border",
+        "summary": "For a yak herder the occupation is a family legacy spanning five generations.",
+        "link": "https://www.ndtv.com/india-news/why-sikkims-first-yak-festival-was-held-in-gnathang-village-near-china-border-12275236#publisher=newsstand",
+        "source": "NDTV",
+        "published": "2026-11-03T07:34:39+00:00"
       }
     ],
     "Business": [
       {
-        "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
-        "summary": "The exchange froze transactions following the incident which has been linked to a North Korean group.",
-        "link": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+        "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+        "summary": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far.",
+        "link": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
-        "published": "2026-11-02T07:42:33+00:00"
+        "published": "2026-11-03T07:53:03+00:00"
       },
       {
-        "title": "OECD PISA 2025 rankings: Check where the US, China, India, UK, and Russia stand",
-        "summary": "While East Asian nations continue to set the benchmark, other major powers are navigating systemic shifts and pandemic-era learning losses.",
-        "link": "https://www.livemint.com/news/world/oecd-pisa-2025-rankings-check-where-the-us-china-india-uk-and-russia-stand-11793603563132.html",
-        "source": "Livemint",
-        "published": "2026-11-02T07:37:18+00:00"
+        "title": "From scooters to shampoo - the people saving hundreds from dumpster diving",
+        "summary": "The men and women who rummage through commercial bins to take clothes and other items.",
+        "link": "https://www.bbc.co.uk/news/articles/cm86zdp2ygqno?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "published": "2026-11-03T07:50:14+00:00"
       },
       {
-        "title": "Couple donates Rs 50, evades Rs 5.3 crore income tax",
+        "title": "Modi inaugurates Pune Metro's 23-km Pink Line",
         "summary": "",
-        "link": "https://economictimes.indiatimes.com/news/new-updates/delhi-techie-couple-donates-rs-50-to-political-party-claims-rs-40-lakh-itr-deduction-evades-rs-5-3-crore-income-tax-faces-it-probe/articleshow/135448810.cms",
+        "link": "https://economictimes.indiatimes.com/industry/transportation/railways/pm-narendra-modi-inaugurates-pune-metros-23-km-pink-line-lays-foundation-for-four-new-corridors/articleshow/135487914.cms",
         "source": "Economic Times",
-        "published": "2026-11-02T07:13:21+00:00"
+        "published": "2026-11-03T07:44:11+00:00"
       },
       {
-        "title": "Bajaj Auto's October sales grow 14%",
+        "title": "Bajaj Finserv Q2 profit jumps 23% YoY to Rs 2,758 cr",
         "summary": "",
-        "link": "https://economictimes.indiatimes.com/industry/auto/two-wheelers-three-wheelers/bajaj-autos-october-sales-grow-14/articleshow/135449535.cms",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/bajaj-finserv-q2-results-net-profit-jumps-23-yoy-to-rs-2758-crore-shares-rise-2/articleshow/135487692.cms",
         "source": "Economic Times",
-        "published": "2026-11-02T07:13:09+00:00"
+        "published": "2026-11-03T07:37:38+00:00"
       },
       {
-        "title": "IDBI issues customer advisory for two-day strike",
+        "title": "Indian Navy rescues 20 Iranian crew members of fishing vessel Azini hijacked by Somali pirates after 48-hour operation",
+        "summary": "India’s Navy rescued 20 Iranian crew members from the hijacked fishing vessel Azini off Somalia, using surveillance and a coordinated tactical operation supported by the Air Force. Iran praised the rescue, which comes…",
+        "link": "https://www.livemint.com/news/india/indian-navy-rescues-20-iranian-crew-members-of-fishing-vessel-azini-hijacked-by-somali-pirates-after-48-hour-operation-11793690593458.html",
+        "source": "Livemint",
+        "published": "2026-11-03T07:33:55+00:00"
+      },
+      {
+        "title": "Indian auto giants' real test has just begun",
         "summary": "",
-        "link": "https://economictimes.indiatimes.com/wealth/save/bank-strike-today-idbi-strike-on-november-2-and-3-2026-lender-advises-customers-to-use-digital-channels-removes-fee-on-non-idbi-atm-withdrawals/articleshow/135448963.cms",
+        "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/maruti-mahindra-tata-hyundai-indian-autos-real-test-lies-ahead-after-firecracker-start-to-festive-season-diwali/articleshow/135485968.cms",
         "source": "Economic Times",
-        "published": "2026-11-02T06:53:39+00:00"
+        "published": "2026-11-03T07:28:03+00:00"
       },
       {
-        "title": "Cyclone Murasu impact: Over 20 flights cancelled at Andhra Pradesh, Chennai airports; IndiGo issues advisory",
-        "summary": "As many as 10 IndiGo flights scheduled to operate from Gannavaram Airport, Vijayawada, Andhra Pradesh, were cancelled, Airport Authorities said.",
-        "link": "https://www.livemint.com/news/india/cyclone-murasu-impact-flights-cancelled-at-andhra-pradesh-chennai-airports-indigo-issues-advisory-11793600896337.html",
+        "title": "NCLAT sends notice to Boeing as Jet Airways seeks ₹872-crore refund for undelivered aircraft",
+        "summary": "The bankrupt airline's liquidator has challenged an NCLT order dismissing its claim, arguing Boeing must return advance payments made for planes that were never delivered rather than adjusting them against dues.",
+        "link": "https://www.livemint.com/news/jet-airways-liquidation-boeing-rs-872-crore-refund-nclat-11793685494158.html",
         "source": "Livemint",
-        "published": "2026-11-02T06:53:07+00:00"
+        "published": "2026-11-03T07:27:36+00:00"
       },
       {
-        "title": "In a first, Indians can book Burj Khalifa, Singapore's Universal Studios tickets via UPI | Here's how to book",
-        "summary": "Indian tourists can now use UPI to book tickets online for Dubai’s Burj Khalifa and Singapore attractions, including Universal Studios, Singapore Oceanarium and Adventure Cove Waterpark. Here’s how to book through the…",
-        "link": "https://www.livemint.com/news/india/in-a-first-indians-can-book-burj-khalifa-singapores-universal-studios-tickets-via-upi-heres-how-to-book-11793601174067.html",
-        "source": "Livemint",
-        "published": "2026-11-02T06:44:55+00:00"
-      },
-      {
-        "title": "Govt seals ₹53,866-cr deal for 8 Navy corvettes",
+        "title": "Hackers target what the world cant do without: Food",
         "summary": "",
-        "link": "https://economictimes.indiatimes.com/news/defence/india-inks-inks-rs-53866-50-crore-contracts-with-grse-gsl-for-8-next-generation-corvettes-for-indian-navy/articleshow/135448547.cms",
+        "link": "https://economictimes.indiatimes.com/news/international/world-news/europe-fridge-supermarkets-hackers-are-targeting-something-the-world-cannot-do-without-food/articleshow/135485555.cms",
         "source": "Economic Times",
-        "published": "2026-11-02T06:34:29+00:00"
+        "published": "2026-11-03T07:20:33+00:00"
       },
       {
-        "title": "From 'crackdown' to 'clashes': How Western media described CJP's protest in India and student demonstration in France",
-        "summary": "Two student-led movements in India and France have drawn global attention, but how have Western outlets told their stories? From headlines to the voices they highlight, a closer look at coverage raises questions about…",
-        "link": "https://www.livemint.com/news/india/from-crackdown-to-clashes-how-western-media-described-cjps-protest-in-india-and-student-demonstration-in-france-11793005013309.html",
+        "title": "Apple unsure when more foldable iPhones will be available after selling out",
+        "summary": "Apple’s foldable iPhone Duo was a hit with people willing to spend $2,000 on a new mobile.",
+        "link": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "published": "2026-11-03T07:03:03+00:00"
+      },
+      {
+        "title": "Indian national killed, two others injured after helicopters collide near Mount Everest base camp in Nepal: Watch video",
+        "summary": "A 47-year-old Indian tourist was killed and two others injured after two helicopters collided while attempting to land near Pheriche village, close to Everest base camp in Nepal.",
+        "link": "https://www.livemint.com/news/world/indian-national-killed-two-others-injured-after-helicopters-collide-near-mount-everest-base-camp-in-nepal-watch-video-11793687568876.html",
         "source": "Livemint",
-        "published": "2026-11-02T05:51:14+00:00"
+        "published": "2026-11-03T06:45:15+00:00"
       },
       {
-        "title": "‘Would defile sanctity’: Madras HC says Non-Hindus with religious markers should not be allowed entry in Agamic Temples",
-        "summary": "The Madras High Court ruled that non-Hindus may enter Tamil Nadu’s Agamic temples only if they respect the deity and follow temple customs. The bench said visitors need not convert to Hinduism, and directed authorities…",
-        "link": "https://www.livemint.com/news/india/would-defile-sanctity-madras-hc-says-non-hindus-with-religious-markers-should-not-be-allowed-entry-in-agamic-temples-11793597499499.html",
-        "source": "Livemint",
-        "published": "2026-11-02T05:48:24+00:00"
+        "title": "North Korea denies being behind record $6.3bn Binance hack",
+        "summary": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
+        "link": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "published": "2026-11-03T06:22:29+00:00"
       },
       {
-        "title": "Who is Lt Gen IS Rathore? IMA alumnus with rich operational, technical experience becomes 43rd MCEME Commandant",
-        "summary": "Lieutenant General (Lt) Gen IS Rathore succeeded Lieutenant General Neeraj Varshney, who was the 42nd Commandant of MCEME. Varshney was superannuated on October 31, 2026.",
-        "link": "https://www.livemint.com/news/india/who-is-lieutenant-general-is-rathore-ima-alumnus-with-rich-operational-technical-experience-43rd-mceme-commandant-11793596867206.html",
-        "source": "Livemint",
-        "published": "2026-11-02T05:44:52+00:00"
-      },
-      {
-        "title": "A near ₹500/share delight seen for Reliance post Q2",
+        "title": "India’s new tea crush comes with a $96m potential",
         "summary": "",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/reliance-industries-shares-rally-6-after-q2-results-heres-why-jefferies-others-analysts-see-up-to-47-upside/articleshow/135444361.cms",
+        "link": "https://economictimes.indiatimes.com/industry/services/retail/matcha-market-india-japanese-green-tea-trend-is-seeking-to-brew-a-96-million-flavour-in-indias-market/articleshow/135483982.cms",
         "source": "Economic Times",
-        "published": "2026-11-02T03:55:02+00:00"
+        "published": "2026-11-03T06:15:09+00:00"
       }
     ],
     "Technology": [
+      {
+        "title": "Yvonne Bajela is bringing $17M in fresh capital to Europe’s startup scene",
+        "summary": "Evertrue Capital announces $17M debut fund to back early stage AI and fintech.",
+        "link": "https://techcrunch.com/2026/11/03/yvonne-bajela-is-bringing-17m-in-fresh-capital-to-europes-startup-scene/",
+        "source": "TechCrunch",
+        "published": "2026-11-03T08:01:00+00:00"
+      },
+      {
+        "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+        "summary": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.",
+        "link": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+        "source": "TechCrunch",
+        "published": "2026-11-03T07:20:00+00:00"
+      },
+      {
+        "title": "Apple unsure when more foldable iPhones will be available after selling out",
+        "summary": "Apple’s foldable iPhone Duo was a hit with people willing to spend $2,000 on a new mobile.",
+        "link": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Technology",
+        "published": "2026-11-03T07:03:03+00:00"
+      },
+      {
+        "title": "North Korea denies being behind record $6.3bn Binance hack",
+        "summary": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
+        "link": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Technology",
+        "published": "2026-11-03T06:22:29+00:00"
+      },
+      {
+        "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+        "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
+        "link": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+        "source": "TechCrunch",
+        "published": "2026-11-03T03:30:00+00:00"
+      },
+      {
+        "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+        "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+        "link": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+        "source": "TechCrunch",
+        "published": "2026-11-03T01:49:52+00:00"
+      },
+      {
+        "title": "Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them",
+        "summary": "A Kyiv startup’s pocket-sized, 10-ounce receiver lets Ukrainian troops watch the video feeds of Russian drones, though Russian moves toward digital video and AI-guided drones that emit no signals could make the victory…",
+        "link": "https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/",
+        "source": "TechCrunch",
+        "published": "2026-11-03T01:12:55+00:00"
+      },
+      {
+        "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+        "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast,…",
+        "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+        "source": "TechCrunch",
+        "published": "2026-11-03T00:35:52+00:00"
+      },
+      {
+        "title": "If hackers can take control of a supermarket freezer, how vulnerable is other tech?",
+        "summary": "Dozens of shops across European countries have been hit by a cyber-attack affecting their fridges.",
+        "link": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Technology",
+        "published": "2026-11-02T18:25:01+00:00"
+      },
       {
         "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
         "summary": "The exchange froze transactions following the incident which has been linked to a North Korean group.",
         "link": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Technology",
         "published": "2026-11-02T07:42:33+00:00"
-      },
-      {
-        "title": "Borrowed reading: stories from our extended colleagues",
-        "summary": "Five stories worth your time from our extended colleagues at CIO, Computerworld, Macworld, and PCWorld.",
-        "link": "https://techcrunch.com/2026/11/01/borrowed-reading-stories-from-our-extended-colleagues/",
-        "source": "TechCrunch",
-        "published": "2026-11-02T04:23:48+00:00"
-      },
-      {
-        "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-        "summary": "Data centers are deeply unpopular. But what if we called them something else?",
-        "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
-        "source": "TechCrunch",
-        "published": "2026-11-01T21:55:23+00:00"
-      },
-      {
-        "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
-        "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
-        "link": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
-        "source": "TechCrunch",
-        "published": "2026-11-01T20:57:58+00:00"
-      },
-      {
-        "title": "TechCrunch Mobility: A new, bigger AV boom is here",
-        "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-        "link": "https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/",
-        "source": "TechCrunch",
-        "published": "2026-11-01T17:04:00+00:00"
-      },
-      {
-        "title": "Binance resumes withdrawals following $6.3 billion breach",
-        "summary": "The cryptocurrency exchange said it's now covered 95% of the stolen assets.",
-        "link": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/",
-        "source": "TechCrunch",
-        "published": "2026-11-01T16:20:10+00:00"
-      },
-      {
-        "title": "Pixel 11 Pro Fold: Sturdy rectangle in a wide wide world",
-        "summary": "Google made a sturdy phone, but there is increasing competition in the foldable world.",
-        "link": "https://techcrunch.com/2026/11/01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world/",
-        "source": "TechCrunch",
-        "published": "2026-11-01T15:00:00+00:00"
       },
       {
         "title": "These firms you've never heard of are feeding fears the AI bubble could burst",
@@ -322,113 +343,92 @@
         "link": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Technology",
         "published": "2026-10-31T02:12:19+00:00"
-      },
-      {
-        "title": "US tech stocks see sharp falls as AI spending nears $1tn",
-        "summary": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
-        "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Technology",
-        "published": "2026-10-30T20:34:46+00:00"
-      },
-      {
-        "title": "Google value plunges by $500bn as its own AI search hits ad sales",
-        "summary": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI own search summaries were affecting ad revenue.",
-        "link": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Technology",
-        "published": "2026-10-30T12:04:02+00:00"
-      },
-      {
-        "title": "Who could be behind the Binance hack and what we know so far",
-        "summary": "Binance has been hit by what could be the biggest crypto hack ever - here's what we know so far",
-        "link": "https://www.bbc.co.uk/news/articles/cm5yn8eqg3npo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Technology",
-        "published": "2026-10-30T11:57:33+00:00"
       }
     ],
     "Sports": [
       {
-        "title": "Lower-order runs put New Zealand A in front despite Siraj and Mukesh hauls",
-        "summary": "Yashasvi Jaiswal and B Sai Sudharsan batted out the 11 overs before close of play to reduce the deficit for India A to 46 runs",
-        "link": "https://www.cricinfo.com/ci/content/story/1561079.html?ex_cid=OTC-RSS",
-        "source": "ESPN Cricinfo",
-        "published": "2026-11-02T06:30:52+00:00"
-      },
-      {
-        "title": "Former 10-Time WWE Champion Reportedly Barred From TNA's Upcoming Canadian Shows Due To Past Legal Issues",
-        "summary": "Former WWE Champion Jeff Hardy faces another absence from TNA television.",
-        "link": "https://sports.ndtv.com/us/wwe/former-10-time-wwe-champion-reportedly-barred-from-tnas-upcoming-canadian-shows-due-to-past-legal-issues-12269780#publisher=newsstand",
-        "source": "NDTV Sports",
-        "published": "2026-11-02T06:10:11+00:00"
-      },
-      {
-        "title": "McDonald: Australia will 'reassess' Labuschagne selection and squad's 'age profile'",
-        "summary": "While Australia head coach conceded it would be difficult to talk up positives straight after a series defeat, he was adamant there had been development in the batting",
-        "link": "https://www.cricinfo.com/ci/content/story/1560991.html?ex_cid=OTC-RSS",
-        "source": "ESPN Cricinfo",
-        "published": "2026-11-02T06:06:58+00:00"
-      },
-      {
-        "title": "Ignored India Star Takes 5 Wickets In 2nd Unofficial Test But Team Concedes Lead To NZ A",
-        "summary": "File image of Mukesh Kumar",
-        "link": "https://sports.ndtv.com/new-zealand-vs-india-2026-27/ignored-india-star-takes-5-wickets-in-2nd-unofficial-test-but-team-concedes-lead-to-nz-a-12269665#publisher=newsstand",
-        "source": "NDTV Sports",
-        "published": "2026-11-02T06:00:28+00:00"
-      },
-      {
-        "title": "Team India Questioned As Shivam Dube Spends All 5 T20Is Against New Zealand On Bench",
-        "summary": "Shivam Dube benched for all 5 T20Is against New Zealand",
-        "link": "https://sports.ndtv.com/new-zealand-vs-india-2026-27/team-india-questioned-as-shivam-dube-spends-all-5-t20is-against-new-zealand-on-bench-12269583#publisher=newsstand",
-        "source": "NDTV Sports",
-        "published": "2026-11-02T05:59:30+00:00"
-      },
-      {
-        "title": "Jordynne Grace WWE Exit Rumors Addressed As New Report Reveals Her Actual Status After Months Away From TV",
-        "summary": "Jordynne Grace remains under WWE contract despite her lengthy absence.",
-        "link": "https://sports.ndtv.com/us/wwe/jordynne-grace-wwe-exit-rumors-addressed-as-new-report-reveals-her-actual-status-after-months-away-from-tv-12269611#publisher=newsstand",
-        "source": "NDTV Sports",
-        "published": "2026-11-02T05:49:00+00:00"
-      },
-      {
-        "title": "Scottie Scheffler and Meredith Scheffler’s Combined Net Worth in 2026: Inside the Golf Couple’s Wealth",
-        "summary": "Scottie Scheffler and Meredith Scheffler’s Combined Net Worth in 2026",
-        "link": "https://sports.ndtv.com/us/golf/scottie-scheffler-and-meredith-scheffler-s-combined-net-worth-in-2026-inside-the-golf-couple-s-wealth-12269617#publisher=newsstand",
-        "source": "NDTV Sports",
-        "published": "2026-11-02T05:48:56+00:00"
-      },
-      {
-        "title": "Gunther's 38-Match Winning Streak Could Be At Risk Ahead Of WWE Crown Jewel 2026",
-        "summary": "Gunther could face Finn Balor at WWE Crown Jewel 2026.",
-        "link": "https://sports.ndtv.com/us/wwe/gunthers-38-match-winning-streak-could-be-at-risk-ahead-of-wwe-crown-jewel-2026-12269649#publisher=newsstand",
-        "source": "NDTV Sports",
-        "published": "2026-11-02T05:48:52+00:00"
-      },
-      {
-        "title": "Sammy: 'Our spinners outbowled the Bangladesh spinners' in the Dhaka Test",
-        "summary": "\"The way they've shown maturity and responsibility, it's all progress,\" Daren Sammy says about the West Indies players' performance in the first Test in Dhaka",
-        "link": "https://www.cricinfo.com/ci/content/story/1561074.html?ex_cid=OTC-RSS",
-        "source": "ESPN Cricinfo",
-        "published": "2026-11-02T05:26:11+00:00"
-      },
-      {
-        "title": "How Antonelli 'blew everyone away' to make Formula 1 history",
-        "summary": "Kimi Antonelli seems destined for Formula 1 greatness after winning his first world title, writes Andrew Benson.",
-        "link": "https://www.bbc.co.uk/sport/formula1/articles/c6m2dj7ze9v2o?at_medium=RSS&at_campaign=rss",
+        "title": "Do Ferrari need rules of engagement? F1 Q&A",
+        "summary": "BBC F1 correspondent Andrew Benson answers your latest questions after the Mexico City Grand Prix.",
+        "link": "https://www.bbc.co.uk/sport/formula1/articles/c862y1en5vrzo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Sport",
-        "published": "2026-11-02T01:47:30+00:00"
+        "published": "2026-11-03T07:53:14+00:00"
       },
       {
-        "title": "Ravindra and Chapman ruled out of India ODIs",
-        "summary": "Seifert has now been included for the entire series while Nicholls and Foxcroft have been brought in for the first three ODIs and the last two games respectively",
-        "link": "https://www.cricinfo.com/ci/content/story/1561050.html?ex_cid=OTC-RSS",
-        "source": "ESPN Cricinfo",
-        "published": "2026-11-02T01:26:44+00:00"
+        "title": "Emery looks to show Villa can compete with elite",
+        "summary": "Aston Villa are looking to become the first English team to win at the Nou Camp in almost 20 years.",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c5ev3m9ddzgmo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "published": "2026-11-03T07:33:17+00:00"
       },
       {
-        "title": "Beardman set for ODI debut, Harper, Fraser-McGurk, Shaw in T20 squad",
-        "summary": "Cummins, Hazlewood, Starc rested from entire England ODI and T20I series, Ellis unavailable for ODIs, David not included in ODIs while Test batters are rested from T20Is",
-        "link": "https://www.cricinfo.com/ci/content/story/1561051.html?ex_cid=OTC-RSS",
+        "title": "PV Sindhu \"Shocked\" By Mid-Season Funding Cut, Sports Authority Clarifies: Sources",
+        "summary": "PV Sindhu was reportedly taken aback by SAI's decision not to release the funds on time.",
+        "link": "https://sports.ndtv.com/badminton/pv-sindhu-shocked-by-mid-season-funding-cut-sports-authority-clarifies-12274665#publisher=newsstand",
+        "source": "NDTV Sports",
+        "published": "2026-11-03T07:27:30+00:00"
+      },
+      {
+        "title": "India, New Zealand switch to World Cup prep at bouncy Eden Park",
+        "summary": "Four days after playing a high-scoring T20I at Eden Park, the two teams are back here for the ODIs, but the conditions could be a lot different",
+        "link": "https://www.cricinfo.com/ci/content/story/1561179.html?ex_cid=OTC-RSS",
         "source": "ESPN Cricinfo",
-        "published": "2026-11-02T01:13:09+00:00"
+        "published": "2026-11-03T07:26:05+00:00"
+      },
+      {
+        "title": "Ty Jerome Net Worth 2026: How Much Does The Memphis Grizzlies Guard Earn?",
+        "summary": "Ty Jerome in his Grizzlies jersey",
+        "link": "https://sports.ndtv.com/us/nba/ty-jerome-net-worth-2026-how-much-does-the-memphis-grizzlies-guard-earn-12275378#publisher=newsstand",
+        "source": "NDTV Sports",
+        "published": "2026-11-03T07:20:46+00:00"
+      },
+      {
+        "title": "Philadelphia 76ers Star Joel Embiid Breaks Silence On Team’s New Environment",
+        "summary": "Joel Embiid comments on team's new enviroment",
+        "link": "https://sports.ndtv.com/us/nba/philadelphia-76ers-star-joel-embiid-breaks-silence-on-team-s-new-environment-12275061#publisher=newsstand",
+        "source": "NDTV Sports",
+        "published": "2026-11-03T07:19:29+00:00"
+      },
+      {
+        "title": "Kai Cenat Accidentally Shares His TikTok Revenue During Stream With Viral Michael Jackson Impersonator",
+        "summary": "Kai Cenat gets an unexpected look at his TikTok earnings while streaming with the viral MJ impersonator.",
+        "link": "https://sports.ndtv.com/us/us-streamers/kai-cenat-accidentally-shares-his-tiktok-revenue-during-stream-with-viral-michael-jackson-impersonator-12275290#publisher=newsstand",
+        "source": "NDTV Sports",
+        "published": "2026-11-03T07:18:34+00:00"
+      },
+      {
+        "title": "Bill Simmons Compares Ty Jerome To Steve Nash After His 40-Point Night In A Memphis Grizzlies Loss",
+        "summary": "Ty Jerome in his Grizzlies jersey",
+        "link": "https://sports.ndtv.com/us/nba/bill-simmons-compares-ty-jerome-to-steve-nash-after-his-40-point-night-in-a-memphis-grizzlies-loss-12275241#publisher=newsstand",
+        "source": "NDTV Sports",
+        "published": "2026-11-03T07:18:03+00:00"
+      },
+      {
+        "title": "Who Is Mary Fowler? Everything To Know About Nathan Cleary’s Girlfriend, Career And Relationship",
+        "summary": "Who Is Mary Fowler? All About Her Career And Relationship",
+        "link": "https://sports.ndtv.com/us/fifa/who-is-mary-fowler-everything-to-know-about-nathan-cleary-s-girlfriend-career-and-relationship-12275238#publisher=newsstand",
+        "source": "NDTV Sports",
+        "published": "2026-11-03T07:17:21+00:00"
+      },
+      {
+        "title": "Ireland's Rebecca Stokell admits to breaching ICC's anti-doping code",
+        "summary": "The breach involved use of prescription medication and she accepted voluntary suspension pending disciplinary proceedings",
+        "link": "https://www.cricinfo.com/ci/content/story/1561169.html?ex_cid=OTC-RSS",
+        "source": "ESPN Cricinfo",
+        "published": "2026-11-03T06:47:40+00:00"
+      },
+      {
+        "title": "The referee who became a role model after bouncing back from Diaz error",
+        "summary": "Referee Darren England shares how he has moved on from the VAR error that stalled his career to the FA Cup final and the Champions League.",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cdj4z0lwjzlo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "published": "2026-11-03T06:41:31+00:00"
+      },
+      {
+        "title": "Gill would have preferred ODIs before T20Is on New Zealand tour",
+        "summary": "India captain Shubman Gill says playing the ODIs at the start would have given them the chance to play a full-strength squad to prepare for the World Cup",
+        "link": "https://www.cricinfo.com/ci/content/story/1561177.html?ex_cid=OTC-RSS",
+        "source": "ESPN Cricinfo",
+        "published": "2026-11-03T06:10:22+00:00"
       }
     ]
   }
